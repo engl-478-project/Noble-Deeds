@@ -1,0 +1,722 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xml:id="noble-deeds.1836.001.xml" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Noble Deeds of Woman.</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <date>2019</date>
+                <availability>
+                    <p>This file is freely distributed and licensed under a Creative Commons
+                        Attribution-NonCommercial-ShareAlike 3.0 Unported License</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">This file was produced for English 478/878: Digital Archives
+                    and Editions, Department of English, University of Nebraska-Lincoln, Spring
+                    2019.</note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title level="a">Noble Deeds of Woman.</title>
+                    <publisher>Carey, Lea, and Blanchard.</publisher>
+                    <date when="1836">1836</date>
+                    <biblScope unit="volume">1</biblScope>
+                    <biblScope unit="chapter">Filial Affection</biblScope>
+                    <biblScope unit="page">27-52</biblScope>
+                    <pubPlace>Philadelphia</pubPlace>
+                    <note>Transcribed from Rare Books, Archives &amp; Special Collections,
+                        University Libraries, University of Nebraska-Lincoln. </note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+
+        <profileDesc>
+            <particDesc>
+                <listPerson type="referenced">
+                    <person/>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2019-03-13"><name>Ashley Morrison</name> added settlement tag</change>
+            <change when="2019-02-28"><name>Ashley Morrison</name> proof-read document</change>
+            <change when="2019-02-27"><name>Ashley Morrison</name> create TEI/XML document</change>
+            <change when="2019-02-26"><name>Paige McCoy</name> create OCR of Filial Affection
+                chapter and proof-read OCR</change>
+            <change when="2019-02-26"><name>Phillip Howells</name> cropped &amp; editted
+                images</change>
+            <change when="2019-02-12"><name>Paige McCoy</name>, <name>Ashley Morrison</name>, &amp;
+                    <name>Phillip Howells</name> Created TEI Header</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="chapter">
+                <pb facs="noble_028.jpg" n="27"/>
+                <fw>39</fw>
+                <head>F<hi rend="smallCaps">ilial</hi> A<hi rend="smallCaps">ffection</hi>.</head>
+                <lb type="horBar"/>
+                <p>ROMAN DAUGHTER.—XANTIPPE.—MARGARET ROPER.— MRS. MORICE.—AMERICAN DAUGHTER.—
+                    ELIZABETH CAZOTTE.—MADEMOISELLE DE SOMBREUIL.—MADAME DE BOIS
+                    BERANGER.—MADEMOISELLE DELLEGLACE.—INFANT VICTIM TO FILIAL AFFECTION.—THE CREOLE
+                    AND HIS DAUGHTER.—MADAME DE ROCHEFOUCAULT. </p>
+                <lb type="horBar"/>
+                <div2>
+                    <quote>"Heaven hath timely tried their youth, Their faith, their patience, and
+                        their truth, And sent them here, through hard assays, With a crown of
+                        deathless praise." <persName>M<hi rend="smallCaps">ilton</hi>.</persName>
+                    </quote>
+                    <p>N<hi rend="smallCaps">ature</hi> has implanted in every human breast a
+                        disposition to love and revere the authors of our being, on whom, from our
+                        earliest infancy, we are dependant for every comfort, convenience, and
+                        pleasure in life: every heart which is not wholly destitute of feeling, must
+                        beat with the warmest emotions of gratitude towards them, and be alive to
+                        the tenderness of filial piety. Thus we find that in all ages of the world,
+                        those who have become truly great, whatever may have been their country,
+                        whether they have been the natives of enlightened <settlement
+                            type="continent">Europe</settlement>, or of a <settlement
+                            type="continent">land</settlement> of unpolished savages, have always
+                        been distinguished, either in their <pb facs="noble_029.jpg" n="28"/>
+                        <fw>28 FILIAL AFFECTION.</fw> infancy or at a more advanced period of life,
+                        by some trait of this affection, which appears to form a basis for all the
+                        other virtues.</p>
+                </div2>
+                <lb type="horBar"/>
+                <div2>
+                    <quote> "Can such things be, And overcome us like a summer's cloud, Without our
+                        special wonder?" <persName>S<hi rend="smallCaps">hakespeare</hi>.</persName>
+                    </quote>
+                    <p>T<hi rend="smallCaps">he</hi> Roman history furnishes us with two remarkable
+                        examples of filial piety. A Roman lady, of illustrious birth, had for some
+                        cause been condemned to be strangled, and was sent to prison in order to be
+                        put to death. The gaoler, who had received orders to strangle her, was
+                        touched with compassion for her beauty and misfortunes, and not being able
+                        to resolve to kill her, determined to let her die of hunger. He however
+                        consented to allow her daughter to visit her in the prison, taking care that
+                        she brought her mother no food. Many days elapsed, during which the
+                        daughter's visits were very frequent: at length the gaoler became surprised
+                        that his prisoner could exist so long without sustenance. His suspicions
+                        immediately rested on the daughter, whom he now determined to watch still
+                        more closely: to his utmost astonishment he found that she nourished her
+                        mother with her own milk. His amazement at this pious and ingenious
+                        invention caused him to inform the triumvir of the circumstance, who
+                        immediately acquainted the praetor with it. The latter, <pb
+                            facs="noble_030.jpg" n="29"/>
+                        <fw>FILIAL AFFECTION. 29</fw> considering it worthy the public attention,
+                        related it in an assembly of the people. The result was the pardon of the
+                        criminal; and, at the same time, a decree was passed, that for the future
+                        both mother and daughter should be supported at the public expense. The
+                        Romans also raised a Temple upon the spot, and dedicated it to Filial
+                        Piety.</p>
+                </div2>
+                <lb type="horBar"/>
+                <div2>
+                    <quote> "My child and father vital nurture crave, Parental, filial, fondness
+                        both would save; But if a nursling only one can live, I choose to save the
+                        life I cannot give." </quote>
+
+                    <p>X<hi rend="smallCaps">antippe</hi>, another Roman lady, supported her aged
+                        father Cimonus in a similar manner, in order to preserve his life while in
+                        prison. This last circumstance was called the "Roman Charity." Both these
+                        pious actions appeared so extraordinary to that people, that they could only
+                        account for them by supposing that filial affection was the first law of
+                        nature.</p>
+                </div2>
+                <lb type="horBar"/>
+                <div2>
+                    <quote> "'Twas the first time I mourned the dead: It was my heaviest loss, my
+                        worst,— My father!—and was thine the first?" <persName>L. E.
+                        L.</persName></quote>
+                    <p>M<hi rend="smallCaps">odern</hi> history commemorates the name of Margaret
+                        Roper, the daughter of Sir Thomas More, as another illustrious example of
+                        this affection. When Sir Thomas, who had refused to take the oath of
+                        supremacy, was cast into <pb facs="noble_031.jpg" n="30"/>
+                        <fw>30 FILIAL AFFECTION. </fw> prison, his daughter, who was overwhelmed
+                        with grief, was, through incessant importunity, permitted to visit him.
+                        Admitted at length to his prison, she endeavoured, by every argument,
+                        expostulation, and entreaty, to induce him to relent from his purpose. But
+                        her eloquence, her tenderness, and her tears, were alike ineffectual:
+                        constant to the last, the principles of this great and unfortunate man were
+                        not to be shaken. Margaret corresponded with her father during the whole of
+                        his imprisonment, and when deprived of pen and ink, Sir Thomas contrived to
+                        write to her by means of a coal.</p>
+                    <p>When sentence had been passed upon him, and he was returning towards the
+                        Tower, Margaret rushed through the populace and the guards, and, without
+                        speaking, threw her arms round her father's neck, clinging closely to him in
+                        the stupor of despair. Even the guards melted into compassion at this
+                        affecting scene. The fortitude of the noble prisoner seemed for a moment to
+                        be shaken with the sight of his daughter's sorrow. Tenderly embracing her,
+                        he withdrew himself from her arms. Scarcely however had he proceeded a few
+                        paces further, when she again rushed towards him, and, in a paroxysm of
+                        sorrow more eloquent than words, threw herself on his bosom. Tears flowed
+                        while he down the venerable cheeks of Sir Thomas while he gazed upon her
+                        with tender earnestness: having entreated her prayers for him, he bade her
+                        affectionately farewell.</p>
+                    <p>Margaret extended her cares to the lifeless <pb facs="noble_032.jpg" n="31"/>
+                        <fw>FILIAL AFFECTION. 31</fw> remains of this beloved parent. Through her
+                        interest and exertions, his body was, after his execution, interred in the
+                        Chapel of St. Peter's <hi rend="italics">ad vincula</hi>, within the
+                        precincts of the Tower: it was afterwards removed, according to the
+                        appointment which had been made by Sir Thomas during his lifetime, to the
+                        chancel of the church of Chelsea. His head, in conformity with the sentence,
+                        having remained fourteen days exposed upon London Bridge, would have been
+                        cast into the Thames, had it not been purchased by his daughter. Inhumanly
+                        summoned in consequence before the council, Margaret firmly acknowledged and
+                        justified her conduct. Such intrepidity could not escape King Henry's
+                        vengeance: she was cast into prison, whence, after some vain attempts to
+                        subdue her courage by menaces, she was permitted to escape, and join her
+                        husband and family. At her death, which took place nine years after these
+                        events, the head of her unfortunate parent was interred with her in her
+                        arms, according to some historians; or, as others say, deposited in a leaden
+                        box, and placed upon her coffin.</p>
+                    <lb type="horBar"/>
+                    <quote> "O glorious trial of exceeding, love, Illustrious evidence, example
+                        high!" <persName>M<hi rend="smallCaps">ilton</hi>.</persName></quote>
+
+                    <p>T<hi rend="smallCaps">he</hi> exile of the Bishop of Rochester gave occasion
+                        to a very interesting exercise of paternal tenderness on the one part, and
+                        of filial duty and affection on the other. What mostly <pb
+                            facs="noble_033.jpg" n="32"/>
+                        <fw>32 FILIAL AFFECTION.</fw> embittered the banishment of the Bishop, was
+                        regret at leaving behind him his daughter, Mrs. Morice, in an infirm state
+                        of health. A mutual longing to see one another took fast hold of the father
+                        and daughter; and the lady, though very ill, performed, with great
+                        difficulty and pain, a journey and voyage from <settlement type="city"
+                            >Westminster</settlement> to <settlement type="city"
+                            >Bourdeaux</settlement>, and <settlement type="city"
+                            >Toulouse</settlement>, where Dr. Atterbury resided. Mr. J. Evans
+                        accompanied Mr. and Mrs. Morice on their voyage from <settlement type="town"
+                            >Dover</settlement> to <settlement type="city">Bourdeaux</settlement>,
+                        and from thence to <settlement type="city">Toulouse</settlement>; and being
+                        present at Mrs. Morice’s death, in a letter to his brother, dated
+                        Montpelier, 30th November, 1729, gives the following very pathetic narrative
+                        of that event.</p>
+                    <q>"On Sunday, the 6th instant, N.S. in the evening, we reached <settlement
+                            type="village">Blagnac</settlement>, a village not above half a league
+                        by land from <settlement type="city">Toulouse</settlement>; but by water (by
+                        reason of a very strong current, and the windings of the river,) it takes
+                        three hours to get up to the town. So it was resolved, rather than expose
+                        Mrs. Morice too much to the fatigue, (of which she had undergone an infinite
+                        deal, and bore it with incredible patience,) or keep her late on the water,
+                        to rest at <settlement type="village">Blagnac</settlement> that night, where
+                        she was put to bed in the same weak condition she usually had been, but not
+                        seemingly worse. About midnight, the women came to Mr. Morice and me, and
+                        told us, they thought they saw her changed. We rose and came to her chamber,
+                        when we found her so very ill, that we thought fit to call up the boatmen,
+                        and order them to prepare the boat to depart immediately, fearing <pb
+                            facs="noble_034.jpg" n="33"/>
+                        <fw>FILIAL AFFECTION. 33 </fw> much, from the change we saw, that near she
+                        was to it, she would scarcely live to reach <settlement type="city"
+                            >Toulouse</settlement>, which we all earnestly desired to do, since no
+                        physician, or other help, could be had in the poor place where we then were.
+                        She herself pressed this matter; and we well knew that all her desires and
+                        wishes were constantly bent upon seeing her father, whom she hoped to find
+                        at <settlement type="city">Toulouse</settlement>. She was taken out of bed
+                        at her own desire, and carried to the boat with great difficulty, not being
+                        able to sit in the chair which Mr. Morice had brought from <settlement
+                            type="city">Bourdeaux</settlement>, with two chairmen, purely for the
+                        carrying her in and out of the boat more at ease; and so we parted thence
+                        about two o'clock in the morning, sending two servants, by land, to procure
+                        a litter to meet her at the by landing-place. About five we arrived there;
+                        and soon after six the litter came, which carried Mrs. Morice to the house
+                        in <settlement type="city">Toulouse</settlement>, where her father was
+                        expecting her arrival, and not knowing, till then, how near or how far off
+                        she was, though he had despatched a man and horse to get intelligence of us,
+                        who happened to miss us. When the servants, who had been sent for the
+                        litter, returned, she was informed of the Bishop's being at <settlement
+                            type="city">Toulouse</settlement>, and seemed to take new spirits upon
+                        it, which, no doubt, were of great use to enable her to bear going in the
+                        litter, which, otherwise, she could scarce have done even for so short a
+                        way. After she had been put into bed (where, as I told you, she never slept
+                        till she slept her last,) and had a little recovered the fatigue she
+                        underwent in <fw>VOL. I. D </fw>
+                        <pb facs="noble_35.jpg" n="34"/>
+                        <fw>34 FILIAL AFFECTION.</fw> the conveyance from the boat, which was about
+                        a mile, her father, whom she immediately inquired after, came into her room,
+                        and was startled to see her in so very low a condition. After mutual
+                        expressions of concern and tenderness, she particularly acknowledged the
+                        great blessing that was granted her, of meeting her dear papa; and exerted
+                        all the little life that was in her, in grasping his hands with her utmost
+                        force, as she often did; and told him, 'that meeting was the chief thing she
+                        bad ardently desired.'</q>
+                    <q>"The bishop some time after left her chamber, that she might compose herself,
+                        and that he might give vent to the just grief he was filled with, to see his
+                        beloved child in a manner expiring. But we found she took no rest: so he
+                        soon returned, and then said prayers by her, and proposed to her receiving
+                        the holy sacrament the next morning, when he hoped she might have been a
+                        little refreshed, in order to it: she embraced the offer with much
+                        satisfaction. He then asked her, for fear of any accident, if she was not
+                        desirous to have the absolution of the church? She declared she was, and
+                        begged to have it. After some little private discourse with her, he gave it
+                        to her, in the form prescribed in 'The Visitation of the Sick,' and she
+                        expressed great comfort of the fort upon receiving it. A physician had been
+                        sent for immediately upon her arrival. When he came, he gave little hopes,
+                        but said all depended upon her manner of passing that night.</q>
+                    <q>"She once mentioned Dr. Wyntle, who you <pb facs="noble_036.jpg" n="35"/>
+                        <fw>FILIAL AFFECTION. 35</fw> know had been her physician; and who had so
+                        neglected her before she left <settlement type="country"
+                            >England</settlement>, as never to come near her, according to his
+                        appointment, nor give the least direction for her management in the long
+                        voyage she was about to make. She said to the Bishop 'Dear papa, has Mr.
+                        Morice told you how Dr. Wyntle has served us?' who answered, 'Yes, my dear,
+                        I know it all; but do not let that trouble you now.' She replied, 'O no,
+                        papa, I do not trouble myself about that I have other things to think of at
+                        this time; but I did not know whether Mr. Morice had told you.'</q>
+                    <q>"Hoping by this time she might incline to take a little rest, her father and
+                        husband retired, it being between eleven and twelve at night; but about two
+                        in the morning she sent one of her women to me, (who lay on the same floor,
+                        in the next room to her,) to desire to speak to me; and when I came, she
+                        said, not seemingly with much pain, but with such a shortness of breath that
+                        she was forced to breathe after every two or three words, 'Mr. Evans, I have
+                        been waking—these three hours—and would fain—have the sacrament.' I wondered
+                        at her sending for me on that account, her husband and father being both
+                        near at hand; but I found afterwards it was her unwillingness, by a direct
+                        message from herself, too much to alarm either of them. However, being then
+                        not apprized of her reason for it, I doubted a little of her being in her
+                        right senses, and said, 'Madam, would you <hi rend="italics">now</hi>
+                        receive the sacrament?' She said, 'Yes, I would, if possible—presently.' Of
+                            <pb facs="noble_037.jpg" n="36"/>
+                        <fw>36 FILIAL AFFECTION.</fw> which the Bishop being immediately advised, as
+                        was Mr. Morice, and every thing being prepared, he came, and administered to
+                        her, and to all present, the sacrament; and afterwards, at her desire,
+                        continued repeating the prayers of the church, till she began to draw very
+                        near her end, and then he used and continued the recommendatory prayer only;
+                        she, all the while, holding her hands in a posture of prayer, and sometimes
+                        joining in a low voice with him.</q>
+
+                    <q>"After this, her father being gone from the bed-side, she called for him, (as
+                        she had frequently done,) and again said to him, 'Dear papa—what a blessing
+                        is it—that afer such a long—troublesome—journey—we have the comfort—of this
+                        meeting!' And, indeed, when I reflect upon it, and consider the weak
+                        condition she was in upon the road, the many accidents that happened to
+                        retard the voyage, and the last effort she made, when she was at the worst,
+                        think that that meeting seemed granted by heaven to her continued fervent
+                        prayers for it.</q>
+                    <q>"About this time she called for her husband, (who was always in near
+                        attendance upon her,) and said, 'Dear Mr. Morice—take care of the children—I
+                        know you will.—Remember me—to the Duchess of Buckingham.'</q>
+                    <q>"She also, in a proper place, recommended her servants to Mr. Morice.</q>
+                    <p>"She now found her feet cold, and ordered them to be rubbed, at the same time
+                        calling for her broth; but when it came, not being able to <pb
+                            facs="noble_038.jpg" n="37"/>
+                        <fw>FILIAL AFFECTION. 37</fw> swallow it, she turned herself on her left
+                        side, and rested her head on her left hand, which she doubled, extending her
+                        right hand and arm over the bed-clothes; and in this posture continued
+                        drawing her breath shorter and shorter, but with the least emotion that
+                        possibly could be, till she at last expired, a quarter before four o'clock,
+                        on Tuesday morning, 8th November, NS.</p>
+                    <p>The following epitaph, written by Pope, on this striking example of
+                        affection, is too interesting to be omitted here.</p>
+                </div2>
+                <div2>
+                    <p>IS ATTERBURY, BISHOP OF ROCHESTER, —Who died in exile, at Paris, 1732, (his
+                        only daughter having expired in his arms, immediately after she arrived in
+                        France to see him.)</p>
+                    <fw><hi rend="italics">Dialogue.</hi></fw>
+                    <p><name type="pronoun">SHE.</name> Yes we have lived—one pang and then we part
+                        ! May heaven, dear Father ! now have all thy heart ; Yet, ah ! how once we
+                        lov'd, remember still, Till you are dust like me.</p>
+                    <p><name type="pronoun">HE.</name> Dear shade ! I will Then mix this dust with
+                        thine-0 spotless ghost ! 0 more than fortune, friends, or country lost! Is
+                        there on earth one care, one wish beside, Yes—save my country,-heaven,— He
+                        said and dy'd.</p>
+                </div2>
+                <lb type="horBar"/>
+                <fw>D2</fw>
+                <pb facs="noble_039.jpg" n="38"/>
+                <fw>38 FILIAL AFFECTION.</fw>
+                <div2>
+                    <quote>"'Tis thine on ev'ry heart to grave thy praise, A monument which Worth
+                        alone can raise.” <persName>B<hi rend="smallCaps"
+                        >roome</hi>.</persName></quote>
+
+                    <p>F<hi rend="smallCaps">rom</hi> the preceding illustrious sample of the power
+                        of filial affection, we turn to one not less affecting, though displayed in
+                        a humbler path of life. In the severe winter of 1783, Which was a time of
+                        general distress at <settlement type="state">New York</settlement>, an aged
+                        couple found themselves reduced to their last stick of wood. They had been
+                        supported by the industry of a daughter who lived with them, but who now
+                        found herself unable to procure them either fuel or provisions. Overcome
+                        with grief at their destitute situation, she yet devised an expedient by
+                        which they might be rescued from the emergency. She had accidentally heard
+                        that a dentist had advertised or to give three guineas for every only sound
+                        fore-tooth, provided only that he was allowed to extract it himself: the
+                        generous girl, on remembering this, came to the resolution of disposing of
+                        all her foreteeth, and went to the dentist for that purpose. On her arrival,
+                        she made known the circumstances which had induced her to make so uncommon a
+                        sacrifice.</p>
+                    <p>Affected even to tears by the girl’s filial affection, the dentist refused to
+                        avail himself of the offer, at the same time presenting her with ten
+                        guineas, with which, her heart overflowing with joy and gratitude, she
+                        hastened home to relieve her parents.</p>
+                </div2>
+                <lb type="horBar"/>
+                <pb facs="noble_040.jpg" n="39"/>
+                <fw>FILIAL AFFECTION. 39</fw>
+                <div2>
+                    <quote>"Stay, go, do what you will, the like do I; For live I will not, if my
+                        father die." <persName>S<hi rend="smallCaps"
+                        >hakespeare</hi>.</persName></quote>
+
+                    <p>D<hi rend="smallCaps">uring</hi> the French Revolution, which endangered the
+                        lives of so many parents, filial affection, rising superior to all selfish
+                        considerations of safety, might be seen in many interesting forms. Daughters
+                        then subjected themselves to every indignity, in their endeavours to
+                        alleviate the sufferings of those who were dearer to them than life itself:
+                        kneeling at the feet of their inhuman persecutors, they besought some
+                        mitigation at least of their parents' sentence, and, if unsuccessful in
+                        these efforts, shared their prison, and voluntarily partook their unhappy
+                        fate.</p>
+
+                    <p>Mademoiselle Cazotte, was an only child, and, at the commencement of the
+                        Revolution, her father was seventy-two years of age. Closely connected with
+                        La Porte (the intendant of the civil list), the fate of Cazotte was involved
+                        in his. Some of Cazotte's letters being found on the person of La Porte, the
+                        old man and his daughter were immediately arrested and sent to the prison of
+                        the Abbey.</p>
+                    <p>Shortly afterwards, Mademoiselle Cazotte having been pronounced innocent, an
+                        order arrived at the prison that she might be set at liberty. Elizabeth
+                        however refused to avail herself of it being resolved to share her father's
+                        fate, and she succeeded in obtaining permission to remain with him. While in
+                        and the prison, by her interesting appearance, and the pathetic eloquence of
+                        her language, she was so fortunate <pb facs="noble_041.jpg" n="40"/>
+                        <fw>40 FILIAL AFFECTION. </fw> as to interest some Marseillois, who had
+                        quartered themselves in the Abbey, in her behalf; thus for a time her
+                        father’s life was safe. On the 2d of September, however, after an
+                        uninterrupted massacre, which had lasted three, hours, a number of voices
+                        called loudly for Cazotte. At that name, which seemed to threaten instant
+                        danger, Elizabeth rushed forward to meet her father's murderers. Her extreme
+                        youth, wonderful beauty, and uncommon courage, seemed to shake their
+                        purpose. One more stern and hardened in crime than the rest advanced to
+                        Cazotte, and demanded why he had been imprisoned with his daughter. "You
+                        will find it in the gaoler's book," was the old man's reply. Two of the
+                        party being sent to examine the book, shortly returned with the tidings that
+                        Cazotte was detained as a decided Counter-revolutionist. Scarcely was the
+                        report uttered, when an axe was raised over the head of Cazotte. His
+                        daughter, wildly shrieking, threw herself upon him, covering him with her
+                        body, and disdaining to descend to unworthy supplications, only demanded to
+                        die with him. " Strike, barbarians," she cried; "you cannot reach my father
+                        but through my heart!" At this moving spectacle the assassins hesitated and
+                        trembled, while a shout of pardon! Pardon! Was heard from one individual,
+                        and echoed by a hundred voices. The Marseillois opened themselves a passage
+                        to the two victims, and the father and daughter, covered with this sacred
+                        shield, <pb facs="noble_042.jpg" n="41"/>
+                        <fw>FILIAL AFFECTION. 41</fw> were conducted, with shouts of applause, from
+                        that habitation of misfortunes and crimes.</p>
+                    <p>The liberation of Cazotte, however, afforded temporary security: he was again
+                        arrested upon the institution of the Criminal Tribunal. The good old man
+                        endeavoured to dissuade his daughter from accompanying him to prison, but
+                        his prayers, entreaties, and tears nay even his positive commands, were here
+                        entirely fruitless. "In your company, my father" said Elizabeth, "I have
+                        faced the most cruel of assassins; and shall I not be the companion of your
+                        new misfortune, in which there is less danger? The hope of saving you will
+                        again support me; I will show to your judges your forehead furrowed with age
+                        I will ask them if a man, an old man, who has but a few days to linger out
+                        among his fellow-beings, may not find mercy in the eyes of justice, after
+                        having escaped the extreme of danger? If he, whose white hairs could plead
+                        with assassins, ought not to receive indulgence from magistrates, one of
+                        whose attributes should be mercy? The voice of nature will again be heard,
+                        and perhaps I may again save you from the cruel fate which impends over us."
+                        Overcome by her pressing entreaties Cazotte at last allowed his child to
+                        attend him to the prison. When however they arrived there, the unhappy girl
+                        was denied admission, and compelled to yield up her father. In an agony of
+                        grief, she hastened to the Commune, and to the Minister of the Interior,
+                        from whom, by her supplications and tears, she wrested their permission to
+                        attend her <pb facs="noble_043.jpg" n="42"/>
+                        <fw>42 FILIAL AFFECTION.</fw> father. From that moment she devoted he wholly
+                        to him, spending day and night in administering to his comforts. The only
+                        time that she passed away from his prison, was employed in securing promises
+                        of support from the same <hi rend="italics">Marseillois</hi>, who had
+                        formerly rendered her father such service; and she likewise, received
+                        promises from several ladies of distinction, that their interest should be
+                        exerted in her behalf. These expectations were, alas! vainly excited, for
+                        every human being abandoned them in the hour of trial.</p>
+
+                    <p>When Cazotte was called before the Tribunal the old man appeared, supported
+                        by his daughter. A murmur of applause ran through the multitude that filled
+                        the court at this affecting sight, while Elizabeth, with her eyes fixed on
+                        her father, endeavoured to encourage and console him at this trying moment.
+                        The pleading was soon commenced: during the reading of the written evidence,
+                        and the speech of the Public Accuser, the entire feelings of Elizabeth were
+                        imprinted on her beautiful countenance. Every one remarked the variety of
+                        changes it underwent; fear and hope rapidly succeeding to each other:
+                        several times she was on the point of raising her voice, but was checked by
+                        remembering that her father had, previous to the trail, imposed silence on
+                        her. At length she heard the dreadful conclusion of the speech of the Public
+                        Accuser, which was but too faithful an omen of his fate. Pale, trembling,
+                        and ready to sink into the ground, she was only sustained by her father’s
+                        voice,</p>
+                    <pb facs="noble_044.jpg" n="43"/>
+                    <fw>FILIAL AFFECTION. 43</fw>
+                    <p>Who in a low tone, pointing towards heaven, addressed to her a few words of
+                        consolation. But though calmed for the moment, when the sentence was about
+                        to be pronounced they found it necessary to remove her from the hall: and
+                        when so far removed that her groans could no longer be heard, she abandoned
+                        herself to a despair which baffles description. The unhappy girl had seen
+                        her father for the last time: she had breathed a portion of her feelings
+                        into every soul; and the deep sighs which arose from every corner of the
+                        court, when she was carried thence, were proofs of the homage due to filial
+                        virtue. Some humane persons followed her to the prison, where they found her
+                        in a swoon: on recovering herself, she begged to be taken to her father,
+                        that she might die with him. It was not until surrounded by her father's
+                        friends, and become a witness of their affliction, that her own sorrow could
+                        receive any mitigation, and the favourable moment was seized to lead her
+                        back to her family.</p>
+                </div2>
+                <lb type="horBar"/>
+                <div2>
+                    <quote>"May my fears, My filial fears, be vain! and may the vaunts And menace of
+                        the vengeful enemy Pass like the gust, thqt roar'd and died away In the
+                        distant tree: which heard, and only heard in this low deli, bow'd not the
+                        delicate grass!" <persName>C<hi rend="smallCaps"
+                        >oleridge</hi>.</persName></quote>
+
+
+                    <p>T<hi rend="smallCaps">he</hi> heroism of Elizabeth Cazotte, which could not
+                        fail to excite the admiration and sympathy of her countrywomen, was imitated
+                        by many young persons, from similar impulses <pb facs="noble_045.jpg" n="44"/>
+                        <fw>44 FILIAL AFFECTION.</fw> Of devoted affection. Mademoiselle de
+                        Sombreuil claims a share of our esteem for the intrepdity she displayed,
+                        when, rushing into the presence of the murderers who had seized her father,
+                        she exclaimed as she fell at their feet, "Barbarians, hold your hands—he is
+                        my father!" In another moment she had so placed herself, that the sword
+                        could not reach father but through the heart of his child. Perceiving that
+                        they hesitated to accomplish their barbarous purpose, she supplicated once
+                        more, with renewed earnestness, that they would spare her father's life.
+                        Even while she spoke, one of the monsters, whose unfeeling heart was proof
+                        against the self-devotion and heroism of the lovely girl at his feet,
+                        annexed to her father's safety the following condition "Drink," said he, "a
+                        glass of blood,-- and save your father." Mademoiselle de Sombreuil
+                        shuddering, retreated several paces, but filial affection gained the
+                        ascendance, and she yielded to the horrible proposal.</p>
+                    <p>"Innocent or guilty then," said one of the judges who happened to be present,
+                        "it is unworthy of the people to bathe their hands in the blood of this old
+                        man, since they must first destroy this virtuous girl." A shout of "pardon!
+                        Pardon!" was heard from those who had difficulty refrained from tears. The
+                        daughter was clasped in her father’s trembling arms, and they left the
+                        prison together, conducted in triumph by those who had come for so very
+                        different a purpose.</p>
+                    <p>Sombreuil had further evils to encounter: <pb facs="noble_046.jpg" n="45"/>
+                        <fw>FILIAL AFFECTION. 45</fw> he was shortly again arrested with his
+                        daughter, and led to prison. The latter had lost no portion of her courage,
+                        though she had been afflicted with frequent convulsions since the violence
+                        she had done to her feelings in drinking a glass of blood; and she displayed
+                        each moment fresh proofs of her filial attachment. When the order for her
+                        father’s trial arrived, although her heart was oppressed with the most
+                        afflicting presages, she maintained an appearance of composure before her
+                        parent, and to the last encouraged him to support himself with fortitude,
+                        whatever might occur. Sombreuil finally yielded up his life on the scaffold,
+                        when the existence of his daughter became a state worse than that of
+                        death.</p>
+                </div2>
+                <lb type="horBar"/>
+                <div2>
+                    <quote>"The grave unites; where e'en the Great find rest, A nd blended lie th'
+                        oppressor and th' opprest." <persName>P<hi rend="smallCaps"
+                            >ope</hi>.</persName></quote>
+
+                    <p>I<hi rend="smallCaps">n</hi> the prisons of <settlement type="city"
+                            >Paris</settlement> whole families were frequently crowded together,
+                        when the members of each would be united so strongly by sympathy that their
+                        sole request and wish would be that they might die together, consoled by the
+                        reflection, that in escaping from such scenes of dreadful persecution they
+                        would still be united in a happier state of existence.</p>
+                    <p> When the ci-devant marchioness de Bois Beranger was detained in the
+                            <settlement type="country">Luxembourg</settlement> with her father,
+                        mother, and a younger sister, she forgot her own misfortunes in indeavouring
+                        to console her family under theirs. A soici- <fw>VOL. I. E </fw>
+                        <pb facs="noble_047.jpg" n="46"/>
+                        <fw>46 FILIAL AFFECTION.</fw> Tude even maternal was displayed in her
+                        unceasing tenderness towards her mother, whose drooping fortitude was
+                        re-animated by her example. When at length the act of accusation arrived for
+                        her father, mother, and sister, Madame de Bois Beranger found that she alone
+                        was exempt: and the discovery of the mournful preference filled her with
+                        anguish. "You will die then," she exclaimed, "before me: and I am condemned
+                        to survive you." Overwhelmed with despair, she clung to those beloved
+                        relations, exclaiming, "Alas! Alas! We shall not die together!"</p>
+                    <p>In the midst of this moving scene, a second accusation arrived at the prison,
+                        in which the name of the marchioness was included. From this moment there
+                        were no more tears, no more exclamations of grief from this affectionate
+                        daughter. She flew to embrace her parents. "See," she cried, as she
+                        displayed the act of accusation in joyful triumph, as though she held in her
+                        hand the decree of their liberty and her own, "see my mother,--we shall die
+                        together."</p>
+
+                    <p>On the day of execution she attired herself with elegance, and cut off the
+                        long tresses of her fine hair with her own hand. On leaving the Conciergerie
+                        to go to the scaffold, she supported her mother, who seemed to be overcome
+                        by an excess of grief. The sorrows of her parents appeared alone to be
+                        subjects of regret tot eh marchioness at this critical moment. “Dearest
+                        madam," she said in the tenderest accent, "be consoled: why are you not
+                        happy? You <pb facs="noble_048.jpg" n="47"/>
+                        <fw>FILIAL AFFECTION. 47</fw> die innocent, and in the same innocence all
+                        your family follow you to the tomb, and will partake with you, in a better
+                        state, the recompense of virtue."</p>
+                </div2>
+                <lb type="horBar"/>
+                <div2>
+                    <quote>"And is it then to live ? when such friends part, 'Tis the survivor
+                        dies."</quote>
+
+                    <p>M<hi rend="smallCaps">ademoiselle</hi> Delleglace was also a remarkable
+                        instance of filial affection. When her father was to be conveyed from the
+                        prison at <settlement type="city">Lyons</settlement> to the Conciergerie,
+                        this affectionate girl, who from the first moment of his arrest never
+                        quitted him, demanded permission to travel with him in the carriage prepared
+                        for his journey. This boon she could not obtain; but what obstacles can
+                        subdue the strength of filial love? Laying aside the timidity natural to her
+                        sex, and wholly disregarding the weakness of her constitution, Mademoiselle
+                        Delleglace set out on foot with the carriage, which she accompanied in that
+                        manner for more than a hundred leagues. She sometimes quitted the side of
+                        the carriage, but it was only when she preceded her father, to procure
+                        proper nourishment for him in the towns through which they passed; and in
+                        the evening of every day, when she ran forward to beg of some charitable
+                        person a covering, to administer to her father's wants, in the dungeon where
+                        he must pass the night.</p>
+
+                    <p>When at length they reached the gates of the Conciergerie, she was denied
+                        admittance with him, and compelled to give up the expec- <pb
+                            facs="noble_049.jpg" n="48"/>
+                        <fw>48 FILIAL AFFECTION.</fw> tation of being his companion in prison. But
+                        her fortitude did not yet give way: she did not cease, during three months,
+                        to implore the justice and humanity of all those influential persons to whom
+                        she could gain access, perseverance was finally crowned with success; and
+                        exulting with joy, she hastened to bear the happy tidings to her father, and
+                        contemplated the delight of herself conducting him back to his home and
+                        family. But it was otherwise ordained: worn out by the excess of fatigue she
+                        had undergone during this unparalleled exertion, she was taken ill on the
+                        road and obliged to remain at an inn, until her father could be informed of
+                        the circumstance and be set at liberty. She never again left her bed, but
+                        died in her beloved parent's arms; still deeming herself happy in having
+                        purchased his life at the expense of her own.</p>
+                </div2>
+                <lb type="horBar"/>
+                <div2>
+                    <quote>"O'er friendless grief compassion shall awake, And smile on innocence,
+                        for mercy's sake." <persName>C<hi rend="smallCaps"
+                        >ampbell</hi>.</persName></quote>
+
+                    <p>W<hi rend="smallCaps">ho</hi> has not heard, and who has not shed tears at
+                        hearing, of that beautiful and interesting girl of only eight years of age,
+                        who went every morning to the <settlement type="city" subtype="square">Place
+                            de la Revolution</settlement>, to mourn and lament the death of her
+                        mother, who was executed there? The child took many precautions to escape
+                        observation; but her manner was at length noticed by some women who sold
+                        fruit near the spot. Being asked the cause of her tears, "Ah!" she said, <pb
+                            facs="noble_050.jpg" n="49"/>
+                        <fw>FILIAL AFFECTION. 49</fw> "my poor mother, whom I loved so well, died
+                        where I now stand; but oh! do not, I beg of you, tell anyone that you saw me
+                        cry, for that, perhaps, would cause the death of my brother and my sisters."
+                        After this guileless answer, which greatly effected her audience, she
+                        hastily retired, and was never seen there again. It was afterwards known
+                        that this early victim of filial affection died in a few weeks, bowed down a
+                        grief which she could not cast off."</p>
+                </div2>
+                <lb type="horBar"/>
+                <div2>
+                    <quote>"What breast so cold, that is not warmed here?" <persName>S<hi
+                                rend="smallCaps">hakespeare</hi></persName>,</quote>
+                    <p>A<hi rend="smallCaps">nother</hi> child was the happy means of saving her
+                        father's life. He was a Creole of <settlement type="city">St.
+                            Domingo</settlement>, and was guilty of no other crime than that of
+                        being rich and preserving the inheritance of his forefathers. At that time
+                        when the contagious example of the French revolution had spread as far as
+                        the New World, the horrible practice was adopted of assembling in groupes
+                        the unfortunate victims who were ordered to be executed, and then firing l
+                        indiscriminately upon them with cannons loaded with grape-shot. The eyes of
+                        the Creole had been blindfolded, and he stood among a crowd of other
+                        unfortunate beings, expecting every instant the signal of death. When,
+                        however, the order to discharge artillery was about to be given, a little
+                        girl rushed forward, with a loud cry of "My <pb facs="noble_051.jpg" n="50"/>
+                        <fw> 50 FILIAL AFFECTION. </fw> "father! Oh my father! And making her way
+                        through the victims, threw her little arms about her parent’s neck, and
+                        waited for the moment of dying with him. In vain were all the threats of
+                        entreaties; neither the representations of her danger, nor the commands of
+                        her father could intimidate her. In reply to the latter, she earnestly
+                        repeated, "Oh! My father, let me die with you." What power has virtue over
+                        the most ferocious minds! This unexpected accident disconcerted the
+                        commander of the massacre:--doubtless he was a father too! The voice of
+                        admiration and exclamations of pity, which he heard from all sides, touched
+                        his heart, and under some specious pretext, the Creole was delivered from
+                        the expected punishment, and, accompanied by his child, reconducted to
+                        prison; whence he soon afterwards obtained his release. After that happy
+                        escape, he was often accustomed to relate, with feelings of tender emotion,
+                        the heroic action of his little girl, then only ten years of age.</p>
+                </div2>
+                <lb type="horBar"/>
+                <div2>
+                    <quote>"Such is my love, to thee I so belong, That for thy right, myself will
+                        bear all wrong." <persName>S<hi rend="smallCaps">hakespeare</hi></persName>. </quote>
+
+                    <p>D<hi rend="smallCaps">uring</hi> the war of La Vendee, the ci-devant Duke de
+                        la <settlement type="commune">Rochefoucault</settlement>, condemned to die,
+                        as well as his daughter, found in the resources of that affectionate girl
+                        the means of concealing himself until a period arrived more favourable to
+                        that justice which he unsuccessfully claimed.</p>
+                    <pb facs="noble_052.jpg" n="51"/>
+                    <fw>FILIAL AFFECTION. 51</fw>
+                    <p>His daughter's first care was to place him under the roof and protection of
+                        an artisan, who had formerly been a domestic in the duke's service, after
+                        which she procured an asylum for herself. They were thus both secure from
+                        the immediate power of their persecutors; but, as the duke’s property was
+                        confiscated, and compassion is apt to grow weary of its good offices, the
+                        means of their bare subsistence were soon exhausted. While the daughter was
+                        suffering under the extreme of poverty, she learnt that her father's health
+                        was rapidly declining for want of due nourishment. Madame de la <settlement
+                            type="commune">Rochefoucault</settlement> now saw but one resource left
+                        : to devote her own life to save that of her father ; and she instantly
+                        resolved upon the sacrifice.</p>
+                    <p>A general of the <settlement type="country" subtype="france"
+                            >Republic</settlement> happened at that time to be passing through the
+                        city in which was her place of concealment: she addressed the following
+                        letter to hi : "C<hi rend="smallCaps">itizen</hi> G<hi rend="smallCaps"
+                            >eneral</hi>: Wherever the voice of nature is heard, a daughter may be
+                        allowed to claim the compassion of men in behalf of her father. Condemned to
+                        death at the same time with him who Gave me being, I have successfully
+                        preserved him from the sword of the executioner, and have preserved myself
+                        to watch over his safety. But in saving his life, I have not been able to
+                        furnish all that is necessary to support him. My unhappy father, whose
+                        entire property is confiscated, suffers at this moment the want of almost
+                        every thing. Without clothes, without bread, without a <pb
+                            facs="noble_053.jpg" n="52"/>
+                        <fw>52 FILIAL AFFECTION.</fw> Friend to save him from perishing of want, he
+                        has not even the resource of the beggar, which still furnishes a little
+                        hope, that of being able to appeal to the compassionate, and to present his
+                        white hairs to those that might be moved to give him aid: my father, if he
+                        is not speedily succoured, will die in his place of concealment, and thus,
+                        after snatching him from a violent death, I shall have to sustain the
+                        mournful reflection of having betrayed him to one more lingering and
+                        painful—that of dying of cold and hunger.</p>
+                    <p>"Be the judge, Citizen General, of the extent of my misfortune, and own that
+                        it is worthy of pity. One resource only is left to me: it is to cast myself
+                        upon your generosity. I offer you my head: I undertake to go, and to go
+                        willingly, to the scaffold; but give immediate succor to my dying father.
+                        Below I give you the name of my place of concealment, there I will expect
+                        death with pleasure, if I may promise myself that you will be touched with
+                        my prayers, and will relieve my old and destitute parent."</p>
+
+                    <p>The soldier had no sooner read this letter, than he hastened to the asylum of
+                        Madame de <settlement type="commune">Rochefoucault</settlement>, and not
+                        only relieved her father, but secretly protected both, and finally produced
+                        the restoration of M. de <settlement type="commune"
+                            >Rochefoucault</settlement>’s property by a revision of their
+                        sentence.</p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>
