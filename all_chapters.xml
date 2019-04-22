@@ -80,24 +80,525 @@
         <profileDesc>
             <particDesc>
                 <listPerson type="referenced">
-                    <person xml:id="anacaona">
+                    <person xml:id="Anacaona" sex="female">
                         <persName>Anacaona</persName>
-                        <note>Anacaona (1474-1503) was a Taíno chief, born in what is now Léogâne,
-                            Haiti, into a family of chiefs. Her brother and her husband were two of
-                            the five highest chiefs who ruled the island of <choice>
+                        <note>(1474-1503) Taíno chief, born in what is now Léogâne, Haiti, into a
+                            family of chiefs. Her brother and her husband were two of the five
+                            highest chiefs who ruled the island of <choice>
                                 <orig>Kiskeya</orig>
                                 <reg>Hispaniola</reg>
-                            </choice> when the Spaniards colonized it in 1492. She was celebrated as
-                            a composed of ballards and narrative poems, called areítos.</note>
+                            </choice> when the Spaniards colonized it in 1492. She was celebrated in
+                            ballards and narrative poems, called areítos.</note>
                     </person>
+                    <person xml:id="RDaughter" sex="female">
+                        <persName>Roman Daughter</persName>
+                        <note>This story is an example of the theme of "Roman Charity" or a daughter
+                            saving an imprisoned family member by feeding them with her own breast
+                            milk.</note>
+                    </person>
+                    <person xml:id="Xantippe" sex="female">
+                        <persName>Xantippe</persName>
+                        <note>Another example of Roman Charity.</note>
+                    </person>
+                    <person xml:id="MRoper" sex="female">
+                        <persName>Margaret Roper</persName>
+                        <note>(1505-1544) English writer and translator, eldest daughter of Sir
+                            Thomas More, considered one of the most learned women of
+                            sixteenth-century England. Her most well-known publication was a
+                            translation of Erasmus' Precatio Dominica into English. </note>
+                    </person>
+                    <person xml:id="SMore" sex="male">
+                        <persName>Sir Thomas More</persName>
+                        <note>(1478-1535) English lawyer, author, statesman, and councillor to Henry
+                            VIII. Wrote Utopia (1516), about the political system of an imaginary,
+                            ideal island nation. Convicted of treason and executed after refusing to
+                            support King Henry VIII as the head of the Church of England and in his
+                            annulment of marriage to Catherine of Aragon. Venerated in the Catholic
+                            Church as Saint Thomas More. </note>
+                    </person>
+                    <person xml:id="KHenryVIII" sex="male">
+                        <persName>King Henry</persName>
+                        <note>(1491-1547) King of England from 1509 until his death. Famous for his
+                            six marriages, iniating the English Reformation. </note>
+                    </person>
+                    <person xml:id="MMorice" sex="female">
+                        <persName>Mrs. Morice</persName>
+                        <note>Daughter of Francis Atterbury, Bishop of Rochester.</note>
+                    </person>
+                    <person xml:id="BRochester" sex="male">
+                        <persName>Bishop of Rochester</persName>
+                        <note>(1663-1732) Francis Atterbury was a politician, Jacobite, High Church
+                            Tory, and Bishop of Rochester. Eventually bansihed for communicating
+                            with the Old Pretender by Whigs.</note>
+                    </person>
+                    <person xml:id="ADaughter" sex="female">
+                        <persName>American Daughter</persName>
+                    </person>
+                    <person xml:id="ECazotte" sex="female">
+                        <persName>Elizabeth Cazotte</persName>
+                        <note>Daughter of Jacques Cazotte, a French author. </note>
+                    </person>
+                    <person xml:id="MDSombreuil" sex="female">
+                        <note>(1768-1823) French Countess of Villelume. Her noble deed later
+                            inspired poets and novelists such as Victor Hugo and Jacque Delille.
+                        </note>
+                    </person>
+                    <person xml:id="MDBBeranger" sex="female">
+                        <persName>Madame De Bois Beranger</persName>
+                    </person>
+                    <person xml:id="MDelleglace" sex="female">
+                        <persName>Mademoiselle Delleglace</persName>
+                    </person>
+                    <person xml:id="IVictim" sex="female">
+                        <persName> Infact Victim</persName>
+                    </person>
+                    <person xml:id="CDaughter" sex="female">
+                        <persName>Creole Daughter</persName>
+                    </person>
+                    <person xml:id="MDRouchefoucault" sex="female">
+                        <persName>Madame De Rouchefoucault</persName>
+                        <note>(1769-1814) French courier. Served as Mistress of the Robes to empress
+                            Josephine. </note>
+                    </person>
+                    <person xml:id="QBlanche" sex="female">
+                        <persName>Queen Blanche</persName>
+                        <note>(1188-1252) From Castile, her marriage to King Louis VIII made her
+                            Queen of France. She acted as regent twice during the reign of her son
+                            Louis IX.</note>
+                    </person>
+                    <person xml:id="KLouisVIII" sex="male">
+                        <persName>King Louis VIII of France</persName>
+                        <note>(1187-1226) French King from 1223-1226, and claimed to be the King of
+                            England from 1216-1217. Called the Lion.</note>
+                    </person>
+                    <person xml:id="ConstantiaoA" sex="female">
+                        <persName>Constantia of Arragon</persName>
+                        <note>(1249-1302) Queen of Aragon as the wife of King Peter III and a
+                            pretender to the Kingdom of Sicily from 1268-1285. Became a nun after
+                            her husband's death in 1285.</note>
+                    </person>
+                    <person xml:id="PCharles" sex="male">
+                        <persName> Charles, Prince of Salerno</persName>
+                        <note>(1254-1309) King of Naples, various other titles. Imprisoned by the
+                            Aragonese after being captured in 1284.</note>
+                    </person>
+                    <person xml:id="QPhilippa" sex="female">
+                        <persName>Queen Philippa</persName>
+                        <note>(1310/1315-1369) Queen of England due to her marriage to King Edward
+                            III. Acted as regent in 1346 when her husband was away. Won popularity
+                            due to her kindness and compassion.</note>
+                    </person>
+                    <person xml:id="KEdwardIII" sex="male">
+                        <persName>King Edward III of England</persName>
+                        <note>(1312-1377) King of England and Lord of Ireland from 1327 until his
+                            death. Noted for his military success and long reign, where the country
+                            saw developments in legislation and evolution of Parliament.</note>
+                    </person>
+                    <person xml:id="SWalter" sex="male">
+                        <persName>Sir Walter de Manny</persName>
+                        <note>(1310-1372) Soldier in the Scottish wars of Edward III, appointed
+                            Admiral of the Northern Seas in 1337, founder of the
+                            Charterhouse.</note>
+                    </person>
+                    <person xml:id="EStPierre" sex="male">
+                        <persName> Eustace de St. Pierre</persName>
+                        <note>Best known figure of the group of six known as the Burghers of Calais.
+                            Volunteered first for execution after Calais fell. </note>
+                    </person>
+                    <person xml:id="ECatherine" sex="female">
+                        <persName>Empress Catherine I</persName>
+                        <note>(1684-1727) Second wife of Peter the Great, and Empress of Russia from
+                            1725 until her death. Represented the interests of "new men," or
+                            commoners that her husband had given positions in the government. First
+                            woman to rule Imperial Russia.</note>
+                    </person>
+                    <person xml:id="CPeter" sex="male">
+                        <persName> Czar Peter</persName>
+                        <note>(1672-1725) Ruled Russian Empire from 1682 until 1725. Expanded
+                            territory through wars, and led a cultural revolution.</note>
+                    </person>
+                    <person xml:id="QCaroline" sex="female">
+                        <persName> Queen Caroline</persName>
+                        <note>(1683-1737) Queen of Great Britain from 1727 on as wife of King George
+                            II. She became known for her political influence. </note>
+                    </person>
+                    <person xml:id="KGeorgeII" sex="male">
+                        <persName>King George II</persName>
+                        <note>(1683-1760) King of Great Britain and Ireland from 1727 until his
+                            death. Was the last British monarch to lead an army into battle in
+                            1743.</note>
+                    </person>
+                    <person xml:id="POrange" sex="female">
+                        <persName>Princess of Orange</persName>
+                        <note>(1709-1759) Princess Anne ws the second child of King George II and
+                            Queen Caroline, and married William IV the Prince of Orange.</note>
+                    </person>
+                    <person xml:id="MTheresa" sex="female">
+                        <persName>Maria Theresa</persName>
+                        <note>(1717-1780) Holy Roman Empress, German Queen, Queen of Bohemia,
+                            Hungry, Croatia, Archduchess of Austria. Only female ruler of the
+                            Habsburg dominions and last of the House of Habsburg.</note>
+                    </person>
+                    <person xml:id="GDalton" sex="male">
+                        <persName>General Count Dalton</persName>
+                    </person>
+                    <person xml:id="PDiConti" sex="female">
+                        <persName>Princess Di Conti</persName>
+                        <note>(1716-1736) Sixth daughter of Duke of Orleans and his wife, died in
+                            childbirth at age of twenty. Princess of Conti by marriage.</note>
+                    </person>
+                    <person xml:id="FConvicts" sex="female">
+                        <persName>Female Convicts</persName>
+                    </person>
+                    <person xml:id="SGirl" sex="female">
+                        <persName>Courageous Swiss Girl</persName>
+                    </person>
+                    <person xml:id="CBurita" sex="female">
+                        <persName> Countess Burita</persName>
+                    </person>
+                    <person xml:id="FServant" sex="female">
+                        <persName> French Servant-Girl</persName>
+                    </person>
+                    <person xml:id="LoAmerica" sex="female">
+                        <persName>Ladies of America</persName>
+                    </person>
+                    <person xml:id="LSigourney" sex="female">
+                        <persName>Lydia H. Sigourney</persName>
+                        <note> (1791-1865) American poet known as the "Sweet Singer of Hartford."
+                        </note>
+                    </person>
+                    <person xml:id="Anacona" sex="female">
+                        <persName>Anacona</persName>
+                        <note>(1474-1503) A Taino chief in what is now Haiti. </note>
+                    </person>
+                    <person xml:id="WIrving" sex="male">
+                        <persName>Washington Irving</persName>
+                        <note>(1783-1859) American short story writer. Best known for "Rip Van
+                            Winkle" and "The Legend of Sleepy Hollow." Served as ambassador to Spain
+                            from 1842-1846. </note>
+                    </person>
+                    <person xml:id="Caonabo" sex="male">
+                        <persName> Caonabo</persName>
+                        <note>Husband of Anacaona, chief of Maguana (present-day Dominican
+                            Republic). One of the five highest chiefs who ruled Hispaniola when
+                            Spaniards colonized it in 1492. </note>
+                    </person>
+                    <person xml:id="GOvando" sex="male">
+                        <persName> General Ovando </persName>
+                        <note>(1460-1511) Spanish soldier from noble gamily. Governor of Hispaniola
+                            from 1502 to 1509. </note>
+                    </person>
+                    <person xml:id="DFerrara" sex="female">
+                        <persName>Duchess of Ferrara, Renata</persName>
+                        <note>(1510-1574) Younger surviving child of Louis XII, Duchess of Ferrara
+                            through her marriage to Ercole II d'Este. A supporter of the Protestant
+                            Reformation and ally of John Calvin. </note>
+                    </person>
+                    <person xml:id="KLouisXII" sex="male">
+                        <persName>King Louis XII</persName>
+                        <note>(1462-1515) King of France from 1498 until his death. King of Naples
+                            from 1501-1504. A popular king, called "Father of the People."</note>
+                    </person>
+                    <person xml:id="AnneoB" sex="female">
+                        <persName>Anne of Breagne</persName>
+                        <note>(1477-1514) Duches of Brittany from 1488 until her death. Queen
+                            consort of France from 1491-1498 and from 1499 until her death. Only
+                            woman to be queen consort of France twice. </note>
+                    </person>
+                    <person xml:id="Marius" sex="male">
+                        <persName>Marius</persName>
+                        <note>(157-86 B.C.) Roman general and statesman. Consul seven times. </note>
+                    </person>
+                    <person xml:id="Sylla" sex="male">
+                        <persName>Sylla</persName>
+                        <note>(138-78 B.C.) Roman general and statesman. Held the office of consul
+                            twice, and revived the dictatorship. </note>
+                    </person>
+                    <person xml:id="KJamesII" sex="male">
+                        <persName> King James the Second</persName>
+                        <note>(1633-1701) King of England and Ireland from 1685 until he was
+                            desposed in the Glorious Revolution in 1688. Spent the rest of his life
+                            in exile in France.</note>
+                    </person>
+                    <person xml:id="MGaunt" sex="female">
+                        <persName> Mrs. Gaunt</persName>
+                    </person>
+                    <person xml:id="HWidow" sex="female">
+                        <persName> High-Land Widow</persName>
+                    </person>
+                    <person xml:id="CStuart" sex="male">
+                        <persName>Colonel Stuart</persName>
+                        <note>(died 1726) </note>
+                    </person>
+                    <person xml:id="KCharlesII" sex="male">
+                        <persName> King Charles II</persName>
+                        <note>(1630-1685) King of England, Scotland and Ireland. Known as the Merry
+                            Monarch. </note>
+                    </person>
+                    <person xml:id="MGordon" sex="female">
+                        <persName>Mrs. Gordon</persName>
+                    </person>
+                    <person xml:id="AWoman" sex="female">
+                        <persName> African Woman</persName>
+                    </person>
+                    <person xml:id="MPark" sex="male">
+                        <persName> Mungo Park</persName>
+                        <note>(1771-1806) Scottish explorer of West Africa. First Westener known to
+                            have travelled to the central portion of the Niger River.</note>
+                    </person>
+                    <person xml:id="MBouquet" sex="female">
+                        <persName> Madame Bouquet</persName>
+                    </person>
+
+                    <person xml:id="FFrenchwoman" sex="woman">
+                        <persName>Faithful Frenchwoman</persName>
+                    </person>
+                    <person xml:id="Robespierre" sex="male">
+                        <persName> Robespierre</persName>
+                        <note>(1758-1794) French lawyer and politician, one of the most well-known
+                            and influential figures associated with the French Revolution. </note>
+                    </person>
+                    <person xml:id="MPaysac" sex="female">
+                        <persName> Madame Paysac</persName>
+                    </person>
+                    <person xml:id="RStEtienne" sex="male">
+                        <persName> Rabaud De St. Etienne</persName>
+                        <note>(1743-1793) Calvinist pastor, worked on framing the constitution in
+                            the Constituent Assembly. Served as a Deputy for the Third Estate of the
+                            Estates-General</note>
+                    </person>
+                    <person xml:id="MRuvilly" sex="female">
+                        <persName> Madame Ruvilly</persName>
+                    </person>
+                    <person xml:id="Argenis" sex="female">
+                        <persName>Argenis</persName>
+                        <note>Daughter of King Alyattes. Married to Astyages, King of Media. </note>
+                    </person>
+                    <person xml:id="KHalyattes" sex="male">
+                        <persName> Halyattes, King of Lydia</persName>
+                        <note>Reigned from 605-560 BC. The fourth king of the Mermnad dynasty in
+                            Lydia. </note>
+                    </person>
+                    <person xml:id="Hersila" sex="female">
+                        <persName>Hersila</persName>
+                        <note>(Mythological) Wife of Romulus in Roman foundation myths. Credited
+                            with ending the war between Rome and the Sabines. </note>
+                    </person>
+                    <person xml:id="Romulus" sex="male">
+                        <persName> Romulus </persName>
+                        <note>(Mythological) Legendary founder of Rome. </note>
+                    </person>
+                    <person xml:id="Eurydice" sex="female">
+                        <persName>Eurydice</persName>
+                        <note>(407-369 B.C.) Ancient Greek Queen from Macedon. First known royal
+                            woman who actively took political action and successfully exerted
+                            political influence. </note>
+                    </person>
+                    <person xml:id="Alexander" sex="male">
+                        <persName> Alexander</persName>
+                        <note>Ruled over Macedon from 371-369 B.C. after the death of his father.
+                        </note>
+                    </person>
+                    <person xml:id="Perdiccas" sex="male">
+                        <persName>Perdiccas</persName>
+                        <note>Ruled over Macedon from 365-360 B.C., suceeding his brother after
+                            Alexander was murdered. </note>
+                    </person>
+                    <person xml:id="Pausanias" sex="male">
+                        <persName>Pausanias</persName>
+                        <note>A Macedonian who claimed the right to the Macedonian throne in the
+                            fourth century B.C.</note>
+                    </person>
+                    <person xml:id="Iphicrates" sex="male">
+                        <persName> Iphicrates</persName>
+                        <note>(218-353 BC) Athenian general. </note>
+                    </person>
+                    <person xml:id="CWomen" sex="female">
+                        <persName> Celtic Women</persName>
+                    </person>
+                    <person xml:id="Cornelia" sex="female">
+                        <persName> Cornelia</persName>
+                        <note>(195-115 BC) Second daughter of Publius Cornelius Scipio Africanus,
+                            the hero of the Second Punic War. Mother of the Tiberius and Gaius
+                            Gracchus.</note>
+                    </person>
+                    <person xml:id="Quinctilian" sex="male">
+                        <persName> Quinctilian</persName>
+                        <note>(35-100 CE) Roman educator and rhetorician.</note>
+                    </person>
+                    <person xml:id="Gracchii" sex="male">
+                        <persName>Gracchii</persName>
+                        <note>Tiberius (169/164-133 BC) and Gaius Gracchus (154-121 BC) Roman
+                            tribunes in the late 2nd century BC. Attempted to pass land legislation
+                            that would benefit the poor and veterans. Assissinated by enemies of the
+                            reforms.</note>
+                    </person>
+                    <person xml:id="Scipio" sex="male">
+                        <persName>Scipio</persName>
+                        <note>(236-283 BC) Roman consul and general who defeated Hannibal at the
+                            Battle of Zama during the Second Punic War. </note>
+                    </person>
+                    <person xml:id="Hortensia" sex="female">
+                        <persName>Hortensia</persName>
+                        <note>Daughter of Hortensius, earned notoriety during the late Republic
+                            period as a skilled orator. </note>
+                    </person>
+                    <person xml:id="Hortensius" sex="male">
+                        <persName>Hortensius</persName>
+                        <note>(114-50 BC) Roman orator, advocate, and consul. </note>
+                    </person>
+                    <person xml:id="Caesar" sex="male">
+                        <persName> Julius Caesar</persName>
+                        <note>(100-44 BC) Roman politican, and military general. Played a critical
+                            role in the demise of the Roman Republic. Famously assassinated in 44
+                            BC. </note>
+                    </person>
+                    <person xml:id="Pompey" sex="male">
+                        <persName>Pompey</persName>
+                        <note>(106-48 BC) Roman military and political leader. Consul three times
+                            and celebrated three triumphs. Along with Caesar and Crassus, part of
+                            the First Triumvirate.</note>
+                    </person>
+                    <person xml:id="Cinna" sex="male">
+                        <persName> Cinna</persName>
+                        <note>(died 84 BC) Four-time consul of the Roman Republic, politican.
+                        </note>
+                    </person>
+                    <person xml:id="Agrippina" sex="female">
+                        <persName> Agrippina</persName>
+                        <note>(14 BC-33 AD) Daughter of Agrippa and Julia (Augustus' only child).
+                            Married to Germanicus. Exiled to the island of Pandateria.</note>
+                    </person>
+                    <person xml:id="Germanicus" sex="male">
+                        <persName> Germanicus</persName>
+                        <note>(15 BC-19 AD) Prominent general of the Roman Empire. Died on campaign
+                            at a young age.</note>
+                    </person>
+                    <person xml:id="Augustus" sex="male">
+                        <persName>Augustus</persName>
+                        <note>(63 BC-14 AD) Expert Roman statesman and military leader, first
+                            emperor of the Roman Empire. Great-nephew of Julius Caesar. Initated the
+                            period of Roman Peace, while also expanding the Roman Empire. </note>
+                    </person>
+                    <person xml:id="Cicero" sex="male">
+                        <persName>Cicero </persName>
+                        <note>(106-43 BC) Roman statesman, orator, lawyer, philsopher, and consul.</note>
+                    </person>
+                    <person xml:id="CPulchra" sex="female">
+                        <persName>Claudia Pulchra</persName>
+                        <note>(14 BC-26 AD) Great-niece of Augustus. Close friend to her second
+                            cousin Agrippina the Elder. Died in exile.</note>
+                    </person>
+                    <person xml:id="Tiberius" sex="male">
+                        <persName>Tiberius</persName>
+                        <note>(42 BC-37 AD) Second emperor after Augustus. Successful military
+                            general. </note>
+                    </person>
+                    <person xml:id="CAlrude" sex="female">
+                        <persName> Countess Alrude of Berinoro</persName>
+                        <note>12th-century Italian noblewoman and military leader. </note>
+                    </person>
+                    <person xml:id="WAdelardi" sex="male">
+                        <persName>William degli Adelardi, of Ferrara</persName>
+                    </person>
+                    <person xml:id="IsabeloA" sex="female">
+                        <persName>Isabel of Arundel</persName>
+                        <note>(1226-1282) English noblewoman and religious patron who founded an
+                            Abbey. </note>
+                    </person>
+                    <person xml:id="EHugh" sex="male">
+                        <persName>Hugh, Earl of Arundel</persName>
+                        <note>(died in 1243) English Nobleman and politican. </note>
+                    </person>
+                    <person xml:id="KHenryIII" sex="male">
+                        <persName>King Henry III</persName>
+                        <note>(1207-1272) King of England from 1216 until his death. Pious, but
+                            unpopular, King. </note>
+                    </person>
+                    <person xml:id="MDeSavoie" sex="female">
+                        <persName>Magdaleine De Savoie </persName>
+                        <note>(1510-1574) French court official and wife of Anne de Montmorency.
+                            Served the queen after her husband's death.</note>
+                    </person>
+                    <person xml:id="DAnne" sex="male">
+                        <persName>Anne, Duc de Montmorenci</persName>
+                        <note>(1493-1567) French soldier, statesman and diplomat who became Marshal
+                            and Constable of France.</note>
+                    </person>
+                    <person xml:id="KFrancisI" sex="male">
+                        <persName>King Fracis I</persName>
+                        <note>(1494-1547) King of France from 1515 until his death. Patron of the
+                            arts, iniated the French Renaissance. </note>
+                    </person>
+                    <person xml:id="KHenryII" sex="male">
+                        <persName>King Henry II</persName>
+                        <note>(1519-1559) King of France from 1547 until his death. Perserved in the
+                            Italian Wars against the Habsburg and tried to supress the Reformation.
+                        </note>
+                    </person>
+                    <person xml:id="KFrancisII" sex="male">
+                        <persName>King Francis II</persName>
+                        <note>(1544-1560) King of France from 1559 until his death. Married to Mary,
+                            Queen of Scots. </note>
+                    </person>
+                    <person xml:id="KCharlesIV" sex="male">
+                        <persName>King Charles IV</persName>
+                        <note> (1550-1574) King of France from 1560 until his death. King during the
+                            French Wars of Religions between the Catholics and Protestants. </note>
+                    </person>
+                    <person xml:id="MTucker" sex="female">
+                        <persName> Miss Tucker </persName>
+                    </person>
+                    <person xml:id="QElizabeth" sex="female">
+                        <persName>Queen Elizabeth</persName>
+                        <note>(1533-1603) Queen of England from 1558 until her death. Under her
+                            reign, English drama flourished and English adventurers sailed. Known as
+                            the Virgin Queen as she never married. </note>
+                    </person>
+                    <person xml:id="Boadicea" sex="female">
+                        <persName>Boadicea</persName>
+                        <note>(died 60/61 AD) Queen of a British Celtic tribe who led a failed
+                            uprising against the occupying Roman forces. </note>
+                    </person>
+                    <person xml:id="DCE">
+                        <persName>Dispute Concerning Eloquence</persName>
+                    </person>
+                    <person xml:id="OCromwell" sex="male">
+                        <persName>Oliver Cromwell</persName>
+                        <note>(1599-1658) English military and political leader. Served as Lord
+                            Protector of the Commonwealth of England, Scotland, and Ireland from
+                            1653 until his death. </note>
+                    </person>
+                    <person xml:id="CKongigsmark" sex="female">
+                        <persName> Countess of Kongigsmark</persName>
+                        <note> (1662-1728) Swedish and German noblewoman and intellectual. Mistress
+                            of King Augustus. </note>
+                    </person>
+                    <person xml:id="KAugustus" sex="male">
+                        <persName> King Augustus of Poland</persName>
+                        <note>(1670-1733) Elector of Saxony from 1697 until his death, and elected
+                            King of Poland from 1709 until his death. Known as the "the strong" due
+                            to his great physical strength. </note>
+                    </person>
+                    <person xml:id="KCharlesVII" sex="male">
+                        <persName>King Charles VII of Sweden</persName>
+                        <note>(1682-1718) King of Swedan from 1697 until his death. A skilled
+                            military leader and tactian, as well as an able politician. </note>
+                    </person>
+
                 </listPerson>
             </particDesc>
         </profileDesc>
         <revisionDesc>
+            <change when="2019-04-19"><name>Paige McCoy</name> created persons list &amp;
+                biographies</change>
+            <change when="2019-04-18"><name>Ashley Morrison</name> combined all chapters</change>
+            <change when="2019-04-15"><name>Phillip Howells</name>created OCR of Humanity &amp;
+                Eloquence chapters; cropped &amp; edited images</change>
             <change when="2019-03-14"><name>Ashley Morrison</name> added settlement tag</change>
             <change when="2019-02-19"><name>Ashley Morrison</name> create TEI/XML document</change>
-            <change when="2019-02-18"><name>Paige McCoy</name> create OCR of Hospitality
-                chapter</change>
+            <change when="2019-02-18"><name>Paige McCoy</name> create OCR of Hospitality &amp;
+                Filial Affection chapters</change>
             <change when="2019-02-17"><name>Phillip Howells</name> cropped &amp; editted
                 images</change>
             <change when="2019-02-12"><name>Paige McCoy</name>, <name>Ashley Morrison</name>, &amp;
@@ -105,11 +606,87 @@
         </revisionDesc>
     </teiHeader>
     <text>
+        <front>
+            <pb facs="01.jpg"/>
+            <head>NOBLE DEEDS <lb/> OF <lb/> WOMAN. </head>
+
+            <epigraph>
+                <quote>"Noble examples excite us to noble deeds." <lb/> SENECA </quote>
+            </epigraph>
+
+            <docImprint> IN TWO VOLUMES. VOL. I <lb/> Philadelphia: <publisher> CAREY, LEA, AND
+                    BLANCHARD.</publisher>
+                <docDate>1836</docDate>
+            </docImprint>
+            <pb facs="02.jpg"/>
+        </front>
         <body>
             <div1 type="book">
                 <div2 type="volume" n="1">
                     <p>Volume One of Noble Deeds of Woman</p>
-                    <div3 type="chapter">
+                    <div3 type="preface" n="1">
+                        <pb facs="03.jpg"/>
+                        <head>PREFACE.</head>
+
+                        <p>THE pleasure experienced by the author in perusing the scattered records
+                            of female excellence, gave rise to the idea that an interesting
+                            selection might be made from them, and prove not only instructive but
+                            useful. The acknowledged superiority of example over precept confirmed
+                            this opinion, and the ensuing narratives have been chosen as most
+                            suitable to the various conditions and trials of life.</p>
+
+                        <p>Woman,&#8212; to whose fostering care the direction of infaney is
+                            intrusted,&#8212; to whom manhood is indebted for mental recreations and
+                            for consolation in difficulties,&#8212; upon whom also man, in declining
+                            years depends for solace and support,&#8212; too often betrays her
+                            incapacity to fulfil the important duties she is called upon to
+                            undertake. When thus circumstanced she frequently fails in the
+                            performance of a mother's tender obligations, and she not only loses the
+                            affections, but sinks in the estimation, of her husband; &#8212;, or
+                            immersed in the dissipations of society, she neglects to attend to those
+                            more sacred offices on which even her own happiness depends. To the just
+                            fulfillment of these, it is <pb/> necessary she should think, feel, and
+                            act correctly; yet this cannot be expected while the ornamental
+                            accomplishments now cultivated with so much care, are allowed to
+                            supersede the more valuable acquirements. Painting, music, and dancing
+                            mauy afford agreeable recreation, but they must ever yield to the more
+                            important pursuits of life; the strict observance of the duties imposed
+                            on mother, daughter, sister, wife, and friend, commands the esteem and
+                            respect of others, and confers lasting happiness on ourselves. In the
+                            discharge of these how delightful to contemplate the examples of a
+                                    <name><persName>Cornelia</persName></name>, a
+                                    <name><persName>Lady Russel</persName></name>, and an
+                                    <name><persName>Elizabeth Cazotte</persName></name>!</p>
+
+                        <p>The performance of the domestic obligations, which are more calculated to
+                            court the esteem of the few than to excite the admiration of many, is
+                            the natural province of the sex: but Woman's sphere of action is not, at
+                            all times, to be so circumscribed: her intergrity, fortitude, courage,
+                            and presence of mind, may frequently be called forth by adventitious
+                            circumstances. In extraordinary times, as those in which we live, she
+                            may be placed in situations of difficultly, if not danger: let her then
+                            prepare herself to encounter them, by studying the examples now
+                            presented for her contemplation. Then, should her integrity be
+                            questioned, she may imitate that of the <name><persName>Duchess de
+                                    Longueville</persName></name>; &#8212; should afflications
+                            overtake her, she may learn fortitute from <name><persName>Madame
+                                    Roland</persName></name>; &#8212; should unexpected dangers
+                            await her, she may acquire courage and presence of mind from the conduct
+                            <pb/> of <name><persName>Maragaret of Anjou</persName></name>; &#8212;
+                            and should the hour of trail occur, <placeName>Britain</placeName> will
+                            find her not deficient in patriotism: her trinkets and money will then,
+                            like those of the ladies of <name><placeName>France</placeName></name>
+                            and <name><placeName>Rome</placeName></name>, be laid on the altar of
+                            the her country. Her's will be the NOBLE DEEDS OF WOMAN! by uniting the
+                            sublime virtue of patriotism with the sublime virtue of patriotism with
+                            the exercise of every domestic and social duty! </p>
+
+                        <p>
+                            <name><placeName>London</placeName></name>; <date when="18350106">June
+                                1st, 1835</date></p>
+
+                    </div3>
+                    <div3 type="chapter" n="1">
                         <pb facs="noble_006.jpg" n="39"/>
                         <fw>39</fw>
                         <head>Hospitality.</head>
@@ -135,29 +712,32 @@
                         <pb facs="noble_007.jpg" n="40"/>
                         <fw>40 HOSPITALITY.</fw>
                         <quote>"Haste, gentle lady, haste—there waits A noble stranger at the
-                            gates." <persName>S<hi rend="smallCaps">ir</hi> W<hi rend="smallCaps"
-                                    >alter</hi> S<hi rend="smallCaps">cott</hi></persName>
+                            gates." <persName ref="#SWalter">S<hi rend="smallCaps">ir</hi> W<hi
+                                    rend="smallCaps">alter</hi> S<hi rend="smallCaps"
+                                >cott</hi></persName>
                         </quote>
-                        <p>W<hi rend="smallCaps">ashington</hi> I<hi rend="smallCaps">rving</hi>, in
-                            his Life of Columbus, gives an interesting account of Anacaona, widow of
-                            Caonabo, who, after the capture of her husband by the Spaniards, had
-                            taken refuge with her brother, the Cacique Behechio, who governed the
-                            province of <settlement type="province" subtype="chiefdom"
+                        <p><persName ref="#WIrving">W<hi rend="smallCaps">ashington</hi> I<hi
+                                    rend="smallCaps">rving</hi></persName>, in his Life of Columbus,
+                            gives an interesting account of <persName ref="#Anacaona"
+                                >Anacaona</persName>, widow of <persName ref="#Caonabo"
+                                >Caonabo</persName>, who, after the capture of her husband by the
+                            Spaniards, had taken refuge with her brother, the Cacique Behechio, who
+                            governed the province of <settlement type="province" subtype="chiefdom"
                                 >Xaragua</settlement>.</p>
                         <p>On the death of Behechio, Anacaona succeeded to the government. Her
                             magnanimous spirit was evinced in her amicable treatment of the
                             Spaniards, towards whom, notwithstanding the ruin in which they had
                             involved her husband, who died their prisoner, she appears to have
                             entertained no vindictive feeling.</p>
-                        <p>Notwithstanding the friendly behaviour of Anacaona, Ovando, the Spanish
-                            general, imagined that there was a deep-laid conspiracy, among the
-                            Indians of <settlement type="province" subtype="chiefdom"
-                                >Xaragua</settlement>, to rise upon the Spaniards; and he "set out
-                            for that prodvince, at the head of three hundred foot soldiers, armed
-                            with swords, arquebuses, and crossbows, and seventy horsemen, with
-                            cuirasses, bucklers, and lances. He pretended that he was going on a
-                            mere visit to Anacaona, and to make an arrangement about the payment of
-                            tribute.</p>
+                        <p>Notwithstanding the friendly behaviour of Anacaona, <persName
+                                ref="#GOvando">Ovando</persName>, the Spanish general, imagined that
+                            there was a deep-laid conspiracy, among the Indians of <settlement
+                                type="province" subtype="chiefdom">Xaragua</settlement>, to rise
+                            upon the Spaniards; and he "set out for that prodvince, at the head of
+                            three hundred foot soldiers, armed with swords, arquebuses, and
+                            crossbows, and seventy horsemen, with cuirasses, bucklers, and lances.
+                            He pretended that he was going on a mere visit to Anacaona, and to make
+                            an arrangement about the payment of tribute.</p>
                         <p>"When Anacaona heard of this intended visit, she sent to all her
                             tributary caciques, and to all her principal subjects, to assemble at
                             her chief town, that they might receive the commander of the Spaniards
@@ -214,24 +794,26 @@
                         <quote>"This ancient fortress of my race Shall be misfortune’s
                             resting-place, Shelter and shield of the distress’d, No slaughter-house
                             for shipwreck’d guest."</quote>
-                        <p>"R<hi rend="smallCaps">enata</hi>, Duchess of <settlement type="city"
-                                >Ferrara</settlement>, daughter of Louis the Twelfth, and of Anne of
-                            Bretagne, after her conversion to the Protestant faith, and her
-                            retirement to the castle of <settlement type="commune"
-                                >Montargis</settlement>, was distinguished by her hospitality and
-                            goodness. She displayed her kindness more particularly towards her
-                            countrymen: every Frenchman, who in travelling through <settlement
-                                type="city">Ferrara</settlement> was exposed to want or sickness,
-                            experienced her benevolence and liberality. After the return of the Duke
-                            of Guise from <settlement type="country">Italy</settlement>, she saved,
-                            as the army passed through <settlement type="city">Ferrara</settlement>,
-                            more than <hi rend="italics">ten thousand</hi> of the French from
-                            perishing by want and hardships. Her steward representing to her the
-                            enormous sums which her bounty thus expended, 'What,' replied she,
-                            'would you have me do? These are my countrymen, who would have been my
-                            subjects but for the Salic law.' During the civil wars in <settlement
-                                type="country">France</settlement>, she retired into her city and
-                            castle of <settlement type="commune">Montargis</settlement>, where she
+                        <p><persName ref="#DFerrara">"R<hi rend="smallCaps">enata</hi>, Duchess of
+                                    <settlement type="city">Ferrara</settlement></persName>,
+                            daughter of <persName ref="#KLouisXII">Louis the Twelfth</persName>, and
+                            of <persName ref="#AnneoB">Anne of Breagne</persName>, after her
+                            conversion to the Protestant faith, and her retirement to the castle of
+                                <settlement type="commune">Montargis</settlement>, was distinguished
+                            by her hospitality and goodness. She displayed her kindness more
+                            particularly towards her countrymen: every Frenchman, who in travelling
+                            through <settlement type="city">Ferrara</settlement> was exposed to want
+                            or sickness, experienced her benevolence and liberality. After the
+                            return of the Duke of Guise from <settlement type="country"
+                                >Italy</settlement>, she saved, as the army passed through
+                                <settlement type="city">Ferrara</settlement>, more than <hi
+                                rend="italics">ten thousand</hi> of the French from perishing by
+                            want and hardships. Her steward representing to her the enormous sums
+                            which her bounty thus expended, 'What,' replied she, 'would you have me
+                            do? These are my countrymen, who would have been my subjects but for the
+                            Salic law.' During the civil wars in <settlement type="country"
+                                >France</settlement>, she retired into her city and castle of
+                                <settlement type="commune">Montargis</settlement>, where she
                             received and supported numbers of distressed persons, who had been
                             driven from their homes and estates."</p>
                         <p>"I myself," says Brantome, "during the second period of these troubles,
@@ -249,59 +831,63 @@
                         <lb type="horBar"/>
                         <quote>"If a hope of safety rest, 'Tis on the sacred name of guest."</quote>
                         <p>H<hi rend="smallCaps">ospitality</hi> has been too often dangerous to
-                            those by whom it has been exercised: during the proscriptions of Marius
-                            and Sylla, it was considered a crime against the state to afford shelter
-                            to the outlawed fugitives, and punished by the extreme penalty of the
-                            law. Yet, in those as well as later times, women have been found who,
-                            with a courage superior to all hazard, have dared to acquit themselves
-                            of this first duty to society, and who have chosen to peril their lives
-                            and fortunes, rather than violate its sacred ties. It is a painful
-                            reflection that such self-devoted and heroic beings should have
-                            sometimes experienced the basest ingratitude from the objects of their
-                            bounty; yet it was by no means an infrequent occurrence for those, whose
-                            disin- <pb facs="noble_012.jpg" n="45"/>
+                            those by whom it has been exercised: during the proscriptions of
+                                <persName ref="#Marius">Marius</persName> and <persName ref="#Sylla"
+                                >Sylla</persName>, it was considered a crime against the state to
+                            afford shelter to the outlawed fugitives, and punished by the extreme
+                            penalty of the law. Yet, in those as well as later times, women have
+                            been found who, with a courage superior to all hazard, have dared to
+                            acquit themselves of this first duty to society, and who have chosen to
+                            peril their lives and fortunes, rather than violate its sacred ties. It
+                            is a painful reflection that such self-devoted and heroic beings should
+                            have sometimes experienced the basest ingratitude from the objects of
+                            their bounty; yet it was by no means an infrequent occurrence for those,
+                            whose disin- <pb facs="noble_012.jpg" n="45"/>
                             <fw> HOSPITALITY. 45</fw> terested compassion had generously bestowed
                             shelter and support to the houseless wanderer, to be, in return for such
                             favours, denounced as traitors, for the sake of the paltry reward
                             offered for their apprehension.</p>
-                        <p>An example of this occurred in the reign of James the Second. "During
-                            Monmouth's rebellion, one of his followers, knowing the humane
-                            disposition of a lady of the name of Gaunt, whose life was one continued
-                            exercise of beneficence, fled to her house, where he was concealed and
-                            maintained for some time. Hearing, however, of the proclamation which
-                            promised an indemnity and reward to those who discovered such as
-                            harboured the rebels, he betrayed his benefactress; and such was the
-                            spirit of justice and equity which prevailed among the ministers, that
-                            the ungrateful wretch was pardoned, and recompensed for his treachery,
-                            while his benefactress was <hi rend="italics">burnt alive</hi> for her
-                            charity towards him."</p>
+                        <p>An example of this occurred in the reign of <persName ref="#KJamesII"
+                                >James the Second</persName>. "During Monmouth's rebellion, one of
+                            his followers, knowing the humane disposition of a <persName
+                                ref="#MGaunt">lady of the name of Gaunt</persName>, whose life was
+                            one continued exercise of beneficence, fled to her house, where he was
+                            concealed and maintained for some time. Hearing, however, of the
+                            proclamation which promised an indemnity and reward to those who
+                            discovered such as harboured the rebels, he betrayed his benefactress;
+                            and such was the spirit of justice and equity which prevailed among the
+                            ministers, that the ungrateful wretch was pardoned, and recompensed for
+                            his treachery, while his benefactress was <hi rend="italics">burnt
+                                alive</hi> for her charity towards him."</p>
                         <lb type="horBar"/>
                         <quote>"Take with free welcome what our hands prepare, Such food as falls to
                             simple servants' share." P<hi rend="smallCaps">ope's</hi> H<hi
                                 rend="smallCaps">omer</hi>.</quote>
                         <p>"A<hi rend="smallCaps">fter</hi> the battle of <settlement type="village"
                                 >Culloden</settlement>, so fatal to the last hopes of the House of
-                            Stuart, Colonel Stuart, attended by his friend, Mr. Hamilton of Balgour,
-                            sought his personal safety in flight. They approached a lonely hut in
-                            the Highlands, to which Mr. Hamilton went to ask</p>
+                            Stuart, <persName ref="#CStuart">Colonel Stuart</persName>, attended by
+                            his friend, Mr. Hamilton of Balgour, sought his personal safety in
+                            flight. They approached a lonely hut in the Highlands, to which Mr.
+                            Hamilton went to ask</p>
                         <fw>E*</fw>
                         <pb facs="noble_013.jpg" n="46"/>
                         <fw>46 HOSPITALITY.</fw>
-                        <p>shelter for an unfortunate stranger. The good woman opened her wattled
-                            door, and his looks comprehended at once that a poor refugee was in
-                            distress: though she did not understand one word of English, she
-                            followed Mr. Hamilton to the spot where he had left Colonel Stuart, who
-                            addressed her in her native tongue, and as his case was desperate,
-                            confided to her their names and their peril. She told him the cattle
-                            were pasturing near her cottage; but if he would wait a little, she
-                            would send the herds out of view, and get him removed without exciting
-                            suspicion. Having succeeded in this, she kept them concealed for several
-                            days; and when they at length quitted their humane preserver, she loaded
-                            them with provisions, accompanied them for several miles, pointing out
-                            the unfrequented paths, or where they might venture to ask for a
-                            lodging, refusing at the same time the slightest remuneration. What adds
-                            to the merit of the action, is that the poor widow had lost two sons in
-                            the king’s cause, to which she was strongly attached."</p>
+                        <p>shelter for an unfortunate stranger. The <persName ref="#HWidow">good
+                                woman</persName> opened her wattled door, and his looks comprehended
+                            at once that a poor refugee was in distress: though she did not
+                            understand one word of English, she followed Mr. Hamilton to the spot
+                            where he had left Colonel Stuart, who addressed her in her native
+                            tongue, and as his case was desperate, confided to her their names and
+                            their peril. She told him the cattle were pasturing near her cottage;
+                            but if he would wait a little, she would send the herds out of view, and
+                            get him removed without exciting suspicion. Having succeeded in this,
+                            she kept them concealed for several days; and when they at length
+                            quitted their humane preserver, she loaded them with provisions,
+                            accompanied them for several miles, pointing out the unfrequented paths,
+                            or where they might venture to ask for a lodging, refusing at the same
+                            time the slightest remuneration. What adds to the merit of the action,
+                            is that the poor widow had lost two sons in the king’s cause, to which
+                            she was strongly attached."</p>
                         <lb type="horBar"/>
                         <quote>"O, Woman! When pain and anguish wring the brow, A ministering angel
                             thou!" <persName>S<hi rend="smallCaps">ir</hi> W<hi rend="smallCaps"
@@ -312,27 +898,28 @@
                             <fw>HOSPITALITY, 47</fw> same period, by the conduct of a clergyman and
                             his wife, of the name of Gordon.</p>
                         <p>"After the battle of <settlement type="village">Culloden</settlement>,
-                            immense numbers of officers and men received refreshments from Mrs.
-                            Gordon, and every part of the manse, except one room, was filled with
-                            the wounded. To guard against treachery, Mrs. Gordon lodged the
-                            fugitives in separate apartments. So cautiously did she conceal from
-                            each, the condition of the others, that the first request was, that they
-                            would not intrust her with their real names: she could serve them under
-                            a fictitious appellation. In this manner a father and son were five
-                            months under her roof, without knowing their proximity. Colonel Stuart,
-                            being a native of the neighbouring country, was personally known, and,
-                            with his usual impetuosity, had introduced his friend Mr. Hamilton,
-                            before Mrs. Gordon could ask him to give only a borrowed name. However,
-                            she said, the gentleman must in future assume the designation of Mr.
-                            Milton, and the colonel himself must be Mr. Grey. She gave separate
-                            chambers to each, and as Colonel Stuart was the most obnoxious to
-                            government, the window of his room allowed a speedy retreat to the lake,
-                            where a boat was constantly in waiting, to facilitate his escape to the
-                            upper district of <settlement type="district">Badenoch</settlement>, in
-                            case of a close pursuit by the military stationed all around, to
-                            intercept the outlaws. In a few days Colonel Stuart found he must betake
-                            himself to his friends in the mountains; but the inquest in that quarter
-                            be- <pb facs="noble_015.jpg" n="48"/>
+                            immense numbers of officers and men received refreshments from <persName
+                                ref="#MGordon">Mrs. Gordon</persName>, and every part of the manse,
+                            except one room, was filled with the wounded. To guard against
+                            treachery, Mrs. Gordon lodged the fugitives in separate apartments. So
+                            cautiously did she conceal from each, the condition of the others, that
+                            the first request was, that they would not intrust her with their real
+                            names: she could serve them under a fictitious appellation. In this
+                            manner a father and son were five months under her roof, without knowing
+                            their proximity. Colonel Stuart, being a native of the neighbouring
+                            country, was personally known, and, with his usual impetuosity, had
+                            introduced his friend Mr. Hamilton, before Mrs. Gordon could ask him to
+                            give only a borrowed name. However, she said, the gentleman must in
+                            future assume the designation of Mr. Milton, and the colonel himself
+                            must be Mr. Grey. She gave separate chambers to each, and as Colonel
+                            Stuart was the most obnoxious to government, the window of his room
+                            allowed a speedy retreat to the lake, where a boat was constantly in
+                            waiting, to facilitate his escape to the upper district of <settlement
+                                type="district">Badenoch</settlement>, in case of a close pursuit by
+                            the military stationed all around, to intercept the outlaws. In a few
+                            days Colonel Stuart found he must betake himself to his friends in the
+                            mountains; but the inquest in that quarter be- <pb facs="noble_015.jpg"
+                                n="48"/>
                             <fw>48 HOSPITALITY.</fw> ing more rigid, he returned to Alvey, and
                             hearing music and dancing, he got in at the window of his own room and
                             went to bed. He had been two days and three nights without rest,
@@ -373,9 +960,10 @@
                             let affliction grieve. By Jove the stranger and the poor are sent, And
                             what to those we give, to Jove is lent." P<hi rend="smallCaps"
                                 >ope's</hi> H<hi rend="smallCaps">omer</hi>. </quote>
-                        <p>T<hi rend="smallCaps">he</hi> celebrated traveler, Mr. Mungo Park,
-                            experienced the hospitality of the female-sex on many occasions. “In his
-                            first African journey he had arrived at <settlement type="city"
+                        <p>T<hi rend="smallCaps">he</hi> celebrated traveler, Mr. <persName
+                                ref="#MPark">Mungo Park</persName>, experienced the hospitality of
+                            the <persName ref="#AWoman">female-sex</persName> on many occasions. “In
+                            his first African journey he had arrived at <settlement type="city"
                                 >Sego</settlement>, the capital of the kingdom of <settlement
                                 type="state" subtype="kingdom">Bambarra</settlement>, and sought to
                             obtain a passage across the river to that part of the town in which the
@@ -421,10 +1009,11 @@
                                 type="country">France</settlement>, and every where sought that
                             asylum which was too often denied them by self-love and cowardice,
                             Gaudet found a place of succour and safety in the house of one of his
-                            female relatives, whose name was Bouquet, not only for himself, but also
-                            for his friend Salles. The news of this unexpected relief being carried
-                            to three companies of the proscribed Deputies, they determined to beg
-                            this courageous woman to permit them to share in the retreat of their
+                            female relatives, whose name was <persName ref="#MBouquet"
+                                >Bouquet</persName>, not only for himself, but also for his friend
+                            Salles. The news of this unexpected relief being carried to three
+                            companies of the proscribed Deputies, they determined to beg this
+                            courageous woman to permit them to share in the retreat of their
                             friends. A <pb facs="noble_019.jpg" n="52"/>
                             <fw>52 HOSPITALITY.</fw> faithful messenger was found, and returned in a
                             few hours with the answer. Madame Bouquet invited them to come; but, at
@@ -538,16 +1127,17 @@
                         <p>"A<hi rend="smallCaps">nother</hi> outlawed Deputy, Lanjuinais, took
                             refuge at <settlement type="city">Rennes</settlement>, at a house
                             belonging to his mother, and of which an old female domestic had the
-                            care. The fear of terrifying this poor woman caused him, at first, to
-                            conceal from her his real situation; but having learnt from the public
-                            papers the execution of Guadet, at <settlement type="city"
-                                >Bourdeaux</settlement>, and that the government had extended their
-                            inveterate proscriptions to those friends of the outlawed Deputies who
-                            should give them shelter, and even to the domestics who would not reveal
-                            the places of their concealment, he determined immediately to declare
-                            himself, and prevail upon her to shun the impending danger by instantly
-                            quitting the house. The declaration of his misfortunes, so far from
-                            influencing this affectionate <pb facs="noble_024.jpg" n="57"/>
+                            care. The fear of terrifying this <persName ref="#FFrenchwoman">poor
+                                woman</persName> caused him, at first, to conceal from her his real
+                            situation; but having learnt from the public papers the execution of
+                            Guadet, at <settlement type="city">Bourdeaux</settlement>, and that the
+                            government had extended their inveterate proscriptions to those friends
+                            of the outlawed Deputies who should give them shelter, and even to the
+                            domestics who would not reveal the places of their concealment, he
+                            determined immediately to declare himself, and prevail upon her to shun
+                            the impending danger by instantly quitting the house. The declaration of
+                            his misfortunes, so far from influencing this affectionate <pb
+                                facs="noble_024.jpg" n="57"/>
                             <fw>HOSPITALTY. 57</fw> creature to avoid a participation of them, only
                             made her resolute not to abandon him in the hour of danger. 'It is
                             nothing to die,' said she, 'but it is a great deal to save the life of
@@ -559,9 +1149,10 @@
                             rejected his reasons, and persisted to demand, as a special favour, the
                             privilege of remaining with him. She prevailed, and through the zeal and
                             exertions of this worthy domestic, Lanjuinais finally escaped the
-                            researches of the government until the fall of Robespierre, when his
-                            benefactress received, in the liberty and safety of her master, an ample
-                            reward for her toils and virtuous perseverance."</p>
+                            researches of the government until the fall of <persName
+                                ref="#Robespierre">Robespierre</persName>, when his benefactress
+                            received, in the liberty and safety of her master, an ample reward for
+                            her toils and virtuous perseverance."</p>
                         <lb type="horBar"/>
                         <quote>"What is this passing scene? A peevish April day! A little sun, a
                             little rain, And then night sweeps along the plains, And all things fade
@@ -571,16 +1162,17 @@
                         <p>"R<hi rend="smallCaps">abaud</hi> D<hi rend="smallCaps">d</hi> S<hi
                                 rend="smallCaps">t</hi>. E<hi rend="smallCaps">tienne</hi> also was
                             compelled to fly from place to place, every moment in danger of falling
-                            into the hands of his pursuers. Madame Paysac, an inhabitant of
-                                <fw>F*</fw>
+                            into the hands of his pursuers. <persName ref="#MPaysac">Madame
+                                Paysac</persName>, an inhabitant of <fw>F*</fw>
                             <pb facs="noble_025.jpg" n="58"/>
                             <fw>58 HOSPITALITY.</fw>
                             <settlement type="city">Paris</settlement>, having learnt that he was
                             concealed somewhere in that city, took every possible means to discover
                             his retreat, that she might offer him a more secure asylum in her own
-                            house. The worthy St. Etienne refused to avail himself of a friendship
-                            that could scarcely fail to entail destruction on such a generous being,
-                            but Madame Paysac would admit of no denial.</p>
+                            house. The worthy <persName ref="#RStEtienne">St. Etienne</persName>
+                            refused to avail himself of a friendship that could scarcely fail to
+                            entail destruction on such a generous being, but Madame Paysac would
+                            admit of no denial.</p>
                         <p>"'What,' said she, 'because there is some danger to be hazarded in the
                             attempt to save you, would you have me leave you to perish? What merit
                             is there in benevolence that is exercised only when there is no need of
@@ -602,13 +1194,14 @@
                             <fw>HOSPITALITY. 59</fw> the dangers of proscription. There was
                             something in the appearance of this stranger that at once inspired
                             respect and confidence; his gray hairs, the traces that sorrow had left
-                            on countenance, greatly affected Madame Ruvilly, whose compassionate
-                            heart was ever alive to the claims of humanity. She did not consider her
-                            own danger, she did not even inquire who the person was to whom she was
-                            about to give a shelter that might involve her in utter ruin,&#8212;he
-                            was unfortunate, and Madame Ruvilly could not resist such a title. She
-                            concealed him, and sought to lessen the sense of his misfortunes by her
-                            kindness and attentions.</p>
+                            on countenance, greatly affected <persName ref="#MRuvilly">Madame
+                                Ruvilly</persName>, whose compassionate heart was ever alive to the
+                            claims of humanity. She did not consider her own danger, she did not
+                            even inquire who the person was to whom she was about to give a shelter
+                            that might involve her in utter ruin,&#8212;he was unfortunate, and
+                            Madame Ruvilly could not resist such a title. She concealed him, and
+                            sought to lessen the sense of his misfortunes by her kindness and
+                            attentions.</p>
                         <p>"At the expiration of two days, the stranger came to take leave of her.
                             Madame Ruvilly, whose pity and delicacy had forbade her to question him,
                             could not forbear expressing her astonishment at his abrupt departure.
@@ -653,11 +1246,13 @@
                             out their bread to feed the crying orphan, Or mix, their pitying tears
                             with those that weep !" Rowe.</quote>
 
-                        <p>DURING the second regency of Queen Blanche, wife of Louis VIII. of
-                            France, which commenced in 1248, the inhabitants of Chatenai and various
-                            towns, had, on arbitrary pretences, been imprisoned by the chapter of
-                            Paris. The deplorable condition of the French nation at this period was
-                            such, that the people were sold dependances with their lands.</p>
+                        <p>DURING the second regency of <persName ref="#QBlanche">Queen
+                                Blanche</persName>, wife of <persName ref="#KLouisVIII">Louis
+                                VIII</persName>. of France, which commenced in 1248, the inhabitants
+                            of Chatenai and various towns, had, on arbitrary pretences, been
+                            imprisoned by the chapter of Paris. The deplorable condition of the
+                            French nation at this period was such, that the people were sold
+                            dependances with their lands.</p>
                         <p>A crowd of victims, wanting even the necessaries of life, languished in
                             the prisons of the</p>
                         <pb facs="humanity_002.jpg"/>
@@ -699,20 +1294,20 @@
                                 <persName>Shakespeare.</persName></quote>
 
                         <p>"During the period of the wars between the kingdoms of Naples and Sicily,
-                            Charles, prince of Salerno, only son of the King of Naples, was taken
-                            prisoner by the Sicilians, and carried by them into Sicily : he was,
-                            however, fortunate enough to escape the general massacre of the
-                            Neapolitan prisoners, which took place immediately after their arrival
-                            in that kingdom.</p>
+                                <persName ref="#PCharles">Charles, prince of Salerno</persName>,
+                            only son of the King of Naples, was taken prisoner by the Sicilians, and
+                            carried by them into Sicily : he was, however, fortunate enough to
+                            escape the general massacre of the Neapolitan prisoners, which took
+                            place immediately after their arrival in that kingdom.</p>
                         <p>"Constantia of Arragon, who governed Sicily in the absence of her husband
                             Peter, terrified by the ferocious clamours of the populace, who, on the
                             destruction of the other prisoners, demanded the immediate execution of
                             the Prince, sent him orders to prepare within a few hours for death.
                             Fortunately for Charles, the day appointed for his death was a Friday :
-                            he received Constantia's message with an unmoved countenance, calmly
-                            replying, “I am well content to die that grievous death, remembering
-                            that my Lord and Saviour on this day voluntarily suffered his death and
-                            passion.”</p>
+                            he received <persName ref="#ConstantiaoA">Constantia</persName>'s
+                            message with an unmoved countenance, calmly replying, “I am well content
+                            to die that grievous death, remembering that my Lord and Saviour on this
+                            day voluntarily suffered his death and passion.”</p>
                         <p>“Constantia was recalled to a sense of her</p>
                         <pb facs="humanity_003.jpg"/>
                         <fw>128 HUMANITY,</fw>
@@ -735,13 +1330,15 @@
                             queen, outshone Thy Edward's victor-plume, waving o'er Gallia, throne !"
                                 <persName> Anna Seward</persName>.</quote>
 
-                        <p>Philippa, wife of Edward the Third King of England, affords a memorable
-                            instance humanity.</p>
-                        <p>When, after the siege of Calais, Sir Walter de Manny returned to the camp
-                            of the victorious Edward, bringing with him the noble patriot Eustace de
-                            St. Pierre and his fellow hostages ; the monarch inquired, “ Are these
-                            the principal inhabitants of Calais ?" " They are,” answered Manny, "
-                            not only the principal </p>
+                        <p><persName ref="#QPhilippa">Philippa</persName>, wife of <persName
+                                ref="#KEdwardIII">Edward the Third King of England</persName>,
+                            affords a memorable instance humanity.</p>
+                        <p>When, after the siege of Calais, <persName ref="#SWalter">Sir Walter de
+                                Manny</persName> returned to the camp of the victorious Edward,
+                            bringing with him the noble patriot <persName ref="#EStPierre">Eustace
+                                de St. Pierre</persName> and his fellow hostages ; the monarch
+                            inquired, “ Are these the principal inhabitants of Calais ?" " They
+                            are,” answered Manny, " not only the principal </p>
                         <pb facs="humanity_004.jpg"/>
                         <fw>HUMANITY. 129</fw>
 
@@ -797,10 +1394,11 @@
                             mercy I to others show, That mercy show to me."
                                 <persName>Pope</persName>.</quote>
 
-                        <p><persName>CATHERINE the First</persName>, Empress of Russia, was
-                            celebrated for her humane and compassionate disposition. Upon many
-                            occasions during the lifetime of her husband, the Czar Peter, she
-                            exerted all her influence with him in behalf of the unfortunate.</p>
+                        <p><persName ref="#ECatherine">CATHERINE the First</persName>, Empress of
+                            Russia, was celebrated for her humane and compassionate disposition.
+                            Upon many occasions during the lifetime of her husband, the <persName
+                                ref="#CPeter">Czar Peter</persName>, she exerted all her influence
+                            with him in behalf of the unfortunate.</p>
                         <p> This empress received the following handsome compliment from Motraye,
                             who says, “She had in some sort the government of all his (Peter's)
                             passions, and even saved the lives of a great many persons; she inspired
@@ -829,17 +1427,18 @@
                             rapid turn of fortune’s wheel We live to need the pity we refuse.”
                                 <persName> Mrs. Hannah More.</persName></p>
 
-                        <p><persName>Queen Caroline</persName>, wife of George the Second, being
-                            informed that her eldest daughter (after-wards Princess of Orange,) was
-                            accustomed, at going to rest, to employ one of the ladies of the court
-                            in reading aloud to her till she should drop asleep; and that on one
-                            occasion the Princess suffered the lady, who was indisposed, to continue
-                            the fatiguing duty until she fell down in a swoon, determined to
-                            inculcate on her daughter a lesson of humanity. The next night, the
-                            Queen, when in bed, sent for the Princess, and commanded her to read
-                            aloud. After some time her Royal Highness began to be tired of standing,
-                            and paused, in hopes of receiving an order to be seated. "Proceed,” said
-                            her Majesty. In a short <pb facs="humanity_008.jpg"/>
+                        <p><persName ref="#QCaroline">Queen Caroline</persName>, wife of <persName
+                                ref="#KGeorgeII">George the Second</persName>, being informed that
+                            her eldest daughter (after-wards <persName ref="#POrange">Princess of
+                                Orange</persName>,) was accustomed, at going to rest, to employ one
+                            of the ladies of the court in reading aloud to her till she should drop
+                            asleep; and that on one occasion the Princess suffered the lady, who was
+                            indisposed, to continue the fatiguing duty until she fell down in a
+                            swoon, determined to inculcate on her daughter a lesson of humanity. The
+                            next night, the Queen, when in bed, sent for the Princess, and commanded
+                            her to read aloud. After some time her Royal Highness began to be tired
+                            of standing, and paused, in hopes of receiving an order to be seated.
+                            "Proceed,” said her Majesty. In a short <pb facs="humanity_008.jpg"/>
                             <fw>HUMANITY. 133</fw> a second pause seemed to plead for the rest.
                             “Read on," said the Queen again. The Princess again stopped and again
                             received an order to proceed, till at length, faint and breathless, she
@@ -854,17 +1453,18 @@
                         <quote> “ Earthly power doth then show like God’s When mercy seasons
                             justice.” <persName> Shakespeare.</persName></quote>
 
-                        <p>DURING the reign of the <persName>Empress Maria Theresa</persName>, a
-                            great scarcity of provisions prevailed in Bohemia, and numbers of
-                            famishing people flocked to the capital, (Prague,) imploring relief. The
-                            governor of the city wrote to court of Vienna, that the misery of the
-                            poor people was at length driving them to acts of turbulence and
-                            outrage, which he had not a sufficient force either to prevent or
-                            suppress. The Empress immediately despatched General Count Dalton to
-                            take the command at Prague, to which several regiments were ordered to
-                            repair by forced marches. As soon as the Count found himself
-                            sufficiently reinforced, he ordered all the cannon on the ramparts to be
-                            turned against the city ; and hating so dispersed <fw> M 2</fw>
+                        <p>DURING the reign of the <persName ref="#MTheresa">Empress Maria
+                                Theresa</persName>, a great scarcity of provisions prevailed in
+                            Bohemia, and numbers of famishing people flocked to the capital,
+                            (Prague,) imploring relief. The governor of the city wrote to court of
+                            Vienna, that the misery of the poor people was at length driving them to
+                            acts of turbulence and outrage, which he had not a sufficient force
+                            either to prevent or suppress. The Empress immediately despatched
+                                <persName ref="#GDalton">General Count Dalton</persName> to take the
+                            command at Prague, to which several regiments were ordered to repair by
+                            forced marches. As soon as the Count found himself sufficiently
+                            reinforced, he ordered all the cannon on the ramparts to be turned
+                            against the city ; and hating so dispersed <fw> M 2</fw>
                             <pb facs="humanity_009.jpg"/>
                             <fw>134 HUMANITY.</fw> his troops that it was impossible for any of the
                             disaffected to escape, he walked alone into the midst of some thousands
@@ -910,11 +1510,11 @@
                         <quote> "Sweet mercy is nobility's true badge."
                                 <persName>SHAKESPEARE.</persName></quote>
 
-                        <p>THE beautiful and virtuous Princess di Conti deserves to be mentioned
-                            here. At the early age of nineteen, this illustrious woman sold the
-                            whole of her jewels to relieve the poor during a famine ; an action
-                            which most purchase her ID undying fame. That a woman of her exalted <pb
-                                facs="humanity_011.jpg"/>
+                        <p>THE beautiful and virtuous <persName ref="#PDiConti">Princess di
+                                Conti</persName> deserves to be mentioned here. At the early age of
+                            nineteen, this illustrious woman sold the whole of her jewels to relieve
+                            the poor during a famine ; an action which most purchase her ID undying
+                            fame. That a woman of her exalted <pb facs="humanity_011.jpg"/>
                             <fw>136 HUMANITY.</fw> station should, by the sacrifice of those empty
                             baubles of vanity and ambition on the shrine of humanity, set such an
                             example to her sex, is indeed above all praise.</p>
@@ -927,14 +1527,15 @@
                         <p>AT the time the yellow fever broke out Philadelphia, there was great
                             difficulty in procuring nurses for the sick at the hospital. In this
                             dilemma recourse was had to the prison. The apparent danger was stated
-                            to the female convicts, and their assistance was requested. The
-                            behaviour of these women on the occasion was admirable. As many offered
-                            their services as were wanted, and continued faithful till dreadful
-                            scene was closed, none of them making any demand for their assistance
-                            till all we discharged. When requested to give up their bedsteads for
-                            the use of the sick at the hospital they most humanely offered even
-                            their bedding resigning willingly any little comforts they possessed to
-                            alleviate the wants of their distressed fellow-creatures.</p>
+                            to the <persName ref="#FConvicts">female convicts</persName>, and their
+                            assistance was requested. The behaviour of these women on the occasion
+                            was admirable. As many offered their services as were wanted, and
+                            continued faithful till dreadful scene was closed, none of them making
+                            any demand for their assistance till all we discharged. When requested
+                            to give up their bedsteads for the use of the sick at the hospital they
+                            most humanely offered even their bedding resigning willingly any little
+                            comforts they possessed to alleviate the wants of their distressed
+                            fellow-creatures.</p>
                         <lb type="horBar"/>
                         <pb facs="humanity_012.jpg"/>
                         <fw>HUMANITY. 137</fw>
@@ -943,15 +1544,16 @@
                             given, And deeds of love performed—be gracious now !"</quote>
 
                         <p>During a conflict at the farm of Rainerhoff, in the Tyrolese war, in
-                            1809, a young woman, who resided at the house, brought out a small cask
-                            of wine, with which to encourage and refresh the peasants ; she had
-                            advanced to the scene of action, regardless of the tremendous fire of
-                            the Bavarians carrying the wine upon her head, when a bullet struck the
-                            cask, and compelled her to let it go. Undaunted by this accident, she
-                            endeavoured to repair the mischief, by placing her thumb upon the
-                            orifice caused by the ball ; and then encouraged those nearest her to
-                            refresh themselves quickly, that she might not remain in her dangerous
-                            situation and suffer for her humane generosity to them.</p>
+                            1809, a <persName ref="#SGirl">young woman</persName>, who resided at
+                            the house, brought out a small cask of wine, with which to encourage and
+                            refresh the peasants ; she had advanced to the scene of action,
+                            regardless of the tremendous fire of the Bavarians carrying the wine
+                            upon her head, when a bullet struck the cask, and compelled her to let
+                            it go. Undaunted by this accident, she endeavoured to repair the
+                            mischief, by placing her thumb upon the orifice caused by the ball ; and
+                            then encouraged those nearest her to refresh themselves quickly, that
+                            she might not remain in her dangerous situation and suffer for her
+                            humane generosity to them.</p>
 
                         <lb type="horBar"/>
 
@@ -960,13 +1562,13 @@
                             every danger with unaltering cheek." <persName>ANNA
                             SEWARD.</persName></quote>
 
-                        <p> DURING the siege of Saragossa in the year 1809, the Countess Burita
-                            formed a corps of women for the relief of the wounded, and for the
-                            purpose of carrying provisions and wine to the soldiers. Many persons,
-                            of the most unquestionable veracity in Saragossa, declared that they had
-                            frequently seen this young, delicate, and beautiful woman, coolly
-                            attending to the duties she had prescribed to herself, in <pb
-                                facs="humanity_013.jpg"/>
+                        <p> DURING the siege of Saragossa in the year 1809, the <persName
+                                ref="#CBurita">Countess Burita</persName> formed a corps of women
+                            for the relief of the wounded, and for the purpose of carrying
+                            provisions and wine to the soldiers. Many persons, of the most
+                            unquestionable veracity in Saragossa, declared that they had frequently
+                            seen this young, delicate, and beautiful woman, coolly attending to the
+                            duties she had prescribed to herself, in <pb facs="humanity_013.jpg"/>
                             <fw>138 HUMANITY.</fw> the midst of the most tremendous fire of shot and
                             shells ; nor were they ever able to perceive from the first moment that
                             she entered into these novel scenes, that the idea of personal danger
@@ -984,14 +1586,14 @@
                             drain, so affected by the foetid vapours, that they unable to ascend.
                             The lateness of the (for it was eleven at night) rendered it difficult
                             to procure assistance, and the delay must have been fatal, had not a
-                            young girl, a servant in the family, with courage and humanity that
-                            would have done honour to the most elevated station, at the hazard of
-                            her own life, attempted their deliverance. This generous girl, who was
-                            only seventeen years of age, was, at her own request, let down several
-                            times to poor men by a rope ; she was so fortunate as to save two of
-                            them pretty easily, but, in tying the third to the cord, which was let
-                            down to for that purpose, she found her breath failing, <pb
-                                facs="humanity_014.jpg"/>
+                                <persName ref="#FServant"> young girl </persName>, a servant in the
+                            family, with courage and humanity that would have done honour to the
+                            most elevated station, at the hazard of her own life, attempted their
+                            deliverance. This generous girl, who was only seventeen years of age,
+                            was, at her own request, let down several times to poor men by a rope ;
+                            she was so fortunate as to save two of them pretty easily, but, in tying
+                            the third to the cord, which was let down to for that purpose, she found
+                            her breath failing, <pb facs="humanity_014.jpg"/>
                             <fw>HUMANITY. 139</fw> and was so much affected by the vapour as to be
                             in danger of suffocation. In this dreadful situation, she had the
                             presence of mind to tie herself by her hair to the rope, and was drawn
@@ -1013,38 +1615,77 @@
                         <quote>“ ‘Tis truth divine, exhibited on earth, Gives charity her being and
                             her birth.” <persName>COWPER</persName></quote>
 
-                        <p>DURING the late war between the Turks and the Greeks, some American
-                            ladies, touched by the hardships and sufferings of the latter people,
-                            presented them with a ship containing money and various articles of
-                            wearing-apparel, wrought by their own hands; an offering which, under
-                                <pb facs="humanity_015.jpg"/>
+                        <p>DURING the late war between the Turks and the Greeks, some <persName
+                                ref="#LoAmerica">American ladies</persName>, touched by the
+                            hardships and sufferings of the latter people, presented them with a
+                            ship containing money and various articles of wearing-apparel, wrought
+                            by their own hands; an offering which, under <pb facs="humanity_015.jpg"/>
                             <fw>140 HUMANITY.</fw> their forlorn situation, must have been highly
                             acceptable to the unfortunate Greeks.</p>
-                        <p>The letter of<persName> Mrs. Sigourney</persName>, of Hartford
-                            Connecticut, to the Ladies' Greek Committee of that place, to accompany
-                            the contributions prepared for the Archipelago, was as follows : </p>
-                        <!-- HOW DO WE WANT TO ENCODE LETTERS? 
-                " United States of America, March 12, 1828 
-                The ladies of Hartford, in Connecticut, to 
-                the ladies of Greece.
-                "Sisters and Friends,—From the years of childhood your native clime has been theme of our admiration : together with our brothers and our husbands, we early learned to love the country of Homer, Aristides, of Solon, and of Socrates. That enthusiasm which the glory of ancient Greece enkindled in our bosoms, has preserved a fervent friendship for her descendants. We have beheld with deep sympathy the horrors of Turkish domination, and the struggle so long and nobly sustained by them for existence and for liberty.
-                "The communications of Dr. Howe, since his return from your land, have made us more intimately acquainted with your personal sufferings. He has presented many of you to us in his vivid descriptions, as seeking refuge in caves, and, under the branches of olive trees, listening for the footsteps of the destroyer, and mourning over your dearest ones slain in battle.
-                "Sisters and friends, our hearts bleed for you! Deprived of your protectors by the fortune of war, and continually in fear of evils worse than death, our prayers are with you, in all your
-                <pb facs="humanity_016.jpg"/>
-                <fw>HUMANITY.		141</fw>
-                
-                wanderings, your wants and your griefs. In this vessel (which may God send in safety to your shores) you will receive a portion of that bounty wherewith He hath blessed us. The poor among us have given according to their ability, and our little children have cheerfully aided, that some of you and your children might have bread to eat, and raiment to put on. Could you but behold the faces of our little ones brighten, and their eyes sparkle with joy, while they give up their holidays, that they might work with their needles for Greece ; could you see those females who earn a subsistence by labour, gladly casting their mite into our treasury, and taking hours from their repose that an additional garment might be furnished for you ; could you witness the active spirit that pervades all classes of our community, it would cheer for a moment the darkness and misery of your lot. 
-                “We are inhabitants of a part of one of the smallest of the United States, and our donations
-                must therefore, of necessity, be more limited than those from the larger and more wealthy cities ; yet such as we have, we give the name of our dear Saviour, with our blessings and our prayers.
-                “We know the value of sympathy—how it warms the heart to endure—how it plucks the sting from sorrow—therefore we have written these few lines to assure you, that in the remoter parts of our country, as well as in her high places, you are remembered with pity and affection.  
-               <fw> VOL. I.	N</fw>
-                <pb facs="humanity_017.jpg"/>
-               <fw> 142	HUMANITY.</fw>
-                
-                " Sisters and friends, we extend across ocean our hands to you in the fellowship of Christ. We pray that His Cross and the banner of your land may rise together over Crescent and the Minaret—that your sons may hail the freedom of ancient Greece restored, and build again the waste places which oppressor hath trodden down ; and that admitted once more to the felicities of home may gather from past perils and adversities a brighter wreath for the kingdom of Heaven.
-                "LYDIA H. SIGOURNEY,
-                " Secretary of the Greek Committee of
-                Hartford, Connecticut." -->
+                        <p>The letter of<persName ref="#LSigourney">Mrs. Sigourney</persName>, of
+                            Hartford Connecticut, to the Ladies' Greek Committee of that place, to
+                            accompany the contributions prepared for the Archipelago, was as follows
+                            : </p>
+
+                        <div4 type="letter">
+                            <opener>"United States of America,March 12, 1828, The ladies of
+                                Hartford, in Connecticut, to the ladies of Greece.</opener>
+                            <p>"Sisters and Friends,—From the years of childhood your native clime
+                                has been theme of our admiration : together with our brothers and
+                                our husbands, we early learned to love the country of Homer,
+                                Aristides, of Solon, and of Socrates. That enthusiasm which the
+                                glory of ancient Greece enkindled in our bosoms, has preserved a
+                                fervent friendship for her descendants. We have beheld with deep
+                                sympathy the horrors of Turkish domination, and the struggle so long
+                                and nobly sustained by them for existence and for liberty.</p>
+                            <p>"The communications of Dr. Howe, since his return from your land,
+                                have made us more intimately acquainted with your personal
+                                sufferings. He has presented many of you to us in his vivid
+                                descriptions, as seeking refuge in caves, and, under the branches of
+                                olive trees, listening for the footsteps of the destroyer, and
+                                mourning over your dearest ones slain in battle.</p>
+                            <p>"Sisters and friends, our hearts bleed for you! Deprived of your
+                                protectors by the fortune of war, and continually in fear of evils
+                                worse than death, our prayers are with you, in all your <pb
+                                    facs="humanity_016.jpg"/>
+                                <fw>HUMANITY. 141</fw> wanderings, your wants and your griefs. In
+                                this vessel (which may God send in safety to your shores) you will
+                                receive a portion of that bounty wherewith He hath blessed us. The
+                                poor among us have given according to their ability, and our little
+                                children have cheerfully aided, that some of you and your children
+                                might have bread to eat, and raiment to put on. Could you but behold
+                                the faces of our little ones brighten, and their eyes sparkle with
+                                joy, while they give up their holidays, that they might work with
+                                their needles for Greece ; could you see those females who earn a
+                                subsistence by labour, gladly casting their mite into our treasury,
+                                and taking hours from their repose that an additional garment might
+                                be furnished for you ; could you witness the active spirit that
+                                pervades all classes of our community, it would cheer for a moment
+                                the darkness and misery of your lot. </p>
+                            <p>“We are inhabitants of a part of one of the smallest of the United
+                                States, and our donations must therefore, of necessity, be more
+                                limited than those from the larger and more wealthy cities ; yet
+                                such as we have, we give the name of our dear Saviour, with our
+                                blessings and our prayers.</p>
+                            <p>“We know the value of sympathy—how it warms the heart to endure—how
+                                it plucks the sting from sorrow—therefore we have written these few
+                                lines to assure you, that in the remoter parts of our country, as
+                                well as in her high places, you are remembered with pity and
+                                affection. </p>
+                            <fw> VOL. I. N</fw>
+                            <pb facs="humanity_017.jpg"/>
+                            <fw> 142 HUMANITY.</fw>
+
+                            <p>"Sisters and friends, we extend across ocean our hands to you in the
+                                fellowship of Christ. We pray that His Cross and the banner of your
+                                land may rise together over Crescent and the Minaret—that your sons
+                                may hail the freedom of ancient Greece restored, and build again the
+                                waste places which oppressor hath trodden down ; and that admitted
+                                once more to the felicities of home may gather from past perils and
+                                adversities a brighter wreath for the kingdom of Heaven.</p>
+                            <signed>"LYDIA H. SIGOURNEY, " Secretary of the Greek Committee of
+                                Hartford, Connecticut."</signed>
+                        </div4>
 
                     </div3>
                 </div2>
@@ -1091,24 +1732,24 @@
                                         >hakespeare</hi>.</persName>
                             </quote>
                             <p>T<hi rend="smallCaps">he</hi> Roman history furnishes us with two
-                                remarkable examples of filial piety. <trait type="Roman"
-                                    subtype="female"/>A Roman lady, of illustrious birth, had for
-                                some cause been condemned to be strangled, and was sent to prison in
-                                order to be put to death. The <trait type="Roman" subtype="male"
-                                />gaoler, who had received orders to strangle her, was touched with
-                                compassion for her beauty and misfortunes, and not being able to
-                                resolve to kill her, determined to let her die of hunger. He however
-                                consented to allow her <trait type="Roman" subtype="female"
-                                />daughter to visit her in the prison, taking care that she brought
-                                her mother no food. Many days elapsed, during which the daughter's
-                                visits were very frequent: at length the gaoler became surprised
-                                that his prisoner could exist so long without sustenance. His
-                                suspicions immediately rested on the daughter, whom he now
-                                determined to watch still more closely: to his utmost astonishment
-                                he found that she nourished her mother with her own milk. His
-                                amazement at this pious and ingenious invention caused him to inform
-                                the triumvir of the circumstance, who immediately acquainted the
-                                praetor with it. The latter, <pb facs="noble_030.jpg" n="29"/>
+                                remarkable examples of filial piety. A <persName ref="#RDaughter"
+                                    >Roman lady</persName>, of illustrious birth, had for some cause
+                                been condemned to be strangled, and was sent to prison in order to
+                                be put to death. The <trait type="Roman" subtype="male"/>gaoler, who
+                                had received orders to strangle her, was touched with compassion for
+                                her beauty and misfortunes, and not being able to resolve to kill
+                                her, determined to let her die of hunger. He however consented to
+                                allow her <trait type="Roman" subtype="female"/>daughter to visit
+                                her in the prison, taking care that she brought her mother no food.
+                                Many days elapsed, during which the daughter's visits were very
+                                frequent: at length the gaoler became surprised that his prisoner
+                                could exist so long without sustenance. His suspicions immediately
+                                rested on the daughter, whom he now determined to watch still more
+                                closely: to his utmost astonishment he found that she nourished her
+                                mother with her own milk. His amazement at this pious and ingenious
+                                invention caused him to inform the triumvir of the circumstance, who
+                                immediately acquainted the praetor with it. The latter, <pb
+                                    facs="noble_030.jpg" n="29"/>
                                 <fw>FILIAL AFFECTION. 29</fw> considering it worthy the public
                                 attention, related it in an assembly of the people. The result was
                                 the pardon of the criminal; and, at the same time, a decree was
@@ -1122,7 +1763,8 @@
                                 fondness both would save; But if a nursling only one can live, I
                                 choose to save the life I cannot give." </quote>
 
-                            <p>X<hi rend="smallCaps">antippe</hi>, another <trait type="Roman"
+                            <p><persName ref="#Xantippe">X<hi rend="smallCaps"
+                                    >antippe</hi></persName>, another <trait type="Roman"
                                     subtype="female"/>Roman lady, supported her aged father <trait
                                     type="Roman" subtype="male"/>Cimonus in a similar manner, in
                                 order to preserve his life while in prison. This last circumstance
@@ -1136,11 +1778,12 @@
                                 loss, my worst,— My father!—and was thine the first?" <persName>L.
                                     E. L.</persName></quote>
                             <p>M<hi rend="smallCaps">odern</hi> history commemorates the name of
-                                    <trait type="English" subtype="female"/>Margaret Roper, the
-                                daughter of <trait type="English" subtype="male"/>Sir Thomas More,
-                                as another illustrious example of this affection. When Sir Thomas,
-                                who had refused to take the oath of supremacy, was cast into <pb
-                                    facs="noble_031.jpg" n="30"/>
+                                    <trait type="English" subtype="female"/><persName ref="#MRoper"
+                                    >Margaret Roper</persName>, the daughter of <trait
+                                    type="English" subtype="male"/><persName ref="#SMore">Sir Thomas
+                                    More</persName>, as another illustrious example of this
+                                affection. When Sir Thomas, who had refused to take the oath of
+                                supremacy, was cast into <pb facs="noble_031.jpg" n="30"/>
                                 <fw>30 FILIAL AFFECTION. </fw> prison, his daughter, who was
                                 overwhelmed with grief, was, through incessant importunity,
                                 permitted to visit him. Admitted at length to his prison, she
@@ -1177,29 +1820,32 @@
                                 the Thames, had it not been purchased by his daughter. Inhumanly
                                 summoned in consequence before the council, Margaret firmly
                                 acknowledged and justified her conduct. Such intrepidity could not
-                                escape King Henry's vengeance: she was cast into prison, whence,
-                                after some vain attempts to subdue her courage by menaces, she was
-                                permitted to escape, and join her husband and family. At her death,
-                                which took place nine years after these events, the head of her
-                                unfortunate parent was interred with her in her arms, according to
-                                some historians; or, as others say, deposited in a leaden box, and
-                                placed upon her coffin.</p>
+                                    escape<persName ref="#KHenryVIII"> King Henry</persName>'s
+                                vengeance: she was cast into prison, whence, after some vain
+                                attempts to subdue her courage by menaces, she was permitted to
+                                escape, and join her husband and family. At her death, which took
+                                place nine years after these events, the head of her unfortunate
+                                parent was interred with her in her arms, according to some
+                                historians; or, as others say, deposited in a leaden box, and placed
+                                upon her coffin.</p>
                             <lb type="horBar"/>
                             <quote> "O glorious trial of exceeding, love, Illustrious evidence,
                                 example high!" <persName>M<hi rend="smallCaps"
                                     >ilton</hi>.</persName></quote>
 
                             <p>T<hi rend="smallCaps">he</hi> exile of the <trait type="British"
-                                    subtype="male"/>Bishop of Rochester gave occasion to a very
-                                interesting exercise of paternal tenderness on the one part, and of
-                                filial duty and affection on the other. What mostly <pb
-                                    facs="noble_033.jpg" n="32"/>
+                                    subtype="male"/><persName ref="#BRochester">Bishop of
+                                    Rochester</persName> gave occasion to a very interesting
+                                exercise of paternal tenderness on the one part, and of filial duty
+                                and affection on the other. What mostly <pb facs="noble_033.jpg"
+                                    n="32"/>
                                 <fw>32 FILIAL AFFECTION.</fw> embittered the banishment of the
                                 Bishop, was regret at leaving behind him his daughter, <trait
-                                    type="English" subtype="female"/>Mrs. Morice, in an infirm state
-                                of health. A mutual longing to see one another took fast hold of the
-                                father and daughter; and the lady, though very ill, performed, with
-                                great difficulty and pain, a journey and voyage from <settlement
+                                    type="English" subtype="female"/><persName ref="#MMorice">Mrs.
+                                    Morice</persName>, in an infirm state of health. A mutual
+                                longing to see one another took fast hold of the father and
+                                daughter; and the lady, though very ill, performed, with great
+                                difficulty and pain, a journey and voyage from <settlement
                                     type="city">Westminster</settlement> to <settlement type="city"
                                     >Bourdeaux</settlement>, and <settlement type="city"
                                     >Toulouse</settlement>, where Dr. Atterbury resided. Mr. J.
@@ -1373,9 +2019,10 @@
                                     type="state">New York</settlement>, an <trait type="American"
                                     subtype="couple"/> aged couple found themselves reduced to their
                                 last stick of wood. They had been supported by the industry of a
-                                    <trait type="American" subtype="female"/>daughter who lived with
-                                them, but who now found herself unable to procure them either fuel
-                                or provisions. Overcome with grief at their destitute situation, she
+                                    <trait type="American" subtype="female"/><persName
+                                    ref="#ADaughter">daughter</persName> who lived with them, but
+                                who now found herself unable to procure them either fuel or
+                                provisions. Overcome with grief at their destitute situation, she
                                 yet devised an expedient by which they might be rescued from the
                                 emergency. She had accidentally heard that a dentist had advertised
                                 or to give three guineas for every only sound fore-tooth, provided
@@ -1407,14 +2054,14 @@
                                 their parents' sentence, and, if unsuccessful in these efforts,
                                 shared their prison, and voluntarily partook their unhappy fate.</p>
 
-                            <p><trait type="French" subtype="female"/>Mademoiselle Cazotte, was an
-                                only child, and, at the commencement of the Revolution, her <trait
-                                    type="French" subtype="male"/>father was seventy-two years of
-                                age. Closely connected with La Porte (the intendant of the civil
-                                list), the fate of Cazotte was involved in his. Some of Cazotte's
-                                letters being found on the person of La Porte, the old man and his
-                                daughter were immediately arrested and sent to the prison of the
-                                Abbey.</p>
+                            <p><trait type="French" subtype="female"/><persName ref="#ECazotte"
+                                    >Mademoiselle Cazotte</persName>, was an only child, and, at the
+                                commencement of the Revolution, her <trait type="French"
+                                    subtype="male"/>father was seventy-two years of age. Closely
+                                connected with La Porte (the intendant of the civil list), the fate
+                                of Cazotte was involved in his. Some of Cazotte's letters being
+                                found on the person of La Porte, the old man and his daughter were
+                                immediately arrested and sent to the prison of the Abbey.</p>
                             <p>Shortly afterwards, Mademoiselle Cazotte having been pronounced
                                 innocent, an order arrived at the prison that she might be set at
                                 liberty. Elizabeth however refused to avail herself of it being
@@ -1527,7 +2174,8 @@
                                 countrywomen, was imitated by many young persons, from similar
                                 impulses <pb facs="noble_045.jpg" n="44"/>
                                 <fw>44 FILIAL AFFECTION.</fw> Of devoted affection. <trait
-                                    type="French" subtype="female"/> Mademoiselle de Sombreuil
+                                    type="French" subtype="female"/>
+                                <persName ref="#MDSombreuil">Mademoiselle de Sombreuil</persName>
                                 claims a share of our esteem for the intrepdity she displayed, when,
                                 rushing into the presence of the murderers who had seized <trait
                                     type="French " subtype="male"/>her father, she exclaimed as she
@@ -1580,7 +2228,8 @@
                                 scenes of dreadful persecution they would still be united in a
                                 happier state of existence.</p>
                             <p> When the ci-devant <trait type="Luxembourg" subtype="female"
-                                />marchioness de Bois Beranger was detained in the <settlement
+                                    /><persName ref="#MDBBeranger">Marchioness de Bois
+                                    Beranger</persName> was detained in the <settlement
                                     type="country">Luxembourg</settlement> with her <trait
                                     type="Luxembourg" subtype="male"/>father, <trait
                                     type="Luxembourg" subtype="female"/>mother, and a <trait
@@ -1622,24 +2271,25 @@
                             <quote>"And is it then to live ? when such friends part, 'Tis the
                                 survivor dies."</quote>
 
-                            <p>M<hi rend="smallCaps">ademoiselle</hi>
-                                <trait type="French" subtype="female"/> Delleglace was also a
-                                remarkable instance of filial affection. When <trait type="French"
-                                    subtype="male"/>her father was to be conveyed from the prison at
-                                    <settlement type="city">Lyons</settlement> to the Conciergerie,
-                                this affectionate girl, who from the first moment of his arrest
-                                never quitted him, demanded permission to travel with him in the
-                                carriage prepared for his journey. This boon she could not obtain;
-                                but what obstacles can subdue the strength of filial love? Laying
-                                aside the timidity natural to her sex, and wholly disregarding the
-                                weakness of her constitution, Mademoiselle Delleglace set out on
-                                foot with the carriage, which she accompanied in that manner for
-                                more than a hundred leagues. She sometimes quitted the side of the
-                                carriage, but it was only when she preceded her father, to procure
-                                proper nourishment for him in the towns through which they passed;
-                                and in the evening of every day, when she ran forward to beg of some
-                                charitable person a covering, to administer to her father's wants,
-                                in the dungeon where he must pass the night.</p>
+                            <p><persName ref="#MDelleglace">M<hi rend="smallCaps">ademoiselle</hi>
+                                    <trait type="French" subtype="female"/> Delleglace</persName>
+                                was also a remarkable instance of filial affection. When <trait
+                                    type="French" subtype="male"/>her father was to be conveyed from
+                                the prison at <settlement type="city">Lyons</settlement> to the
+                                Conciergerie, this affectionate girl, who from the first moment of
+                                his arrest never quitted him, demanded permission to travel with him
+                                in the carriage prepared for his journey. This boon she could not
+                                obtain; but what obstacles can subdue the strength of filial love?
+                                Laying aside the timidity natural to her sex, and wholly
+                                disregarding the weakness of her constitution, Mademoiselle
+                                Delleglace set out on foot with the carriage, which she accompanied
+                                in that manner for more than a hundred leagues. She sometimes
+                                quitted the side of the carriage, but it was only when she preceded
+                                her father, to procure proper nourishment for him in the towns
+                                through which they passed; and in the evening of every day, when she
+                                ran forward to beg of some charitable person a covering, to
+                                administer to her father's wants, in the dungeon where he must pass
+                                the night.</p>
 
                             <p>When at length they reached the gates of the Conciergerie, she was
                                 denied admittance with him, and compelled to give up the expec- <pb
@@ -1667,8 +2317,9 @@
 
                             <p>W<hi rend="smallCaps">ho</hi> has not heard, and who has not shed
                                 tears at hearing, of that beautiful and interesting <trait
-                                    type="French" subtype="female"/> girl of only eight years of
-                                age, who went every morning to the <settlement type="city"
+                                    type="French" subtype="female"/>
+                                <persName ref="#IVictim">girl</persName> of only eight years of age,
+                                who went every morning to the <settlement type="city"
                                     subtype="square">Place de la Revolution</settlement>, to mourn
                                 and lament the death of her <trait type="French" subtype="female"/>
                                 mother, who was executed there? The child took many precautions to
@@ -1688,8 +2339,9 @@
                         <div4>
                             <quote>"What breast so cold, that is not warmed here?" <persName>S<hi
                                         rend="smallCaps">hakespeare</hi></persName>,</quote>
-                            <p>A<hi rend="smallCaps">nother</hi> child was the happy means of saving
-                                    <trait type="Dominican" subtype="female"/>her father's life.
+                            <p>A<hi rend="smallCaps">nother</hi>
+                                <persName ref="#CDaughter">child</persName> was the happy means of
+                                saving <trait type="Dominican" subtype="female"/>her father's life.
                                     <trait type="Dominican" subtype="male"/>He was a Creole of
                                     <settlement type="city">St. Domingo</settlement>, and was guilty
                                 of no other crime than that of being rich and preserving the
@@ -1729,9 +2381,10 @@
                             <p>D<hi rend="smallCaps">uring</hi> the war of La Vendee, the ci-devant
                                     <trait type="French" subtype="male"/> Duke de la <settlement
                                     type="commune">Rochefoucault</settlement>, condemned to die, as
-                                well as his daughter, found in the resources of that affectionate
-                                girl the means of concealing himself until a period arrived more
-                                favourable to that justice which he unsuccessfully claimed.</p>
+                                well as <persName ref="#MDRouchefoucault">his daughter</persName>,
+                                found in the resources of that affectionate girl the means of
+                                concealing himself until a period arrived more favourable to that
+                                justice which he unsuccessfully claimed.</p>
                             <pb facs="noble_052.jpg" n="51"/>
                             <fw>FILIAL AFFECTION. 51</fw>
                             <p><trait type="French" subtype="female"/> His daughter's first care was
@@ -1834,30 +2487,33 @@
                         <quote>“The gates that steel exclude, resistless eloquence shall
                             enter."</quote>
 
-                        <p>HISTORY informs us that Argenis, daughter of Halyattes, King of Lydia,
-                            effected, by means of her genius and eloquence, a reconciliation between
-                            the Medes and Lydians, who had been at war five years.</p>
+                        <p>HISTORY informs us that <persName ref="#Argenis">Argenis</persName>,
+                            daughter of <persName ref="#KHalyattes">Halyattes, King of
+                                Lydia</persName>, effected, by means of her genius and eloquence, a
+                            reconciliation between the Medes and Lydians, who had been at war five
+                            years.</p>
                         <lb type="horBar"/>
                         <quote>“We have nothing else to ask, but that Which you deny already, yet
                             will ask, That if we fail in our request, the blame May lumg upon your
                             hardness." <persName>SHAKSPEARE.</persName></quote>
 
                         <p> "AFTER the rape of the Sabine women, who were carried off by the Romans
-                            to people their new-founded colony, Hersilia, the wife of Romulus,
-                            having demanded an audience of the national council, laid before him a
-                            project formed by herself and her companions, of acting the part of
-                            mediators between their husbands and fathers. This offer, having been
-                            deliberated upon, and accepted, the women were permitted to depart, on
-                            condition that each mother, as a pledge of her return, should leave as a
-                            hostage, one of her children; the others were to be carried with them
-                            for the purpose of conciliating the Sabines.</p>
+                            to people their new-founded colony, <persName ref="#Hersila"
+                                >Hersilia</persName>, the wife of <persName ref="#Romulus"
+                                >Romulus</persName>, having demanded an audience of the national
+                            council, laid before him a project formed by herself and her companions,
+                            of acting the part of mediators between their husbands and fathers. This
+                            offer, having been deliberated upon, and accepted, the women were
+                            permitted to depart, on condition that each mother, as a pledge of her
+                            return, should leave as a hostage, one of her children; the others were
+                            to be carried with them for the purpose of conciliating the Sabines.</p>
                         <p>" Having laid aside their ornaments, and put on mourning, the women, with
                             their chil dren in their arms, repaired to the camp of their countrymen,
                             and threw themselves at <fw> VOL. 11. K</fw>
                             <pb facs="eloquence_004.jpg"/>
                             <fw>102 ELOQUENCE.</fw> the feet of their fathers and brothers; when
                             Hersilia, in the name of her companions, addressed the assembled chiefs
-                            in the followint4 eloquent and pathetic harangue:— " ‘ What great injury
+                            in the following eloquent and pathetic harangue:— " ‘ What great injury
                             have we done you that we have suffered, and still do suffer, so many
                             miseries. We were carried off, by those who now have us, violently and
                             illegally: after this violence, we were so long neglected by our
@@ -1889,18 +2545,22 @@
                         <quote>“ From her lips Seem’d eloquence to flow."
                                 <persName>Glover.</persName></quote>
 
-                        <p><persName>EURYDICE</persName>, Queen of Macedon, was left a widow with
-                            three children, the eldest of whom, Alexander, succeeded his father to
-                            the throne; but, dying about twelve months afterwards, the crown
-                            belonged by right to Perdiccas, the next in age.</p>
-                        <p>"Pausanias, a prince of the blood-royal, who had been exiled, disputed
-                            this inheritance with the young Prince, and was supported by a great
-                            number of Macedonians. He began by seizing some fortresses. Happily for
-                            the new king, Iphicrates was then in that country, whither the Athenians
-                            had sent him with a small fleet; and Eurydice, hearing of his arrival,
-                            besought him to pay her a visit, intending to request his assistance
-                            against Pausanias. When he was come into the palace, and had seated
-                            himself, the afflicted Queen, the better <pb facs="eloquence_006.jpg"/>
+                        <p><persName ref="#Eurydice">EURYDICE</persName>, Queen of Macedon, was left
+                            a widow with three children, the eldest of whom, <persName
+                                ref="#Alexander">Alexander</persName>, succeeded his father to the
+                            throne; but, dying about twelve months afterwards, the crown belonged by
+                            right to <persName ref="#Perdiccas">Perdiccas</persName>, the next in
+                            age.</p>
+                        <p>"<persName ref="#Pausanias">Pausanias</persName>, a prince of the
+                            blood-royal, who had been exiled, disputed this inheritance with the
+                            young Prince, and was supported by a great number of Macedonians. He
+                            began by seizing some fortresses. Happily for the new king, <persName
+                                ref="#Iphicrates">Iphicrates</persName> was then in that country,
+                            whither the Athenians had sent him with a small fleet; and Eurydice,
+                            hearing of his arrival, besought him to pay her a visit, intending to
+                            request his assistance against Pausanias. When he was come into the
+                            palace, and had seated himself, the afflicted Queen, the better <pb
+                                facs="eloquence_006.jpg"/>
                             <fw>104 ELOQUENCE.</fw> to excite his compassion, took her two children,
                             Perdiccas and Philip, and, having placed the former in the arms, and the
                             latter a knees of Iphicrates, thus addressed him: Remember, Iphicrates,
@@ -1920,10 +2580,11 @@
                         <p>THE Celts, previous to their passing the Alps, and settling in Italy,
                             were in such a state of irreconcilable contention and disunion, that a
                             civil war was the consequence. When the opposing parties were on the
-                            point engaging in battle, the women, placing themselves between the
-                            armies, took up the different points of dispute in to eloquent a manner,
-                            argued them so accurately, and determined so impartially, that a
-                            friendly correspondence <pb facs="eloquence_007.jpg"/>
+                            point engaging in battle, the <persName ref="#CWomen">women</persName>,
+                            placing themselves between the armies, took up the different points of
+                            dispute in to eloquent a manner, argued them so accurately, and
+                            determined so impartially, that a friendly correspondence <pb
+                                facs="eloquence_007.jpg"/>
                             <fw> ELOQUENCE. 105</fw> was the result, and a civil and domestic peace
                             finally established.</p>
                         <p>From that time the Celts were accustomed, in any differences which arose
@@ -1940,14 +2601,16 @@
                         <quote>“Slow in speech, yet sweet as spring-time flowers.”
                                 <persName>Shakspeare</persName></quote>
 
-                        <p><persName>QUINCTILIAN</persName> informs us that the Gracchii were
-                            indebted for much of their eloquence to the care and institutions of
-                            their mother Cornelia, daughter of the great Scipio, whose taste and
-                            learning were fully displayed in her letters, which were then in the
-                            hands of the public: and Cicero, the greatest orator Rome ever produced,
-                            says, "We have read the letters of Cornelia, the mother of the Gracchii,
-                            from which it appears that the sons were educated, not so much in the
-                            lap of their mother, as her conversation."</p>
+                        <p><persName ref="#Quinctilian">QUINCTILIAN</persName> informs us that the
+                                <persName ref="#Gracchii">Gracchii</persName> were indebted for much
+                            of their eloquence to the care and institutions of their mother
+                                <persName ref="#Cornelia">Cornelia</persName>, daughter of the great
+                                <persName ref="#Scipio">Scipio</persName>, whose taste and learning
+                            were fully displayed in her letters, which were then in the hands of the
+                            public: and <persName ref="#Cicero">Cicero</persName>, the greatest orator Rome ever produced, says, "We
+                            have read the letters of Cornelia, the mother of the Gracchii, from
+                            which it appears that the sons were educated, not so much in the lap of
+                            their mother, as her conversation."</p>
                         <fw>K*</fw>
                         <pb facs="eloquence_008.jpg"/>
                         <fw>106 ELOQUENCE.</fw>
@@ -1983,19 +2646,20 @@
                         <quote>“Why will you thus employ your eloquence, Which our whole council
                             would with liking hear, To help impossibilities?”</quote>
 
-                        <p>" HORTENSIA, a celebrated Roman lady, exemplified the power of eloquence
-                            over the human mind. Her father Hortensius was the most celebrated
-                            orator of his time, and his talents were inherited by his daughter. The
-                            triumvirs had obliged 4,000 women to give upon oath, an account of their
-                            possessions, to defray the expenses of the state; and the Roman ladies
-                            in this emergency had recourse to Hortensia, who undertook to plead
-                            their cause, and accompanied them to the tribunal of the triumvirs,
-                            where she made a speech in their name to the following effect:— " ‘ My
-                            lords, these unhappy ladies whom you see here, imploring your justice
-                            and bounty, would never have presumed to appear in this place, had they
-                            not first made use of all possible means, which either their native
-                            modesty, might allow, or their best understanding could inform them of.
-                            Though our appearing here may seem contrary to the <pb
+                        <p>" <persName ref="#Hortensia">HORTENSIA</persName>, a celebrated Roman
+                            lady, exemplified the power of eloquence over the human mind. Her father
+                                <persName ref="#Hortensius">Hortensius</persName> was the most
+                            celebrated orator of his time, and his talents were inherited by his
+                            daughter. The triumvirs had obliged 4,000 women to give upon oath, an
+                            account of their possessions, to defray the expenses of the state; and
+                            the Roman ladies in this emergency had recourse to Hortensia, who
+                            undertook to plead their cause, and accompanied them to the tribunal of
+                            the triumvirs, where she made a speech in their name to the following
+                            effect:— " ‘ My lords, these unhappy ladies whom you see here, imploring
+                            your justice and bounty, would never have presumed to appear in this
+                            place, had they not first made use of all possible means, which either
+                            their native modesty, might allow, or their best understanding could
+                            inform them of. Though our appearing here may seem contrary to the <pb
                                 facs="eloquence_010.jpg"/>
                             <fw>108 ELOQUENCE.</fw> rules of decency prescribed to our sex, which we
                             have hitherto most strictly observed, yet the loss of our fathers, our
@@ -2026,10 +2690,13 @@
                             present? Do the Gauls or Parthians invade Italy? In that case you will
                             find us no less generous than our mothers; but think not that we will
                             contribute our estates to maintain civil wars, and enable you to destroy
-                            one another. Such a demand was never made either by Caesar or Pompey in
-                            their wars; nor by Marius and Cinna during their cruelties; no, not by
-                            Sylla himself who first set up tyranny in Rome: yet after all you adorn
-                            yourselves with the glorious title of reformers of the state.' </p>
+                            one another. Such a demand was never made either by <persName
+                                ref="#Caesar">Caesar</persName> or <persName ref="#Pompey"
+                                >Pompey</persName> in their wars; nor by <persName ref="#Marius"
+                                >Marius</persName> and <persName ref="#Cinna">Cinna</persName>
+                            during their cruelties; no, not by Sylla himself who first set up
+                            tyranny in Rome: yet after all you adorn yourselves with the glorious
+                            title of reformers of the state.' </p>
                         <p>"This discourse appeared so bold and dangerous, to the triumvirs, that
                             they immediately sent their lictors to cause the ladies to retire, but
                             perceiving that the multitude began to cry out against such violence,
@@ -2044,16 +2711,18 @@
                         <quote>"Oh, blest are they who live and die like him,' Loved with such love,
                             and with such sorrow mourn’d” <persName>Wordsworth,</persName></quote>
 
-                        <p>AGRIPPINA, wife of the renowned Germanicus, deserves to he mentioned
-                            among most illustrious of her sex. The princess was distinguished by her
-                            conjugal as well as maternal affection. Upon the death of her husband,
-                            she conveyed his ashes from Antioch to Rome. She disembarked at
-                            Brundusiem where all the friends of her family, and the officers who had
-                            served under Germanicus, with many others, had assembled to receive her.
-                            "As soon as the fleet was in sight, not only the port and shore, but the
-                            walls and roofs, and every place whence the sea could be viewed were
-                            crowded with spectators, who were uncertain whether to receive this
-                            truly noble woman with silence or acclamation.</p>
+                        <p><persName ref="#Agrippina">AGRIPPINA</persName>, wife of the renowned
+                                <persName ref="#Germanicus">Germanicus</persName>, deserves to he
+                            mentioned among most illustrious of her sex. The princess was
+                            distinguished by her conjugal as well as maternal affection. Upon the
+                            death of her husband, she conveyed his ashes from Antioch to Rome. She
+                            disembarked at Brundusiem where all the friends of her family, and the
+                            officers who had served under Germanicus, with many others, had
+                            assembled to receive her. "As soon as the fleet was in sight, not only
+                            the port and shore, but the walls and roofs, and every place whence the
+                            sea could be viewed were crowded with spectators, who were uncertain
+                            whether to receive this truly noble woman with silence or
+                            acclamation.</p>
                         <p>Agrippina appeared, and landed, carrying the sepulchral urn, with her
                             eyes immoveably cast down, accompanied by two of her children: One
                             general burst of sorrow from the assembled multitude, bespoke their
@@ -2067,21 +2736,23 @@
                             <fw>ELOQUENCE. 111</fw> ina, it does not relate to our present subject.
                             An instance of her eloquence and enthusiastic spirit is recorded which
                             more properly claims our attention in this place.</p>
-                        <p>Claudia Pulchra, a near relation of Agrippina, had been falsely accused
-                            of a design poison the Emperor, and the prosecution against her had
-                            commenced. The prospect her friend's danger aroused the spirit of
-                            illustrious Agrippina. " She rushed to the presence of Tiberius. Finding
-                            him in the act of offering a sacrifice to the manes of Augustus, she
-                            accosted him in a tone of vehemence. 'The piety,' she said, ' which thus
-                            employs itself in slaying victims to the deceased Emperor, agrees but
-                            ill with the hatred that persecutes his posterity. Those are senseless
-                            statues which you adore; they are not animated with the spirit of
-                            Augustus. His descendants are living images of him; and yet, even they,
-                            whose veins are warm with his celestial blood, stand trembling on the
-                            brink of peril. Why is Claudia Pulchra devoted to destruction? What has
-                            she committed? She has loved Agrippina, to excess has loved her; that is
-                            her only crime. Improvident woman! she might have remembered Sosia,
-                            undone and ruined for no other reason.' “</p>
+                        <p><persName ref="#CPulchra">Claudia Pulchra</persName>, a near relation of
+                            Agrippina, had been falsely accused of a design poison the Emperor, and
+                            the prosecution against her had commenced. The prospect her friend's
+                            danger aroused the spirit of illustrious Agrippina. " She rushed to the
+                            presence of <persName ref="#Tiberius">Tiberius</persName>. Finding him
+                            in the act of offering a sacrifice to the manes of <persName
+                                ref="#Augustus">Augustus</persName>, she accosted him in a tone of
+                            vehemence. 'The piety,' she said, ' which thus employs itself in slaying
+                            victims to the deceased Emperor, agrees but ill with the hatred that
+                            persecutes his posterity. Those are senseless statues which you adore;
+                            they are not animated with the spirit of Augustus. His descendants are
+                            living images of him; and yet, even they, whose veins are warm with his
+                            celestial blood, stand trembling on the brink of peril. Why is Claudia
+                            Pulchra devoted to destruction? What has she committed? She has loved
+                            Agrippina, to excess has loved her; that is her only crime. Improvident
+                            woman! she might have remembered Sosia, undone and ruined for no other
+                            reason.' “</p>
                         <p>This spirited appeal of the Princess did not meet with the success it
                             merited, for Tiberius had indeed resolved on the ruin of Agrippina and
                             her family. Pulchra was condemned, and <pb facs="eloquence_014.jpg"/>
@@ -2093,7 +2764,7 @@
 
                         <p>"In the year 1172, the city of Ancona, situated on the Adriatic Sea, and
                             on that count a place of great importance, the possession of it
-                            affording an entrance into Italy1, was besieged by the Venetians under
+                            affording an entrance into Italy, was besieged by the Venetians under
                             the command of the Archbishop of Mayence. </p>
                         <p>"After a very brave defence, the distressed inhabitants were reduced to
                             such an extremity by famine, that they sent deputies to the Archbishop,
@@ -2110,9 +2781,10 @@
                             <fw>ELOQUENCE. 113</fw> into the sea, and sell their lives as dear as
                             possible.</p>
                         <p>Deputies were accordingly sent by some stratagem, through the Venetian
-                            fleet, to William degli Adelardi, of Ferrara, and the Count, of
-                            Bertinoro, who engaged in the cause with all that zeal and alacrity
-                            which animate generous minds to aid the distressed.</p>
+                            fleet, to <persName ref="#WAdelardi">William degli Adelardi</persName>,
+                            of Ferrara, and the Count, of Bertinoro, who engaged in the cause with
+                            all that zeal and alacrity which animate generous minds to aid the
+                            distressed.</p>
                         <p>“The Archbishop, alarmed at the succours he heard were preparing for the
                             besieged, caused letters as from their deputies to be thrown into the
                             city, saying, that their negotiations had been unsuccessful, and that
@@ -2120,15 +2792,16 @@
                             inhabitants detected the forgery, and calmed the anxious minds of the
                             affrighted populace, by solemnly assuring them they were false. In the
                             mean time, through many difficulties and interruptions the troops of the
-                            Countess Aldrude and William Adelardi, advanced, preceded by a standard
-                            of cloth of gold. They were composed of twelve squadrons, each
-                            consisting of two hundred choice men; and an innumerable multitude of
-                            regular and light infantry. They encamped upon a hill, not far from the
-                            Archbishop; and when it was night, Adelardi ordered his men to place two
-                            or more lighted candles upon the tops of their pikes and lances.
-                            Alarmed, by this means, with the idea that their number was immense, the
-                            Archbishop 'drew bark a little from the city, to secure a height, that
-                            nature had rendered very strong.</p>
+                                <persName ref="#CAlrude"> Countess Aldrude</persName> and William
+                            Adelardi, advanced, preceded by a standard of cloth of gold. They were
+                            composed of twelve squadrons, each consisting of two hundred choice men;
+                            and an innumerable multitude of regular and light infantry. They
+                            encamped upon a hill, not far from the Archbishop; and when it was
+                            night, Adelardi ordered his men to place two or more lighted candles
+                            upon the tops of their pikes and lances. Alarmed, by this means, with
+                            the idea that their number was immense, the Archbishop 'drew bark a
+                            little from the city, to secure a height, that nature had rendered very
+                            strong.</p>
                         <fw>VOL. II. t.</fw>
                         <pb facs="eloquence_016.jpg"/>
                         <fw>114 ELOQUENCE.</fw>
@@ -2193,16 +2866,18 @@
                             Or does the peaceful olive grace your brow?"
                             <persName>Rowe,</persName></quote>
 
-                        <p>"ISABEL, widow of Hugh, Earl of Arundel having unsuccessfully applied to
-                            King Henry the Third for the wardship of a certain person, challenging
-                            it as her right, boldly told him 'that he was constituted by God
-                            Almighty to govern his people, but that he neither governed himself nor
-                            his subjects as he ought to do;' adding, that he wronged the church and
-                            oppressed the nobles.' To which the King answered, ‘ Have the peers
-                            framed a charter, and appointed you their advocate to speak for them, by
-                            reason of your eloquence?' ‘No,' said this spirited woman, but you have
-                            violated that charter of liberties which your father did grant, and
-                            which you obliged yourself by oath <pb facs="eloquence_019.jpg"/>
+                        <p>"<persName ref="#IsabeloA">ISABEL</persName>, widow of <persName
+                                ref="#EHugh">Hugh, Earl of Arundel</persName> having unsuccessfully
+                            applied to <persName ref="#KHenryIII">King Henry the Third</persName>
+                            for the wardship of a certain person, challenging it as her right,
+                            boldly told him 'that he was constituted by God Almighty to govern his
+                            people, but that he neither governed himself nor his subjects as he
+                            ought to do;' adding, that he wronged the church and oppressed the
+                            nobles.' To which the King answered, ‘ Have the peers framed a charter,
+                            and appointed you their advocate to speak for them, by reason of your
+                            eloquence?' ‘No,' said this spirited woman, but you have violated that
+                            charter of liberties which your father did grant, and which you obliged
+                            yourself by oath <pb facs="eloquence_019.jpg"/>
                             <fw>ELOQUENCE. 117</fw> to perform; thus, you are a notorious infringer
                             of your faith and oath. What is become of these liberties of England, so
                             solemnly recorded, so often confirmed, and so dearly purchased? I,
@@ -2223,16 +2898,19 @@
                         <quote>"You cram these words into my ears, against The stomach of my sense."
                                 <persName>Shakspeare</persName></quote>
 
-                        <p>"ANNE, Duc de Montmorenci, who was prime minister and gteat constable of
-                            France during the reigns of Francis the First, Henry the Second, Francis
-                            the Second, and Charles the Ninth, was very unwilling to take up arms
-                            against the Prince of Conde and the Colignys, to whom he was endeared by
-                            the ties of friend- <fw> L*</fw>
+                        <p>"<persName ref="#DAnne">ANNE, Duc de Montmorenci</persName>, who was
+                            prime minister and gteat constable of France during the reigns of
+                                <persName ref="#KFrancisI">Francis the First</persName>, <persName
+                                ref="#KHenryII">Henry the Second</persName>, <persName
+                                ref="#KFrancisII">Francis the Second</persName>, and <persName
+                                ref="#KCharlesIV">Charles the Ninth</persName>, was very unwilling
+                            to take up arms against the Prince of Conde and the Colignys, to whom he
+                            was endeared by the ties of friend- <fw> L*</fw>
                             <pb facs="eloquence_020.jpg"/>
                             <fw>118 ELOQUENCE.</fw> ship, as well as those of consanguinity. He was,
                             however, induced to give way to this measure so inimical to his
                             disposition, by the following animated and forcible speech of his wife,
-                            Magdeleine de Savoie.</p>
+                                <persName ref="#MDeSavoie"> Magdeleine de Savoie</persName>.</p>
                         <p>'" 'It is then in vain, Sir, that you have taken as a motto to your
                             escutcheon, the word of command that your ancestors always gave at the
                             outset of every battle in which they were engaged, (Dieu aide du premier
@@ -2259,42 +2937,43 @@
                             achieve for herself, what no male advocate could do, (in all human
                             probability,) and that not by the meretricious influence of personal
                             charms, but by sound argument and common sense. The instance to which we
-                            allude, is that of a Miss Tucker, tried at Exeter assizes for a libel.
-                            The lady pleaded her own cause, and in a way so contrary to what the
-                            lawyers call practice, (their practice,) as greatly to excite the
-                            compassion of the judge, who more than once interfered to remind the
-                            fair pleader, how little she was speaking to the purpose, mixing with
-                            his admonitions art expression of regret that she had not intrusted her
-                            defence to some gentleman of the bar, who would have known how to
-                            conduct it? Miss Tucker (obstinate woman) was not to be turned from her
-                            own way; she had nothing to gain by mere deference to the opinion of the
-                            judge; all she wanted, all she hoped for, and all she was striving for,
-                            was to gain her own cause. The judge (charitable in vain!) abandoned her
-                            to her fate; and when she had done 'talking to no purpose,' charged the
-                            jury in a sense by no means favourable to her acquittal. The jury
-                            brought in a verdict of not guilty."</p>
+                            allude, is that of a <persName ref="#MTucker">Miss Tucker</persName>,
+                            tried at Exeter assizes for a libel. The lady pleaded her own cause, and
+                            in a way so contrary to what the lawyers call practice, (their
+                            practice,) as greatly to excite the compassion of the judge, who more
+                            than once interfered to remind the fair pleader, how little she was
+                            speaking to the purpose, mixing with his admonitions art expression of
+                            regret that she had not intrusted her defence to some gentleman of the
+                            bar, who would have known how to conduct it? Miss Tucker (obstinate
+                            woman) was not to be turned from her own way; she had nothing to gain by
+                            mere deference to the opinion of the judge; all she wanted, all she
+                            hoped for, and all she was striving for, was to gain her own cause. The
+                            judge (charitable in vain!) abandoned her to her fate; and when she had
+                            done 'talking to no purpose,' charged the jury in a sense by no means
+                            favourable to her acquittal. The jury brought in a verdict of not
+                            guilty."</p>
                         <pb facs="eloquence_022.jpg"/>
                         <fw>120 ELOQUENCE.</fw>
 
                         <quote>"The spark of noble courage now awake, And strive your excellent self
                             to excel!" <persName>Fairy Queen</persName>.</quote>
 
-                        <p><persName>QUEEN PLIZABETFT</persName>, who excelled in every feminine
-                            grace and accomplishment, proved, many occasions, that she was not
-                            deficient in the art of eloquence. When England was threatened with
-                            invasion by the invincible Armada of Spain, and a camp was formed at
-                            Tilbury of 23,000 men, to protect the capital on this memorable and
-                            momentous occasion, Queen Elizabeth resolved to visit in person the
-                            camp, for the purpose of encouraging the soldiers. Like a second
-                            Boadicea, armed for defence against the invaders of her country, she
-                            appeared at once the warrior and Queen. Mounted on a general's charger,
-                            with a general's truncheon in her hand, a corslet of po-lished steel
-                            laced on over her magnificent apparel, and a page in attendance, bearing
-                            her white plumed helmet, she rode, bare-headed. from rank to rank, with
-                            a courageous deportment, and smiling countenance; and amid the
-                            affectionate plaudits, and shouts of military ardour, which burst from
-                            the animated and admiring soldiery, she addressed them in the following
-                            short but spirited harangue.</p>
+                        <p><persName ref="#QElizabeth">QUEEN ELIZABETH</persName>, who excelled in
+                            every feminine grace and accomplishment, proved, many occasions, that
+                            she was not deficient in the art of eloquence. When England was
+                            threatened with invasion by the invincible Armada of Spain, and a camp
+                            was formed at Tilbury of 23,000 men, to protect the capital on this
+                            memorable and momentous occasion, Queen Elizabeth resolved to visit in
+                            person the camp, for the purpose of encouraging the soldiers. Like a
+                            second <persName ref="#Boadicea">Boadicea</persName>, armed for defence
+                            against the invaders of her country, she appeared at once the warrior
+                            and Queen. Mounted on a general's charger, with a general's truncheon in
+                            her hand, a corslet of po-lished steel laced on over her magnificent
+                            apparel, and a page in attendance, bearing her white plumed helmet, she
+                            rode, bare-headed. from rank to rank, with a courageous deportment, and
+                            smiling countenance; and amid the affectionate plaudits, and shouts of
+                            military ardour, which burst from the animated and admiring soldiery,
+                            she addressed them in the following short but spirited harangue.</p>
                         <p>"' My loving people, I have been persuaded by some that are careful of my
                             safety to take heed how committed myself to armed multitudes, for fear
                             of treachery. But I tell yeas that I would not desire to five to
@@ -2321,18 +3000,18 @@
                         <pb facs="eloquence_024.jpg"/>
                         <fw>122 ELOQUENCE.</fw>
 
-                        <quote> “What rhetoric didst thou use To gain this mighty boon?"
-                                <persName>Oliver Cromwel.</persName></quote>
+                        <quote> “What rhetoric didst thou use To gain this mighty boon?" <persName
+                                ref="#OCromwell">Oliver Cromwell.</persName></quote>
 
-                        <p>"Oliver Cromwell was one day engaged in a warm argument with a lady upon
-                            the subject of oratory, in which she maintained that eloquence could
-                            only be acquired by those who made it their study in early life, and
-                            their practice afterwards. The Lord Protector on the contrary,
-                            maintained that there was no eloquence but that which sprung from the
-                            heart; since, when that was deeply int in the attainment of any object,
-                            it never failed to supply a fluency and richness of expression which
-                            wouls1, in the comparison, render vapid the studied speeches of the most
-                            celebrated orators.</p>
+                        <p>"<persName ref="#OCromwell">Oliver Cromwell</persName> was one day
+                            engaged in a warm argument with a lady upon the subject of oratory, in
+                            which she maintained that eloquence could only be acquired by those who
+                            made it their study in early life, and their practice afterwards. The
+                            Lord Protector on the contrary, maintained that there was no eloquence
+                            but that which sprung from the heart; since, when that was deeply int in
+                            the attainment of any object, it never failed to supply a fluency and
+                            richness of expression which wouls1, in the comparison, render vapid the
+                            studied speeches of the most celebrated orators.</p>
                         <p>"This argument ended, as most arguments do, in the lady's tenaciously
                             adhering to her side of the question, and the Protector's saying, 'he
                             had no doubt he should one day her a convert to his opinion.'</p>
@@ -2357,10 +3036,12 @@
                             her lips; She sang not, knew not, music’s magic skill, But yet her voice
                             had tones that sway 'd the will." <persName>CAMPBELL</persName>.</quote>
 
-                        <p>“<persName>KING AUGUSTUS of Poland</persName> being desirous of entering
-                            secretly into a treaty of peace with Charles the Twelfth of Sweden,
-                            intrusted the affair to the Countess of Konigsmark, a Swedish lady of
-                            high birth, to whom he was at that time attached.</p>
+                        <p>“<persName ref="#KAugustus">KING AUGUSTUS of Poland</persName> being
+                            desirous of entering secretly into a treaty of peace with <persName
+                                ref="#KCharlesVII">Charles the Twelfth of Sweden</persName>,
+                            intrusted the affair to the <persName ref="#CKongigsmark">Countess of
+                                Konigsmark</persName>, a Swedish lady of high birth, to whom he was
+                            at that time attached.</p>
                         <p> "This lady, celebrated in the world for her wit and beauty, was more
                             capable than any minister to bring a negotiation to a happy conclusion.
                             Moreover, as she had an estate in the dominions of Charles XII., and had
