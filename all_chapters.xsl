@@ -6,7 +6,7 @@
     <xsl:template match="TEI">
         <html>
             <head>
-                <link rel="stylesheet" type="text/css" href="all_chapter.css"/>
+                <link rel="stylesheet" type="text/css" href="all_chapters.css"/>
             </head>
             <body>
                 <xsl:call-template name="personTOC"/>
