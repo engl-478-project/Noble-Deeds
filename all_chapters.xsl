@@ -58,12 +58,15 @@
         </xsl:element>
         <xsl:apply-templates/>
     </xsl:template>
-    <xsl:template match="person/persName"></xsl:template>
-    <xsl:template match="fw">
-        <h3>
+    <xsl:template match="persName">
+        <xsl:element name="a">
+            <xsl:attribute name="href">
+                <xsl:value-of select="concat('#personTOC', @ref)"/>
+            </xsl:attribute>
             <xsl:apply-templates/>
-        </h3>
+        </xsl:element>
     </xsl:template>
+    <xsl:template match="fw"/>
     <xsl:template match="div3">
         <h2>
             <xsl:apply-templates/>
