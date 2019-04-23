@@ -27,15 +27,22 @@
             </xsl:element>
         </xsl:element>
     </xsl:template>
+    
+    
     <xsl:template match="p">
         <p>
             <xsl:apply-templates/>
         </p>
     </xsl:template>
+    
+    
     <xsl:template match="teiHeader"/>
+    
     <xsl:template match="lb">
         <p>----</p>
     </xsl:template>
+    
+    
     <xsl:template name="personTOC">
         <ul>
             <xsl:for-each select="//person">
@@ -50,6 +57,9 @@
             </xsl:for-each>
         </ul>
     </xsl:template>
+    
+    
+    
     <xsl:template match="persName">
         <xsl:element name="a">
             <xsl:attribute name="name">
@@ -58,14 +68,17 @@
         </xsl:element>
         <xsl:apply-templates/>
     </xsl:template>
-    <xsl:template match="persName">
+    
+    
+   <!-- <xsl:template match="persName">
         <xsl:element name="a">
             <xsl:attribute name="href">
                 <xsl:value-of select="concat('#personTOC', @ref)"/>
             </xsl:attribute>
             <xsl:apply-templates/>
         </xsl:element>
-    </xsl:template>
+    </xsl:template>-->
+    
     <xsl:template match="fw"/>
     <xsl:template match="div3">
         <h2>
