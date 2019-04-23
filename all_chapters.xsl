@@ -6,6 +6,7 @@
     <xsl:template match="TEI">
         <html>
             <head>
+                <h1>NOBLE DEEDS OF WOMAN</h1>
                 <link rel="stylesheet" type="text/css" href="all_chapters.css"/>
             </head>
             <body>
@@ -16,16 +17,16 @@
     </xsl:template>
 
     <xsl:template match="pb">
-        <xsl:element name="a">
+       <!--  <xsl:element name="a">
             <xsl:attribute name="href">
                 <xsl:value-of select="concat('full/', @facs)"/>
-            </xsl:attribute>
+            </xsl:attribute> -->
             <xsl:element name="img">
                 <xsl:attribute name="src">
-                    <xsl:value-of select="concat('thumbs/', @facs)"/>
+                    <xsl:value-of select="@facs"/>
                 </xsl:attribute>
             </xsl:element>
-        </xsl:element>
+      <!-- </xsl:element> -->  
     </xsl:template>
     
     
@@ -70,24 +71,31 @@
     </xsl:template>
     
     
-   <!-- <xsl:template match="persName">
-        <xsl:element name="a">
-            <xsl:attribute name="href">
-                <xsl:value-of select="concat('#personTOC', @ref)"/>
-            </xsl:attribute>
-            <xsl:apply-templates/>
-        </xsl:element>
-    </xsl:template>-->
-    
+   
     <xsl:template match="fw"/>
-    <xsl:template match="div3">
+    
+    
+    
+    
+    
+    <xsl:template match="front">
+        <frontmatter>
+            <xsl:apply-templates/>
+        </frontmatter>
+    </xsl:template>
+    
+    
+    
+    
+    
+    <xsl:template match="div3/head">
         <h2>
             <xsl:apply-templates/>
         </h2>
     </xsl:template>
     <xsl:template match="quote">
-        <p>
+        <q>
             <xsl:apply-templates/>
-        </p>
+        </q>
     </xsl:template>
 </xsl:stylesheet>
