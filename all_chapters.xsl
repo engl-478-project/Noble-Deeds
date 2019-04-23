@@ -40,7 +40,7 @@
     <xsl:template match="teiHeader"/>
 
     <xsl:template match="lb">
-        <p>----</p>
+        <hr/>
     </xsl:template>
 
 
