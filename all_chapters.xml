@@ -621,7 +621,7 @@
             <pb facs="02.jpg"/>
         </front>
         <body>
-            <div1 type="book">
+            <div1 type="edition">
                 <div2 type="volume" n="1">
                     <p>Volume One of Noble Deeds of Woman</p>
                     <div3 type="preface" n="1">
@@ -695,29 +695,31 @@
                             GORDON.---AFRICAN HOSPITALITY.---MADAME BOUQUET.---FAITHFUL
                             FRENCHWOMAN.---MADAME PAYSAC.---MADAME RUVILLY.</p>
                         <lb type="horBar"/>
-                        <quote> "Ask the gray pilgrim by the surges cast On hostile shores, and
+                        <div4 type="introduction">
+                            <quote> "Ask the gray pilgrim by the surges cast On hostile shores, and
                             numbed beneath the blast, Ask who revived him? who the hearth began To
                             kindle? who with spilling goblet ran? Oh! he will dart one spark of
                             youthful flame, And clasp his withered hands, and Woman name.”
                                 <persName>BARRETT.</persName>
                         </quote>
-                        <p>H<hi rend="smallCaps">ospitality</hi> has ever been a distinguishing
+                        <p>H<hi rend="smallCaps">OSPITALITY</hi> has ever been a distinguishing
                             characteristic of Woman; compassion not only graces the educated and
                             polished European lady, but is equally inherent in the bosom of the wild
                             unlettered savage, and their distressed fellow-creatures find a ready
                             home and shelter with both: thus the shipwrecked mariner and the wayworn
                             traveller surviving their perils, return to their native country to
                             unite theirs to the many testimonies already received of the charity and
-                            hospitality of the female sex.</p>
+                            hospitality of the female sex.</p></div4>
                         <pb facs="noble_007.jpg" n="40"/>
-                        <fw>40 HOSPITALITY.</fw>
+                        <div4 type="story">
+                            <fw>40 HOSPITALITY.</fw>
                         <quote>"Haste, gentle lady, haste—there waits A noble stranger at the
-                            gates." <persName ref="#SWalter">S<hi rend="smallCaps">ir</hi> W<hi
-                                    rend="smallCaps">alter</hi> S<hi rend="smallCaps"
-                                >cott</hi></persName>
+                            gates." <persName ref="#SWalter">S<hi rend="smallCaps">IR</hi> W<hi
+                                    rend="smallCaps">ALTER</hi> S<hi rend="smallCaps"
+                                >COTT</hi></persName>
                         </quote>
-                        <p><persName ref="#WIrving">W<hi rend="smallCaps">ashington</hi> I<hi
-                                    rend="smallCaps">rving</hi></persName>, in his Life of Columbus,
+                        <p><persName ref="#WIrving">W<hi rend="smallCaps">ASHINGTON</hi> I<hi
+                                    rend="smallCaps">RVING</hi></persName>, in his Life of Columbus,
                             gives an interesting account of <persName ref="#Anacaona"
                                 >Anacaona</persName>, widow of <persName ref="#Caonabo"
                                 >Caonabo</persName>, who, after the capture of her husband by the
@@ -791,10 +793,12 @@
                             in the presence of <pb facs="noble_010.jpg" n="43"/>
                             <fw>HOSPITALITY. 43</fw> the people whom she had so long and so signally
                             befriended."</p>
-                        <quote>"This ancient fortress of my race Shall be misfortune’s
+                        </div4>
+                        <div4 type="story">
+                            <quote>"This ancient fortress of my race Shall be misfortune’s
                             resting-place, Shelter and shield of the distress’d, No slaughter-house
                             for shipwreck’d guest."</quote>
-                        <p><persName ref="#DFerrara">"R<hi rend="smallCaps">enata</hi>, Duchess of
+                        <p><persName ref="#DFerrara">"R<hi rend="smallCaps">ENATA</hi>, Duchess of
                                     <settlement type="city">Ferrara</settlement></persName>,
                             daughter of <persName ref="#KLouisXII">Louis the Twelfth</persName>, and
                             of <persName ref="#AnneoB">Anne of Breagne</persName>, after her
@@ -827,10 +831,10 @@
                             the country. An old steward whom I had known at <settlement type="city"
                                 >Ferrara</settlement> and in <settlement type="country"
                                 >France</settlement>, protested to me that she fed daily more than
-                            three hundred people, who had taken refuge with her."</p>
+                            three hundred people, who had taken refuge with her."</p></div4>
                         <lb type="horBar"/>
-                        <quote>"If a hope of safety rest, 'Tis on the sacred name of guest."</quote>
-                        <p>H<hi rend="smallCaps">ospitality</hi> has been too often dangerous to
+                        <div4 type="story"><quote>"If a hope of safety rest, 'Tis on the sacred name of guest."</quote>
+                        <p>H<hi rend="smallCaps">OSPITALITY</hi> has been too often dangerous to
                             those by whom it has been exercised: during the proscriptions of
                                 <persName ref="#Marius">Marius</persName> and <persName ref="#Sylla"
                                 >Sylla</persName>, it was considered a crime against the state to
@@ -858,12 +862,12 @@
                             and such was the spirit of justice and equity which prevailed among the
                             ministers, that the ungrateful wretch was pardoned, and recompensed for
                             his treachery, while his benefactress was <hi rend="italics">burnt
-                                alive</hi> for her charity towards him."</p>
+                                alive</hi> for her charity towards him."</p></div4>
                         <lb type="horBar"/>
-                        <quote>"Take with free welcome what our hands prepare, Such food as falls to
-                            simple servants' share." P<hi rend="smallCaps">ope's</hi> H<hi
-                                rend="smallCaps">omer</hi>.</quote>
-                        <p>"A<hi rend="smallCaps">fter</hi> the battle of <settlement type="village"
+                        <div4 type="story"><quote>"Take with free welcome what our hands prepare, Such food as falls to
+                            simple servants' share." P<hi rend="smallCaps">OPE'S</hi> H<hi
+                                rend="smallCaps">OMER</hi>.</quote>
+                        <p>"A<hi rend="smallCaps">AFTER</hi> the battle of <settlement type="village"
                                 >Culloden</settlement>, so fatal to the last hopes of the House of
                             Stuart, <persName ref="#CStuart">Colonel Stuart</persName>, attended by
                             his friend, Mr. Hamilton of Balgour, sought his personal safety in
@@ -887,13 +891,13 @@
                             or where they might venture to ask for a lodging, refusing at the same
                             time the slightest remuneration. What adds to the merit of the action,
                             is that the poor widow had lost two sons in the king’s cause, to which
-                            she was strongly attached."</p>
+                            she was strongly attached."</p></div4>
                         <lb type="horBar"/>
-                        <quote>"O, Woman! When pain and anguish wring the brow, A ministering angel
-                            thou!" <persName>S<hi rend="smallCaps">ir</hi> W<hi rend="smallCaps"
-                                    >alter</hi> S<hi rend="smallCaps">cott</hi>.</persName>
+                        <div4 type="story"><quote>"O, Woman! When pain and anguish wring the brow, A ministering angel
+                            thou!" <persName>S<hi rend="smallCaps">IR</hi> W<hi rend="smallCaps"
+                                    >ALTER</hi> S<hi rend="smallCaps">COTT</hi>.</persName>
                         </quote>
-                        <p>T<hi rend="smallCaps">he</hi> honourable and hospitable conduct of the
+                        <p>T<hi rend="smallCaps">HE</hi> honourable and hospitable conduct of the
                             Highlanders was well illustrated, at the <pb facs="noble_014.jpg" n="47"/>
                             <fw>HOSPITALITY, 47</fw> same period, by the conduct of a clergyman and
                             his wife, of the name of Gordon.</p>
@@ -954,13 +958,13 @@
                             clear perception of the means, and sympathy to stimulate their
                             exertions, and to render them effectual. Even ladies, who were keen
                             partisans of the House of Hanover, spared neither trouble nor expense in
-                            our behalf."</p>
+                            our behalf."</p></div4>
                         <lb type="horBar"/>
-                        <quote>"'Tis ours this son of sorrow to relieve, Cheer the sad heart, not
+                       <div4 type="story"> <quote>"'Tis ours this son of sorrow to relieve, Cheer the sad heart, not
                             let affliction grieve. By Jove the stranger and the poor are sent, And
                             what to those we give, to Jove is lent." P<hi rend="smallCaps"
-                                >ope's</hi> H<hi rend="smallCaps">omer</hi>. </quote>
-                        <p>T<hi rend="smallCaps">he</hi> celebrated traveler, Mr. <persName
+                                >OPE'S</hi> H<hi rend="smallCaps">OMER</hi>. </quote>
+                        <p>T<hi rend="smallCaps">HE</hi> celebrated traveler, Mr. <persName
                                 ref="#MPark">Mungo Park</persName>, experienced the hospitality of
                             the <persName ref="#AWoman">female-sex</persName> on many occasions. “In
                             his first African journey he had arrived at <settlement type="city"
@@ -997,14 +1001,15 @@
                             mother has he, &amp;c.’ Our traveler was much affected, and the next
                             morning could not depart without requesting his landlady’s acceptance of
                             the only gift he had left, two out of the four brass buttons that still
-                            remained on his waistcoat."</p>
+                            remained on his waistcoat."</p></div4>
                         <lb type="horBar"/>
-                        <quote>"Is aught so fair In all the dewy landscapes of the spring, In the
+                        <div4 type="story">
+                            <quote>"Is aught so fair In all the dewy landscapes of the spring, In the
                             bright eye of Hesper or the morn, In Nature’s fairest forms, is aught so
                             fair As virtuous friendship? As the candid blush Of him who strives with
                             fortune to be just? The graceful tear that streams for others’ woes? Or
-                            the mild majesty of private life?" A<hi rend="smallCaps">kenside</hi>. </quote>
-                        <p>"W<hi rend="smallCaps">hen</hi>, at the period of the French Revolution,
+                            the mild majesty of private life?" A<hi rend="smallCaps">KENSIDE</hi>. </quote>
+                        <p>"W<hi rend="smallCaps">HEN</hi>, at the period of the French Revolution,
                             the chiefs of Gironde party were fugitives in the south of <settlement
                                 type="country">France</settlement>, and every where sought that
                             asylum which was too often denied them by self-love and cowardice,
@@ -1118,13 +1123,13 @@
                         <p>"Thus fell this admirable woman, whose magnanimity does as much honour to
                             human nature, as her execution disgraces the system under which she
                             died."</p>
-                        <lb type="horBar"/>
-                        <quote>"Ah! why should virtue dread the frowns of fate? Hers what no wealth
+                        <lb type="horBar"/></div4>
+                        <div4 type="story"><quote>"Ah! why should virtue dread the frowns of fate? Hers what no wealth
                             can win, no power create!" A little world of clear and cloudless day,
                             Nor wreck'd by storms, nor moulder'd by decay; A world, with memory's
                             ceaseless sunshine blest, The home of happiness, an honest breast."
-                                    <persName>R<hi rend="smallCaps">ogers</hi>.</persName></quote>
-                        <p>"A<hi rend="smallCaps">nother</hi> outlawed Deputy, Lanjuinais, took
+                                    <persName>R<hi rend="smallCaps">OGERS</hi>.</persName></quote>
+                        <p>"A<hi rend="smallCaps">NOTHER</hi> outlawed Deputy, Lanjuinais, took
                             refuge at <settlement type="city">Rennes</settlement>, at a house
                             belonging to his mother, and of which an old female domestic had the
                             care. The fear of terrifying this <persName ref="#FFrenchwoman">poor
@@ -1152,15 +1157,15 @@
                             researches of the government until the fall of <persName
                                 ref="#Robespierre">Robespierre</persName>, when his benefactress
                             received, in the liberty and safety of her master, an ample reward for
-                            her toils and virtuous perseverance."</p>
+                            her toils and virtuous perseverance."</p></div4>
                         <lb type="horBar"/>
-                        <quote>"What is this passing scene? A peevish April day! A little sun, a
+                        <div4 type="story"><quote>"What is this passing scene? A peevish April day! A little sun, a
                             little rain, And then night sweeps along the plains, And all things fade
-                            away." <persName>K<hi rend="smallCaps">irke</hi> W<hi rend="smallCaps"
-                                    >hite</hi>.</persName>
+                            away." <persName>K<hi rend="smallCaps">IRKE</hi> W<hi rend="smallCaps"
+                                    >HITE</hi>.</persName>
                         </quote>
-                        <p>"R<hi rend="smallCaps">abaud</hi> D<hi rend="smallCaps">d</hi> S<hi
-                                rend="smallCaps">t</hi>. E<hi rend="smallCaps">tienne</hi> also was
+                        <p>"R<hi rend="smallCaps">ABAUD</hi> D<hi rend="smallCaps">D</hi> S<hi
+                                rend="smallCaps">T</hi>. E<hi rend="smallCaps">TIENNE</hi> also was
                             compelled to fly from place to place, every moment in danger of falling
                             into the hands of his pursuers. <persName ref="#MPaysac">Madame
                                 Paysac</persName>, an inhabitant of <fw>F*</fw>
@@ -1183,11 +1188,11 @@
                             vigilance of the government soon discovered the retreat of the
                             unfortunate St. Etienne, and the benevolent Madame Paysac speedily
                             followed him to the guillotine with the same intrepidity she had shown
-                            in confronting danger to perfect his safety.</p>
-                        <quote>"Stranger! whoe'er thou art, securely rest Affiane'd in my faith, a
+                            in confronting danger to perfect his safety.</p></div4>
+                        <div4 type="story"><quote>"Stranger! whoe'er thou art, securely rest Affiane'd in my faith, a
                             friendly guest." <persName>P<hi rend="smallCaps"
-                            >ope</hi></persName></quote>
-                        <p>"I<hi rend="smallCaps">n</hi> the city of <settlement type="city"
+                            >OPE</hi></persName></quote>
+                        <p>"I<hi rend="smallCaps">N</hi> the city of <settlement type="city"
                                 >Brest</settlement>, a stranger one day presented himself before a
                             lady named Ruvilly, and besought her to grant him an asylum from <pb
                                 facs="noble_026.jpg" n="59"/>
@@ -1227,7 +1232,7 @@
                             denounced her to the Tribunal.</p>
                         <p>"These two women submitted to death with a pride of having incurred, from
                             such a government, the penalties attached to the performance of a
-                            generous action."</p>
+                            generous action."</p></div4>
                     </div3>
                     <div3 type="chapter" n="2">
                         <pb facs="humanity_001.jpg"/>
@@ -1238,10 +1243,10 @@
                             CONVICTS.—COURAGEOUS SWISS GIRL.—COUNTESS BURITA. —FRENCH
                             SERVANT-GIRL.—LADIES OF AMERICA.</p>
                         <lb type="horBar"/>
-                        <quote>"A fearful gift upon thy heart is laid, Woman! a power to suffer and
-                            to love, Therefore thou so canst pity."</quote>
+                        <div4 type="introduction"><quote>"A fearful gift upon thy heart is laid, Woman! a power to suffer and
+                            to love, Therefore thou so canst pity."</quote></div4>
 
-                        <quote> "How few like thee, inquire the wretched out, And court the offices
+                        <div4 type="story"><quote> "How few like thee, inquire the wretched out, And court the offices
                             of soft humanity! Like thee reserve their raiment for the naked, Reach
                             out their bread to feed the crying orphan, Or mix, their pitying tears
                             with those that weep !" Rowe.</quote>
@@ -1287,8 +1292,8 @@
                         <p>Seizing upon the revenues of the chapter, she compelled their submission,
                             and even obliged them to affranchise the inhabitants for a certain
                             yearly stipend.</p>
-
-                        <quote>“The quality of mercy is not strain’d ; It droppeth, as the gentle
+</div4>
+                        <div4 type="story"><quote>“The quality of mercy is not strain’d ; It droppeth, as the gentle
                             rain from Heav’n Upon the place beneath. It is twice bless’d; It
                             blesseth him that gives, and him that takes.”
                                 <persName>Shakespeare.</persName></quote>
@@ -1299,12 +1304,12 @@
                             carried by them into Sicily : he was, however, fortunate enough to
                             escape the general massacre of the Neapolitan prisoners, which took
                             place immediately after their arrival in that kingdom.</p>
-                        <p>"Constantia of Arragon, who governed Sicily in the absence of her husband
+                        <p><persName ref="#ConstantiaoA">"Constantia of Arragon,</persName> who governed Sicily in the absence of her husband
                             Peter, terrified by the ferocious clamours of the populace, who, on the
                             destruction of the other prisoners, demanded the immediate execution of
                             the Prince, sent him orders to prepare within a few hours for death.
                             Fortunately for Charles, the day appointed for his death was a Friday :
-                            he received <persName ref="#ConstantiaoA">Constantia</persName>'s
+                            he received Constantia's
                             message with an unmoved countenance, calmly replying, “I am well content
                             to die that grievous death, remembering that my Lord and Saviour on this
                             day voluntarily suffered his death and passion.”</p>
@@ -1318,9 +1323,9 @@
                             pardon him also.’ From that moment she used every means to protect him
                             from the ferocity of the Sicilians ; and by the employment sometimes of
                             sometimes of conciliation, had him at last safely conducted to
-                            Arragon."</p>
+                            Arragon."</p></div4>
 
-                        <quote> “ Boast of thy sex, and glory of the throne ! O'er all thy form what
+                        <div4 type="story"><quote> “ Boast of thy sex, and glory of the throne ! O'er all thy form what
                             matchless graces spread, When thy fair eyes in moist suffusion shone,
                             And from thy cheek the changing crimson fled, As On the neck of Edward's
                             captive foes, To thy afflicted sight the opprobrious cord arose! "Oh !
@@ -1386,11 +1391,11 @@
                             those whom the Almighty informs with sentiments like yours, are justly
                             and universally raised above all human distinctions.” “Ah, my country !"
                             exclaimed St. Pierre, is now that I tremble for you ; Edward only arms
-                            our cities, but Philippa conquers hearts.”</p>
+                            our cities, but Philippa conquers hearts.”</p></div4>
                         <lb type="horBar"/>
                         <pb facs="humanity_006.jpg"/>
                         <fw>HUMANITY. 131</fw>
-                        <quote> “ Teach me to feel another's woe, To hide the faults I see; That
+                        <div4 type="story"><quote> “ Teach me to feel another's woe, To hide the faults I see; That
                             mercy I to others show, That mercy show to me."
                                 <persName>Pope</persName>.</quote>
 
@@ -1418,14 +1423,14 @@
                             advantage to the state.</p>
                         <p>Catherine was the first sovereign that show this regard to the human
                             species ; and the lenity which she displayed was carried to degree
-                            unparalleled in the history of any other nation.</p>
+                            unparalleled in the history of any other nation.</p></div4>
 
-                        <p>"How ill does it beseem Thy tender years and gentle womanhood, To steel
+                        <div4 type="story"><quote>"How ill does it beseem Thy tender years and gentle womanhood, To steel
                             thy breast to pity’s sacred touch ! So weak, so unprotected, is our sex,
                             So constantly expos’d, so very helpless, That did not Heav’n itself
                             enjoin compassion, Yet human policy should make us kind, Lest in the
                             rapid turn of fortune’s wheel We live to need the pity we refuse.”
-                                <persName> Mrs. Hannah More.</persName></p>
+                                <persName> Mrs. Hannah More.</persName></quote>
 
                         <p><persName ref="#QCaroline">Queen Caroline</persName>, wife of <persName
                                 ref="#KGeorgeII">George the Second</persName>, being informed that
@@ -1446,11 +1451,11 @@
                             feel the pain of this exercise for one evening only, what must your
                             attendants feel who do it every night? Hence learn, my daughter, never
                             to indulge your own ease while you suffer your attendants to endure
-                            unnecessary fatigue.”</p>
+                            unnecessary fatigue.”</p></div4>
 
                         <lb type="horBar"/>
 
-                        <quote> “ Earthly power doth then show like God’s When mercy seasons
+                        <div4 type="story"><quote> “ Earthly power doth then show like God’s When mercy seasons
                             justice.” <persName> Shakespeare.</persName></quote>
 
                         <p>DURING the reign of the <persName ref="#MTheresa">Empress Maria
@@ -1504,10 +1509,10 @@
                         <p> Her Majesty immediately despatched eight hundred wagons, loaded with
                             corn, to Prague ; and sent a letter of thanks to General Dalton, in her
                             own handwriting, for his meritorious behavior on this trying
-                            occasion.</p>
+                            occasion.</p></div4>
                         <lb type="horBar"/>
 
-                        <quote> "Sweet mercy is nobility's true badge."
+                        <div4 type="story"><quote> "Sweet mercy is nobility's true badge."
                                 <persName>SHAKESPEARE.</persName></quote>
 
                         <p>THE beautiful and virtuous <persName ref="#PDiConti">Princess di
@@ -1517,11 +1522,11 @@
                             fame. That a woman of her exalted <pb facs="humanity_011.jpg"/>
                             <fw>136 HUMANITY.</fw> station should, by the sacrifice of those empty
                             baubles of vanity and ambition on the shrine of humanity, set such an
-                            example to her sex, is indeed above all praise.</p>
+                            example to her sex, is indeed above all praise.</p></div4>
 
                         <lb type="horBar"/>
 
-                        <quote>“We do pray for mercy, And that same pray’r doth teach us all to
+                        <div4 type="story"><quote>“We do pray for mercy, And that same pray’r doth teach us all to
                             render The deeds of mercy." <persName>SHAKESPEARE.</persName></quote>
 
                         <p>AT the time the yellow fever broke out Philadelphia, there was great
@@ -1535,12 +1540,12 @@
                             to give up their bedsteads for the use of the sick at the hospital they
                             most humanely offered even their bedding resigning willingly any little
                             comforts they possessed to alleviate the wants of their distressed
-                            fellow-creatures.</p>
+                            fellow-creatures.</p></div4>
                         <lb type="horBar"/>
                         <pb facs="humanity_012.jpg"/>
                         <fw>HUMANITY. 137</fw>
 
-                        <quote> “Great Lord of all, By whose good spirit bounteous thoughts are
+                        <div4 type="story"><quote> “Great Lord of all, By whose good spirit bounteous thoughts are
                             given, And deeds of love performed—be gracious now !"</quote>
 
                         <p>During a conflict at the farm of Rainerhoff, in the Tyrolese war, in
@@ -1553,11 +1558,11 @@
                             mischief, by placing her thumb upon the orifice caused by the ball ; and
                             then encouraged those nearest her to refresh themselves quickly, that
                             she might not remain in her dangerous situation and suffer for her
-                            humane generosity to them.</p>
+                            humane generosity to them.</p></div4>
 
                         <lb type="horBar"/>
 
-                        <quote>" Bid her for others' sorrow pour the tear, For others' safety feel
+                        <div4 type="story"><quote>" Bid her for others' sorrow pour the tear, For others' safety feel
                             the instinctive fear ; But for herself, scorning the impulse weak, Meet
                             every danger with unaltering cheek." <persName>ANNA
                             SEWARD.</persName></quote>
@@ -1574,10 +1579,10 @@
                             she entered into these novel scenes, that the idea of personal danger
                             could produce upon her the slightest effect, or bend her from her
                             benevolent and patriotic purpose. </p>
-
+</div4>
                         <lb type="horBar"/>
 
-                        <quote>“How poor an instrument May do a noble deed !”
+                        <div4 type="story"><quote>“How poor an instrument May do a noble deed !”
                                 <persName>SHAKESPEARE.</persName></quote>
 
                         <p>SOME years ago an instance of humanity and presence of mind occurred at a
@@ -1609,10 +1614,10 @@
                             the town, her name, a narrative of the action. The Duke of Orleans also
                             sent her five hundred livres, and settled two hundred yearly on her for
                             life."</p>
-
+</div4>
                         <lb type="horBar"/>
 
-                        <quote>“ ‘Tis truth divine, exhibited on earth, Gives charity her being and
+                        <div4 type="story"><quote>“ ‘Tis truth divine, exhibited on earth, Gives charity her being and
                             her birth.” <persName>COWPER</persName></quote>
 
                         <p>DURING the late war between the Turks and the Greeks, some <persName
@@ -1627,7 +1632,7 @@
                             accompany the contributions prepared for the Archipelago, was as follows
                             : </p>
 
-                        <div4 type="letter">
+                        <div5 type="letter">
                             <opener>"United States of America,March 12, 1828, The ladies of
                                 Hartford, in Connecticut, to the ladies of Greece.</opener>
                             <p>"Sisters and Friends,—From the years of childhood your native clime
@@ -1685,7 +1690,7 @@
                                 adversities a brighter wreath for the kingdom of Heaven.</p>
                             <signed>"LYDIA H. SIGOURNEY, " Secretary of the Greek Committee of
                                 Hartford, Connecticut."</signed>
-                        </div4>
+                        </div5></div4>
 
                     </div3>
                 </div2>
@@ -1694,21 +1699,21 @@
                     <div3 type="chapter" n="3">
                         <pb facs="noble_028.jpg" n="27"/>
                         <fw>39</fw>
-                        <head>F<hi rend="smallCaps">ilial</hi> A<hi rend="smallCaps"
-                            >ffection</hi>.</head>
+                        <head>F<hi rend="smallCaps">ILIAL</hi> A<hi rend="smallCaps"
+                            >FFECTION</hi>.</head>
                         <lb type="horBar"/>
                         <p>ROMAN DAUGHTER.—XANTIPPE.—MARGARET ROPER.— MRS. MORICE.—AMERICAN
                             DAUGHTER.— ELIZABETH CAZOTTE.—MADEMOISELLE DE SOMBREUIL.—MADAME DE BOIS
                             BERANGER.—MADEMOISELLE DELLEGLACE.—INFANT VICTIM TO FILIAL
                             AFFECTION.—THE CREOLE AND HIS DAUGHTER.—MADAME DE ROCHEFOUCAULT. </p>
                         <lb type="horBar"/>
-                        <div4>
+                        <div4 type="introduction">
                             <quote>"Heaven hath timely tried their youth, Their faith, their
                                 patience, and their truth, And sent them here, through hard assays,
                                 With a crown of deathless praise." <persName>M<hi rend="smallCaps"
-                                        >ilton</hi>.</persName>
+                                        >ILTON</hi>.</persName>
                             </quote>
-                            <p>N<hi rend="smallCaps">ature</hi> has implanted in every human breast
+                            <p>N<hi rend="smallCaps">ATURE</hi> has implanted in every human breast
                                 a disposition to love and revere the authors of our being, on whom,
                                 from our earliest infancy, we are dependant for every comfort,
                                 convenience, and pleasure in life: every heart which is not wholly
@@ -1726,12 +1731,12 @@
                                 basis for all the other virtues.</p>
                         </div4>
                         <lb type="horBar"/>
-                        <div4>
+                        <div4 type="story">
                             <quote> "Can such things be, And overcome us like a summer's cloud,
                                 Without our special wonder?" <persName>S<hi rend="smallCaps"
-                                        >hakespeare</hi>.</persName>
+                                        >HAKESPEARE</hi>.</persName>
                             </quote>
-                            <p>T<hi rend="smallCaps">he</hi> Roman history furnishes us with two
+                            <p>T<hi rend="smallCaps">HE</hi> Roman history furnishes us with two
                                 remarkable examples of filial piety. A <persName ref="#RDaughter"
                                     >Roman lady</persName>, of illustrious birth, had for some cause
                                 been condemned to be strangled, and was sent to prison in order to
@@ -1758,13 +1763,13 @@
                                 upon the spot, and dedicated it to Filial Piety.</p>
                         </div4>
                         <lb type="horBar"/>
-                        <div4>
+                        <div4 type="story">
                             <quote> "My child and father vital nurture crave, Parental, filial,
                                 fondness both would save; But if a nursling only one can live, I
                                 choose to save the life I cannot give." </quote>
 
                             <p><persName ref="#Xantippe">X<hi rend="smallCaps"
-                                    >antippe</hi></persName>, another <trait type="Roman"
+                                    >ANTIPPE</hi></persName>, another <trait type="Roman"
                                     subtype="female"/>Roman lady, supported her aged father <trait
                                     type="Roman" subtype="male"/>Cimonus in a similar manner, in
                                 order to preserve his life while in prison. This last circumstance
@@ -1773,11 +1778,11 @@
                                 by supposing that filial affection was the first law of nature.</p>
                         </div4>
                         <lb type="horBar"/>
-                        <div4>
+                        <div4 type="story">
                             <quote> "'Twas the first time I mourned the dead: It was my heaviest
                                 loss, my worst,— My father!—and was thine the first?" <persName>L.
                                     E. L.</persName></quote>
-                            <p>M<hi rend="smallCaps">odern</hi> history commemorates the name of
+                            <p>M<hi rend="smallCaps">ODERN</hi> history commemorates the name of
                                     <trait type="English" subtype="female"/><persName ref="#MRoper"
                                     >Margaret Roper</persName>, the daughter of <trait
                                     type="English" subtype="male"/><persName ref="#SMore">Sir Thomas
@@ -1828,12 +1833,13 @@
                                 parent was interred with her in her arms, according to some
                                 historians; or, as others say, deposited in a leaden box, and placed
                                 upon her coffin.</p>
+                            </div4>
                             <lb type="horBar"/>
-                            <quote> "O glorious trial of exceeding, love, Illustrious evidence,
+                            <div4 type="story"><quote> "O glorious trial of exceeding, love, Illustrious evidence,
                                 example high!" <persName>M<hi rend="smallCaps"
-                                    >ilton</hi>.</persName></quote>
+                                    >ILTON</hi>.</persName></quote>
 
-                            <p>T<hi rend="smallCaps">he</hi> exile of the <trait type="British"
+                            <p>T<hi rend="smallCaps">HE</hi> exile of the <trait type="British"
                                     subtype="male"/><persName ref="#BRochester">Bishop of
                                     Rochester</persName> gave occasion to a very interesting
                                 exercise of paternal tenderness on the one part, and of filial duty
@@ -1989,8 +1995,8 @@
                                 NS.</p>
                             <p>The following epitaph, written by Pope, on this striking example of
                                 affection, is too interesting to be omitted here.</p>
-                        </div4>
-                        <div4>
+                        
+                        <div5>
                             <p>IS ATTERBURY, BISHOP OF ROCHESTER, —Who died in exile, at Paris,
                                 1732, (his only daughter having expired in his arms, immediately
                                 after she arrived in France to see him.)</p>
@@ -2002,17 +2008,18 @@
                                 dust with thine-0 spotless ghost ! 0 more than fortune, friends, or
                                 country lost! Is there on earth one care, one wish beside, Yes—save
                                 my country,-heaven,— He said and dy'd.</p>
+                        </div5>
                         </div4>
                         <lb type="horBar"/>
                         <fw>D2</fw>
                         <pb facs="noble_039.jpg" n="38"/>
                         <fw>38 FILIAL AFFECTION.</fw>
-                        <div4>
+                        <div4 type="story">
                             <quote>"'Tis thine on ev'ry heart to grave thy praise, A monument which
                                 Worth alone can raise.” <persName>B<hi rend="smallCaps"
-                                    >roome</hi>.</persName></quote>
+                                    >ROOME</hi>.</persName></quote>
 
-                            <p>F<hi rend="smallCaps">rom</hi> the preceding illustrious sample of
+                            <p>F<hi rend="smallCaps">ROM</hi> the preceding illustrious sample of
                                 the power of filial affection, we turn to one not less affecting,
                                 though displayed in a humbler path of life. In the severe winter of
                                 1783, Which was a time of general distress at <settlement
@@ -2039,12 +2046,12 @@
                         <lb type="horBar"/>
                         <pb facs="noble_040.jpg" n="39"/>
                         <fw>FILIAL AFFECTION. 39</fw>
-                        <div4>
+                        <div4 type="story">
                             <quote>"Stay, go, do what you will, the like do I; For live I will not,
                                 if my father die." <persName>S<hi rend="smallCaps"
-                                    >hakespeare</hi>.</persName></quote>
+                                    >AHKESPEARE</hi>.</persName></quote>
 
-                            <p>D<hi rend="smallCaps">uring</hi> the French Revolution, which
+                            <p>D<hi rend="smallCaps">URING</hi> the French Revolution, which
                                 endangered the lives of so many parents, filial affection, rising
                                 superior to all selfish considerations of safety, might be seen in
                                 many interesting forms. Daughters then subjected themselves to every
@@ -2161,15 +2168,15 @@
                                 the favourable moment was seized to lead her back to her family.</p>
                         </div4>
                         <lb type="horBar"/>
-                        <div4>
+                        <div4 type="story">
                             <quote>"May my fears, My filial fears, be vain! and may the vaunts And
                                 menace of the vengeful enemy Pass like the gust, thqt roar'd and
                                 died away In the distant tree: which heard, and only heard in this
                                 low deli, bow'd not the delicate grass!" <persName>C<hi
-                                        rend="smallCaps">oleridge</hi>.</persName></quote>
+                                        rend="smallCaps">OLERIDGE</hi>.</persName></quote>
 
 
-                            <p>T<hi rend="smallCaps">he</hi> heroism of Elizabeth Cazotte, which
+                            <p>T<hi rend="smallCaps">HE</hi> heroism of Elizabeth Cazotte, which
                                 could not fail to excite the admiration and sympathy of her
                                 countrywomen, was imitated by many young persons, from similar
                                 impulses <pb facs="noble_045.jpg" n="44"/>
@@ -2215,12 +2222,12 @@
                                 death.</p>
                         </div4>
                         <lb type="horBar"/>
-                        <div4>
+                        <div4 type="story">
                             <quote>"The grave unites; where e'en the Great find rest, A nd blended
                                 lie th' oppressor and th' opprest." <persName>P<hi rend="smallCaps"
-                                        >ope</hi>.</persName></quote>
+                                        >OPE</hi>.</persName></quote>
 
-                            <p>I<hi rend="smallCaps">n</hi> the prisons of <settlement type="city"
+                            <p>I<hi rend="smallCaps">N</hi> the prisons of <settlement type="city"
                                     >Paris</settlement> whole families were frequently crowded
                                 together, when the members of each would be united so strongly by
                                 sympathy that their sole request and wish would be that they might
@@ -2267,11 +2274,11 @@
                                 with you, in a better state, the recompense of virtue."</p>
                         </div4>
                         <lb type="horBar"/>
-                        <div4>
+                        <div4 type="story">
                             <quote>"And is it then to live ? when such friends part, 'Tis the
                                 survivor dies."</quote>
 
-                            <p><persName ref="#MDelleglace">M<hi rend="smallCaps">ademoiselle</hi>
+                            <p><persName ref="#MDelleglace">M<hi rend="smallCaps">ADEMOISELLE</hi>
                                     <trait type="French" subtype="female"/> Delleglace</persName>
                                 was also a remarkable instance of filial affection. When <trait
                                     type="French" subtype="male"/>her father was to be conveyed from
@@ -2310,12 +2317,12 @@
                                 expense of her own.</p>
                         </div4>
                         <lb type="horBar"/>
-                        <div4>
+                        <div4 type="story">
                             <quote>"O'er friendless grief compassion shall awake, And smile on
                                 innocence, for mercy's sake." <persName>C<hi rend="smallCaps"
-                                        >ampbell</hi>.</persName></quote>
+                                        >CAMPBELL</hi>.</persName></quote>
 
-                            <p>W<hi rend="smallCaps">ho</hi> has not heard, and who has not shed
+                            <p>W<hi rend="smallCaps">HO</hi> has not heard, and who has not shed
                                 tears at hearing, of that beautiful and interesting <trait
                                     type="French" subtype="female"/>
                                 <persName ref="#IVictim">girl</persName> of only eight years of age,
@@ -2336,10 +2343,10 @@
                                 not cast off."</p>
                         </div4>
                         <lb type="horBar"/>
-                        <div4>
+                        <div4 type="story">
                             <quote>"What breast so cold, that is not warmed here?" <persName>S<hi
-                                        rend="smallCaps">hakespeare</hi></persName>,</quote>
-                            <p>A<hi rend="smallCaps">nother</hi>
+                                        rend="smallCaps">HAKESPEARE</hi></persName>,</quote>
+                            <p>A<hi rend="smallCaps">NOTHER</hi>
                                 <persName ref="#CDaughter">child</persName> was the happy means of
                                 saving <trait type="Dominican" subtype="female"/>her father's life.
                                     <trait type="Dominican" subtype="male"/>He was a Creole of
@@ -2373,12 +2380,12 @@
                                 girl, then only ten years of age.</p>
                         </div4>
                         <lb type="horBar"/>
-                        <div4>
+                        <div4 type="story">
                             <quote>"Such is my love, to thee I so belong, That for thy right, myself
                                 will bear all wrong." <persName>S<hi rend="smallCaps"
-                                        >hakespeare</hi></persName>. </quote>
+                                        >HAKESPEARE</hi></persName>. </quote>
 
-                            <p>D<hi rend="smallCaps">uring</hi> the war of La Vendee, the ci-devant
+                            <p>D<hi rend="smallCaps">DURING</hi> the war of La Vendee, the ci-devant
                                     <trait type="French" subtype="male"/> Duke de la <settlement
                                     type="commune">Rochefoucault</settlement>, condemned to die, as
                                 well as <persName ref="#MDRouchefoucault">his daughter</persName>,
@@ -2404,7 +2411,7 @@
                                     >Republic</settlement> happened at that time to be passing
                                 through the city in which was her place of concealment: she
                                 addressed the following letter to hi : "C<hi rend="smallCaps"
-                                    >itizen</hi> G<hi rend="smallCaps">eneral</hi>: Wherever the
+                                    >ITIZEN</hi> G<hi rend="smallCaps">ENERAL</hi>: Wherever the
                                 voice of nature is heard, a daughter may be allowed to claim the
                                 compassion of men in behalf of her father. Condemned to death at the
                                 same time with him who Gave me being, I have successfully preserved
@@ -2450,7 +2457,7 @@
                             ARUNDEL.—MAGDELEINE DE SAVOIE.—QUEEN ELIZABETH.—DISPUTE CONCERNING
                             ELOQUENCE.— COUNTESS OF KONIGMSARK.—FEMALE PLEADER.</p>
                         <lb type="horBar"/>
-                        <quote>" Here sweet eloquence does always smile, In such a choice, yet
+                        <div4 type="introduction"><quote>" Here sweet eloquence does always smile, In such a choice, yet
                             unaffected style, As must both knowledge until delight impart, The force
                             of reason, with the flowers of art."
                                 <persName>BUCKINGHAMSHIRE.</persName></quote>
@@ -2479,21 +2486,21 @@
                             not only a private but a public benefit; for, as there is a time to be
                             silent, so it does sometimes happen that there is a time when it becomes
                             a duty to speak, and eloquence, actuated by sincere and virtuous
-                            motives, must ever claim universal respect and admiration.</p>
+                            motives, must ever claim universal respect and admiration.</p></div4>
 
                         <pb facs="eloquence_003.jpg"/>
                         <fw>ELOQUENCE. 101</fw>
 
-                        <quote>“The gates that steel exclude, resistless eloquence shall
+                        <div4 type="story"><quote>“The gates that steel exclude, resistless eloquence shall
                             enter."</quote>
 
                         <p>HISTORY informs us that <persName ref="#Argenis">Argenis</persName>,
                             daughter of <persName ref="#KHalyattes">Halyattes, King of
                                 Lydia</persName>, effected, by means of her genius and eloquence, a
                             reconciliation between the Medes and Lydians, who had been at war five
-                            years.</p>
+                            years.</p></div4>
                         <lb type="horBar"/>
-                        <quote>“We have nothing else to ask, but that Which you deny already, yet
+                        <div4 type="story"><quote>“We have nothing else to ask, but that Which you deny already, yet
                             will ask, That if we fail in our request, the blame May lumg upon your
                             hardness." <persName>SHAKSPEARE.</persName></quote>
 
@@ -2540,9 +2547,9 @@
                             them, by unanimous consent, as testimonies of esteem for their conjugal
                             and filial piety. A festival was also instituted to their honour, called
                             Matronalia, in which the Roman matrons received presents from their
-                            husbands."</p>
+                            husbands."</p></div4>
                         <lb type="horBar"/>
-                        <quote>“ From her lips Seem’d eloquence to flow."
+                        <div4 type="story"><quote>“ From her lips Seem’d eloquence to flow."
                                 <persName>Glover.</persName></quote>
 
                         <p><persName ref="#Eurydice">EURYDICE</persName>, Queen of Macedon, was left
@@ -2571,9 +2578,9 @@
                             the tenderness which that father had for your person, claims for you the
                             heart of a brother towards these children.' </p>
                         <p>"Iphicrates, moved by this sight and discourse, expelled the usurper, and
-                            restored lawful sovereign."</p>
+                            restored lawful sovereign."</p></div4>
                         <lb type="horBar"/>
-                        <quote>" Soft as the fleeces of descending snow, The copious accents fall
+                        <div4 type="story"><quote>" Soft as the fleeces of descending snow, The copious accents fall
                             with easy art, Melting they fall and sink into the heart.”
                                 <persName>Pope’s Homer</persName>.</quote>
 
@@ -2596,9 +2603,9 @@
                             the Celts take occasion of quarrelling with the Carthaginians, the
                             Colonels and Captains of the Carthaginians in Spain shall decide the
                             controversies; bet if the Carthaginians accuse the Celts, the Celtic
-                            women shall be the judges."</p>
+                            women shall be the judges."</p></div4>
                         <lb type="horBar"/>
-                        <quote>“Slow in speech, yet sweet as spring-time flowers.”
+                       <div4 type="story"> <quote>“Slow in speech, yet sweet as spring-time flowers.”
                                 <persName>Shakspeare</persName></quote>
 
                         <p><persName ref="#Quinctilian">QUINCTILIAN</persName> informs us that the
@@ -2641,9 +2648,9 @@
                             <fw>ELOQUENCE. 107</fw> the first quality, to be above such trifles, to
                             place her honour and glory in the good education of her children, in
                             sparing no expense towards the bringing it about, and in showing that
-                            nobleness and greatness of soul to equally belong to both sexes."</p>
+                            nobleness and greatness of soul to equally belong to both sexes."</p></div4>
                         <lb type="horBar"/>
-                        <quote>“Why will you thus employ your eloquence, Which our whole council
+                        <div4 type="story"><quote>“Why will you thus employ your eloquence, Which our whole council
                             would with liking hear, To help impossibilities?”</quote>
 
                         <p>" <persName ref="#Hortensia">HORTENSIA</persName>, a celebrated Roman
@@ -2704,11 +2711,11 @@
                             list of 400 women instead of 4,000; but to make good the sum they
                             wanted, they taxed all the citizens and foreigners, without distinction,
                             who were worth one hundred thousand drachmas, or upwards of 3200 pounds
-                            sterling."</p>
+                            sterling."</p></div4>
                         <pb facs="eloquence_012.jpg"/>
                         <fw>110 ELOQUENCE.</fw>
 
-                        <quote>"Oh, blest are they who live and die like him,' Loved with such love,
+                        <div4 type="story"><quote>"Oh, blest are they who live and die like him,' Loved with such love,
                             and with such sorrow mourn’d” <persName>Wordsworth,</persName></quote>
 
                         <p><persName ref="#Agrippina">AGRIPPINA</persName>, wife of the renowned
@@ -2757,9 +2764,9 @@
                             merited, for Tiberius had indeed resolved on the ruin of Agrippina and
                             her family. Pulchra was condemned, and <pb facs="eloquence_014.jpg"/>
                             <fw> 112 ELOQUENCE.</fw> her fate was but the forerunner of that to
-                            unfortunate widow of Germanicus.</p>
+                            unfortunate widow of Germanicus.</p></div4>
 
-                        <quote>" I profess not talking: only this, Let each man do his best. In such
+                        <div4 type="story"><quote>" I profess not talking: only this, Let each man do his best. In such
                             business, Action is eloquence." <persName> Shakspeare</persName></quote>
 
                         <p>"In the year 1172, the city of Ancona, situated on the Adriatic Sea, and
@@ -2860,9 +2867,9 @@
                             presents. </p>
                         <p>"The Countess returned, with her guard her domains, meeting many
                             detachments the enemy upon the road, with whom they had skirmishes; but
-                            her party always came off victorious."</p>
+                            her party always came off victorious."</p></div4>
                         <lb type="horBar"/>
-                        <quote>"Well, my ambassadress,--- Come you to menace war and loud defiance?
+                        <div4 type="story"><quote>"Well, my ambassadress,--- Come you to menace war and loud defiance?
                             Or does the peaceful olive grace your brow?"
                             <persName>Rowe,</persName></quote>
 
@@ -2891,11 +2898,11 @@
                             replied, ‘Since you have denied me that which is right, what reason have
                             Ito hope for your favour? I do, in the presence of Christ, appeal
                             against those who have by evil counsels misled you from justice and
-                            truth, for their private ends.' "</p>
+                            truth, for their private ends.' "</p></div4>
 
                         <lb facs="horBar"/>
 
-                        <quote>"You cram these words into my ears, against The stomach of my sense."
+                       <div4 type="story"> <quote>"You cram these words into my ears, against The stomach of my sense."
                                 <persName>Shakspeare</persName></quote>
 
                         <p>"<persName ref="#DAnne">ANNE, Duc de Montmorenci</persName>, who was
@@ -2918,11 +2925,11 @@
                             religion which is now attempted to be destroyed, who then is to give an
                             example of respect and of veneration for the Holy See, if not he who
                             takes his very name; his armies, his nobility, from the first baron of
-                            France, who professed the holy religion of Christ?'"</p>
+                            France, who professed the holy religion of Christ?'"</p></div4>
 
                         <lb type="horBar"/>
 
-                        <quote>"Hence, bashful cunning! And prompt me plain and holy innocence."
+                        <div4 type="story"><quote>"Hence, bashful cunning! And prompt me plain and holy innocence."
                                 <persName>Shakspeare</persName>.</quote>
 
                         <p>"THE Athenians had a law that no woman should be permitted to plead her
@@ -2951,11 +2958,11 @@
                             judge (charitable in vain!) abandoned her to her fate; and when she had
                             done 'talking to no purpose,' charged the jury in a sense by no means
                             favourable to her acquittal. The jury brought in a verdict of not
-                            guilty."</p>
+                            guilty."</p></div4>
                         <pb facs="eloquence_022.jpg"/>
                         <fw>120 ELOQUENCE.</fw>
 
-                        <quote>"The spark of noble courage now awake, And strive your excellent self
+                        <div4 type="story"><quote>"The spark of noble courage now awake, And strive your excellent self
                             to excel!" <persName>Fairy Queen</persName>.</quote>
 
                         <p><persName ref="#QElizabeth">QUEEN ELIZABETH</persName>, who excelled in
@@ -2996,11 +3003,11 @@
                             never Prince commanded a more noble or worthy subject. Not doubting but
                             by your concord in the camp, and valour in the field, and your obedience
                             to myself and my general, we shall shortly have a famous victory over
-                            those enemies of my God and of my kingdom. ”</p>
+                            those enemies of my God and of my kingdom. ”</p></div4>
                         <pb facs="eloquence_024.jpg"/>
                         <fw>122 ELOQUENCE.</fw>
 
-                        <quote> “What rhetoric didst thou use To gain this mighty boon?" <persName
+                        <div4 type="story"><quote> “What rhetoric didst thou use To gain this mighty boon?" <persName
                                 ref="#OCromwell">Oliver Cromwell.</persName></quote>
 
                         <p>"<persName ref="#OCromwell">Oliver Cromwell</persName> was one day
@@ -3030,9 +3037,9 @@
                             extended to her an immediate liberation of her husband, he said, 'I
                             think all who have witnessed this scene will vote on my side of the
                             question, in the dispute between us the other day, that eloquence of the
-                            heart alone has power to save.’ “</p>
+                            heart alone has power to save.’ “</p></div4>
 
-                        <quote>“She studied not the meanest to eclipse, And the wisest listened to
+                        <div4 type="story"><quote>“She studied not the meanest to eclipse, And the wisest listened to
                             her lips; She sang not, knew not, music’s magic skill, But yet her voice
                             had tones that sway 'd the will." <persName>CAMPBELL</persName>.</quote>
 
@@ -3080,7 +3087,7 @@
                             <fw> ELOQUENCE. 125</fw> Advantage which the Countess of Konigsmark
                             gained from her journey was the satisfaction of believing that the king
                             of Sweden feared nobody but her.”</p>
-
+</div4>
 
                         <fw>Vol. II. M</fw>
                     </div3>
