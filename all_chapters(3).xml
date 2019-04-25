@@ -99,7 +99,7 @@
                     <person xml:id="Xantippe" sex="female">
                         <persName>Xantippe</persName>
                         <note>Wife of the Greek philosopher, Socrates, with whom she had three
-                            sons.</note>
+                            sons. Often spelled "Xanthippe."</note>
                     </person>
                     <person xml:id="MRoper" sex="female">
                         <persName>Margaret Roper</persName>
@@ -150,6 +150,8 @@
                     </person>
                     <person xml:id="MDelleglace" sex="female">
                         <persName>Mademoiselle Delleglace</persName>
+                        <note>A young French woman living in Lyons during the Reign of Terror of the
+                            late 18th century</note>
                     </person>
                     <person xml:id="IVictim" sex="female">
                         <persName>Infant Victim</persName>
@@ -232,7 +234,7 @@
                     </person>
                     <person xml:id="POrange" sex="female">
                         <persName>Princess of Orange</persName>
-                        <note>(1709-1759) Princess Anne ws the second child of King George II and
+                        <note>(1709-1759) Princess Anne was the second child of King George II and
                             Queen Caroline, and married William IV the Prince of Orange.</note>
                     </person>
                     <person xml:id="MTheresa" sex="female">
@@ -268,7 +270,7 @@
                     </person>
                     <person xml:id="LSigourney" sex="female">
                         <persName>Lydia H. Sigourney</persName>
-                        <note> (1791-1865) American poet known as the "Sweet Singer of Hartford."
+                        <note>(1791-1865) American poet known as the "Sweet Singer of Hartford."
                         </note>
                     </person>
                     <person xml:id="WIrving" sex="male">
@@ -280,19 +282,19 @@
                     <person xml:id="Caonabo" sex="male">
                         <persName>Caonabo</persName>
                         <note>Husband of Anacaona, chief of Maguana (present-day Dominican
-                            Republic). One of the five highest chiefs who ruled Hispaniola when
+                            Republic). One of the five high chiefs who ruled Hispaniola when
                             Spaniards colonized it in 1492. </note>
                     </person>
                     <person xml:id="GOvando" sex="male">
                         <persName>General Ovando</persName>
                         <note>(1460-1511) Spanish soldier from noble gamily. Governor of Hispaniola
-                            from 1502 to 1509. </note>
+                            from 1502 to 1509.</note>
                     </person>
                     <person xml:id="DFerrara" sex="female">
                         <persName>Duchess of Ferrara, Renata</persName>
                         <note>(1510-1574) Younger surviving child of Louis XII, Duchess of Ferrara
                             through her marriage to Ercole II d'Este. A supporter of the Protestant
-                            Reformation and ally of John Calvin. </note>
+                            Reformation and ally of John Calvin.</note>
                     </person>
                     <person xml:id="KLouisXII" sex="male">
                         <persName>King Louis XII</persName>
@@ -301,9 +303,9 @@
                     </person>
                     <person xml:id="AnneoB" sex="female">
                         <persName>Anne of Breagne</persName>
-                        <note>(1477-1514) Duches of Brittany from 1488 until her death. Queen
+                        <note>(1477-1514) Duchess of Brittany from 1488 until her death. Queen
                             consort of France from 1491-1498 and from 1499 until her death. Only
-                            woman to be queen consort of France twice. </note>
+                            woman to be queen consort of France twice.</note>
                     </person>
                     <person xml:id="Marius" sex="male">
                         <persName>Marius</persName>
@@ -358,7 +360,7 @@
                     <person xml:id="Robespierre" sex="male">
                         <persName>Robespierre</persName>
                         <note>(1758-1794) French lawyer and politician, one of the most well-known
-                            and influential figures associated with the French Revolution. </note>
+                            and influential figures associated with the French Revolution.</note>
                     </person>
                     <person xml:id="MPaysac" sex="female">
                         <persName>Madame Paysac</persName>
@@ -374,27 +376,27 @@
                     </person>
                     <person xml:id="Argenis" sex="female">
                         <persName>Argenis</persName>
-                        <note>Daughter of King Alyattes. Married to Astyages, King of Media. </note>
+                        <note>Daughter of King Alyattes. Married to Astyages, King of Media.</note>
                     </person>
                     <person xml:id="KHalyattes" sex="male">
                         <persName>Halyattes, King of Lydia</persName>
                         <note>Reigned from 605-560 BC. The fourth king of the Mermnad dynasty in
-                            Lydia. </note>
+                            Lydia.</note>
                     </person>
                     <person xml:id="Hersilia" sex="female">
                         <persName>Hersilia</persName>
                         <note>(Mythological) Wife of Romulus in Roman foundation myths. Credited
-                            with ending the war between Rome and the Sabines. </note>
+                            with ending the war between Rome and the Sabines.</note>
                     </person>
                     <person xml:id="Romulus" sex="male">
                         <persName>Romulus </persName>
-                        <note>(Mythological) Legendary founder of Rome. </note>
+                        <note>(Mythological) Legendary founder of Rome.</note>
                     </person>
                     <person xml:id="Eurydice" sex="female">
                         <persName>Eurydice</persName>
                         <note>(407-369 B.C.) Ancient Greek Queen from Macedon. First known royal
                             woman who actively took political action and successfully exerted
-                            political influence. </note>
+                            political influence.</note>
                     </person>
                     <person xml:id="Alexander" sex="male">
                         <persName>Alexander</persName>
@@ -404,7 +406,7 @@
                     <person xml:id="Perdiccas" sex="male">
                         <persName>Perdiccas</persName>
                         <note>Ruled over Macedon from 365-360 B.C., suceeding his brother after
-                            Alexander was murdered. </note>
+                            Alexander was murdered.</note>
                     </person>
                     <person xml:id="Pausanias" sex="male">
                         <persName>Pausanias</persName>
@@ -413,7 +415,7 @@
                     </person>
                     <person xml:id="Iphicrates" sex="male">
                         <persName>Iphicrates</persName>
-                        <note>(218-353 BC) Athenian general. </note>
+                        <note>(218-353 BC) Athenian general.</note>
                     </person>
                     <person xml:id="CWomen" sex="female">
                         <persName>Celtic Women</persName>
@@ -443,17 +445,17 @@
                     <person xml:id="Hortensia" sex="female">
                         <persName>Hortensia</persName>
                         <note>Daughter of Hortensius, earned notoriety during the late Republic
-                            period as a skilled orator. </note>
+                            period as a skilled orator.</note>
                     </person>
                     <person xml:id="Hortensius" sex="male">
                         <persName>Hortensius</persName>
-                        <note>(114-50 BC) Roman orator, advocate, and consul. </note>
+                        <note>(114-50 BC) Roman orator, advocate, and consul.</note>
                     </person>
                     <person xml:id="Caesar" sex="male">
                         <persName>Julius Caesar</persName>
                         <note>(100-44 BC) Roman politican, and military general. Played a critical
                             role in the demise of the Roman Republic. Famously assassinated in 44
-                            BC. </note>
+                            BC.</note>
                     </person>
                     <person xml:id="Pompey" sex="male">
                         <persName>Pompey</persName>
@@ -479,11 +481,11 @@
                     <person xml:id="Augustus" sex="male">
                         <persName>Augustus</persName>
                         <note>(63 BC-14 AD) Expert Roman statesman and military leader, first
-                            emperor of the Roman Empire. Great-nephew of Julius Caesar. Initated the
-                            period of Roman Peace, while also expanding the Roman Empire. </note>
+                            emperor of the Roman Empire. Great-nephew of Julius Caesar. Initiated the
+                            period of Roman Peace, while also expanding the Roman Empire.</note>
                     </person>
                     <person xml:id="Cicero" sex="male">
-                        <persName>Cicero </persName>
+                        <persName>Cicero</persName>
                         <note>(106-43 BC) Roman statesman, orator, lawyer, philsopher, and consul.</note>
                     </person>
                     <person xml:id="CPulchra" sex="female">
@@ -498,7 +500,7 @@
                     </person>
                     <person xml:id="CAlrude" sex="female">
                         <persName>Countess Alrude of Berinoro</persName>
-                        <note>12th-century Italian noblewoman and military leader. </note>
+                        <note>12th-century Italian noblewoman and military leader.</note>
                     </person>
                     <person xml:id="WAdelardi" sex="male">
                         <persName>William degli Adelardi, of Ferrara</persName>
@@ -506,16 +508,16 @@
                     <person xml:id="IsabeloA" sex="female">
                         <persName>Isabel of Arundel</persName>
                         <note>(1226-1282) English noblewoman and religious patron who founded an
-                            Abbey. </note>
+                            Abbey.</note>
                     </person>
                     <person xml:id="EHugh" sex="male">
                         <persName>Hugh, Earl of Arundel</persName>
-                        <note>(died in 1243) English Nobleman and politican. </note>
+                        <note>(died in 1243) English Nobleman and politican.</note>
                     </person>
                     <person xml:id="KHenryIII" sex="male">
                         <persName>King Henry III</persName>
                         <note>(1207-1272) King of England from 1216 until his death. Pious, but
-                            unpopular, King. </note>
+                            unpopular, King.</note>
                     </person>
                     <person xml:id="MDeSavoie" sex="female">
                         <persName>Magdaleine De Savoie </persName>
@@ -530,7 +532,7 @@
                     <person xml:id="KFrancisI" sex="male">
                         <persName>King Fracis I</persName>
                         <note>(1494-1547) King of France from 1515 until his death. Patron of the
-                            arts, iniated the French Renaissance. </note>
+                            arts, iniated the French Renaissance.</note>
                     </person>
                     <person xml:id="KHenryII" sex="male">
                         <persName>King Henry II</persName>
@@ -541,48 +543,48 @@
                     <person xml:id="KFrancisII" sex="male">
                         <persName>King Francis II</persName>
                         <note>(1544-1560) King of France from 1559 until his death. Married to Mary,
-                            Queen of Scots. </note>
+                            Queen of Scots.</note>
                     </person>
                     <person xml:id="KCharlesIV" sex="male">
                         <persName>King Charles IV</persName>
                         <note> (1550-1574) King of France from 1560 until his death. King during the
-                            French Wars of Religions between the Catholics and Protestants. </note>
+                            French Wars of Religions between the Catholics and Protestants.</note>
                     </person>
                     <person xml:id="MTucker" sex="female">
-                        <persName>Miss Tucker </persName>
+                        <persName>Miss Tucker</persName>
                     </person>
                     <person xml:id="QElizabeth" sex="female">
                         <persName>Queen Elizabeth</persName>
                         <note>(1533-1603) Queen of England from 1558 until her death. Under her
                             reign, English drama flourished and English adventurers sailed. Known as
-                            the Virgin Queen as she never married. </note>
+                            the Virgin Queen as she never married.</note>
                     </person>
                     <person xml:id="Boadicea" sex="female">
                         <persName>Boadicea</persName>
                         <note>(died 60/61 AD) Queen of a British Celtic tribe who led a failed
-                            uprising against the occupying Roman forces. </note>
+                            uprising against the occupying Roman forces.</note>
                     </person>
                     <person xml:id="OCromwell" sex="male">
                         <persName>Oliver Cromwell</persName>
                         <note>(1599-1658) English military and political leader. Served as Lord
                             Protector of the Commonwealth of England, Scotland, and Ireland from
-                            1653 until his death. </note>
+                            1653 until his death.</note>
                     </person>
                     <person xml:id="CKongigsmark" sex="female">
                         <persName>Countess of Kongigsmark</persName>
                         <note> (1662-1728) Swedish and German noblewoman and intellectual. Mistress
-                            of King Augustus. </note>
+                            of King Augustus.</note>
                     </person>
                     <person xml:id="KAugustus" sex="male">
                         <persName>King Augustus of Poland</persName>
                         <note>(1670-1733) Elector of Saxony from 1697 until his death, and elected
                             King of Poland from 1709 until his death. Known as the "the strong" due
-                            to his great physical strength. </note>
+                            to his great physical strength.</note>
                     </person>
                     <person xml:id="KCharlesVII" sex="male">
                         <persName>King Charles VII of Sweden</persName>
                         <note>(1682-1718) King of Swedan from 1697 until his death. A skilled
-                            military leader and tactian, as well as an able politician. </note>
+                            military leader and tactian, as well as an able politician.</note>
                     </person>
 
                 </listPerson>
@@ -601,19 +603,19 @@
             <change when="2019-02-17"><name>Phillip Howells</name> cropped &amp; editted
                 images</change>
             <change when="2019-02-12"><name>Paige McCoy</name>, <name>Ashley Morrison</name>, &amp;
-                    <name>Phillip Howells</name> Created TEI Header</change>
+                    <name>Phillip Howells</name>Created TEI Header</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <front>
             <pb facs="noble_001.jpg"/>
-            <head>NOBLE DEEDS <lb/> OF <lb/> WOMAN. </head>
+            <head>NOBLE DEEDS <lb/> OF <lb/> WOMAN.</head>
 <lb/>
             <epigraph>
-                <quote>"Noble examples excite us to noble deeds." SENECA </quote><lb/>
+                <quote>"Noble examples excite us to noble deeds." SENECA</quote><lb/>
             </epigraph>
 
-            <docImprint> IN TWO VOLUMES. VOL. I <lb/> Philadelphia: <publisher> CAREY, LEA, AND
+            <docImprint>IN TWO VOLUMES. VOL. I <lb/> Philadelphia: <publisher> CAREY, LEA, AND
                     BLANCHARD.</publisher>
                 <docDate>1836</docDate>
             </docImprint>
@@ -656,7 +658,6 @@
                                     <name><persName>Cornelia</persName></name>, a
                                     <name><persName>Lady Russel</persName></name>, and an
                                     <name><persName>Elizabeth Cazotte</persName></name>!</p>
-
                         <p>The performance of the domestic obligations, which are more calculated to
                             court the esteem of the few than to excite the admiration of many, is
                             the natural province of the sex: but Woman's sphere of action is not, at
@@ -2292,9 +2293,9 @@
                                 the night.</p>
 
                             <p>When at length they reached the gates of the Conciergerie, she was
-                                denied admittance with him, and compelled to give up the expec- <pb
+                                denied admittance with him, and compelled to give up the expectation<pb
                                     facs="filial_022.jpg" n="48"/>
-                                <fw>48 FILIAL AFFECTION.</fw> tation of being his companion in
+                                <fw>48 FILIAL AFFECTION.</fw>  of being his companion in
                                 prison. But her fortitude did not yet give way: she did not cease,
                                 during three months, to implore the justice and humanity of all
                                 those influential persons to whom she could gain access,
