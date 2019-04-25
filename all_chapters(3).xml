@@ -1,4 +1,4 @@
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+   <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 
 <TEI xml:id="noble-deeds.1836.001.xml" xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
@@ -626,7 +626,7 @@
                 <div2 type="volume" n="1">
                     <p>Volume One of Noble Deeds of Woman</p>
                     <div3 type="preface" n="1">
-                        <pb facs="noble_003.jpg"/>
+                        
                         <head>PREFACE.</head>
 
                         <p>THE pleasure experienced by the author in perusing the scattered records
@@ -646,7 +646,7 @@
                             affections, but sinks in the estimation, of her husband; &#8212;, or
                             immersed in the dissipations of society, she neglects to attend to those
                             more sacred offices on which even her own happiness depends. To the just
-                            fulfillment of these, it is <pb/> necessary she should think, feel, and
+                            fulfillment of these, it is <pb facs="noble_003.jpg"/> necessary she should think, feel, and
                             act correctly; yet this cannot be expected while the ornamental
                             accomplishments now cultivated with so much care, are allowed to
                             supersede the more valuable acquirements. Painting, music, and dancing
@@ -673,7 +673,7 @@
                                     Roland</persName></name>; &#8212; should unexpected dangers
                             await her, she may acquire courage and presence of mind from the conduct
                             <pb facs="noble_004.jpg"/>
-                            <pb/> of <name><persName>Maragaret of Anjou</persName></name>; &#8212;
+                            of <name><persName>Maragaret of Anjou</persName></name>; &#8212;
                             and should the hour of trail occur, <placeName>Britain</placeName> will
                             find her not deficient in patriotism: her trinkets and money will then,
                             like those of the ladies of <name><placeName>France</placeName></name>
@@ -734,11 +734,12 @@
                                 ref="GOvando">Ovando</persName>, the Spanish general, imagined that
                             there was a deep-laid conspiracy, among the Indians of <settlement
                                 type="province" subtype="chiefdom">Xaragua</settlement>, to rise
-                            upon the Spaniards; and he "set out for that prodvince, at the head of
-                            three hundred foot soldiers, armed with swords, arquebuses, and
-                            crossbows, and seventy horsemen, with cuirasses, bucklers, and lances.
-                            He pretended that he was going on a mere visit to Anacaona, and to make
-                            an arrangement about the payment of tribute.</p>
+                            upon the Spaniards; and he <note type="editorial">Quoted from "Life of
+                                Columbus" by Washington Irving</note>"set out for that prodvince,
+                            at the head of three hundred foot soldiers, armed with swords,
+                            arquebuses, and crossbows, and seventy horsemen, with cuirasses,
+                            bucklers, and lances. He pretended that he was going on a mere visit to
+                            Anacaona, and to make an arrangement about the payment of tribute.</p>
                         <p>"When Anacaona heard of this intended visit, she sent to all her
                             tributary caciques, and to all her principal subjects, to assemble at
                             her chief town, that they might receive the commander of the Spaniards
@@ -1838,7 +1839,7 @@
                                     subtype="male"/><persName ref="BRochester">Bishop of
                                     Rochester</persName> gave occasion to a very interesting
                                 exercise of paternal tenderness on the one part, and of filial duty
-                                and affection on the other. What mostly <pb facs="filial_006.jpg"
+                                and affection on the other. What mostly <pb facs="filial_007.jpg"
                                     n="32"/>
                                 <fw>32 FILIAL AFFECTION.</fw> embittered the banishment of the
                                 Bishop, was regret at leaving behind him his daughter, <trait
@@ -1872,7 +1873,7 @@
                                 changed. We rose and came to her chamber, when we found her so very
                                 ill, that we thought fit to call up the boatmen, and order them to
                                 prepare the boat to depart immediately, fearing <pb
-                                    facs="filial_007.jpg" n="33"/>
+                                    facs="filial_008.jpg" n="33"/>
                                 <fw>FILIAL AFFECTION. 33 </fw> much, from the change we saw, that
                                 near she was to it, she would scarcely live to reach <settlement
                                     type="city">Toulouse</settlement>, which we all earnestly
@@ -1901,7 +1902,7 @@
                                 put into bed (where, as I told you, she never slept till she slept
                                 her last,) and had a little recovered the fatigue she underwent in
                                     <fw>VOL. I. D </fw>
-                                <pb facs="filial_008.jpg" n="34"/>
+                                <pb facs="filial_009.jpg" n="34"/>
                                 <fw>34 FILIAL AFFECTION.</fw> the conveyance from the boat, which
                                 was about a mile, her father, whom she immediately inquired after,
                                 came into her room, and was startled to see her in so very low a
@@ -1926,7 +1927,7 @@
                                 had been sent for immediately upon her arrival. When he came, he
                                 gave little hopes, but said all depended upon her manner of passing
                                 that night.</q>
-                            <q>"She once mentioned Dr. Wyntle, who you <pb facs="filial_009.jpg"
+                            <q>"She once mentioned Dr. Wyntle, who you <pb facs="filial_010.jpg"
                                     n="35"/>
                                 <fw>FILIAL AFFECTION. 35</fw> know had been her physician; and who
                                 had so neglected her before she left <settlement type="country"
@@ -1953,7 +1954,7 @@
                                 it, I doubted a little of her being in her right senses, and said,
                                 'Madam, would you <hi rend="italics">now</hi> receive the
                                 sacrament?' She said, 'Yes, I would, if possible—presently.' Of <pb
-                                    facs="filial_010.jpg" n="36"/>
+                                    facs="filial_011.jpg" n="36"/>
                                 <fw>36 FILIAL AFFECTION.</fw> which the Bishop being immediately
                                 advised, as was Mr. Morice, and every thing being prepared, he came,
                                 and administered to her, and to all present, the sacrament; and
@@ -1980,7 +1981,7 @@
                                 Morice.</q>
                             <p>"She now found her feet cold, and ordered them to be rubbed, at the
                                 same time calling for her broth; but when it came, not being able to
-                                <pb facs="filial_011.jpg" n="37"/>
+                                <pb facs="filial_012.jpg" n="37"/>
                                 <fw>FILIAL AFFECTION. 37</fw> swallow it, she turned herself on her
                                 left side, and rested her head on her left hand, which she doubled,
                                 extending her right hand and arm over the bed-clothes; and in this
@@ -2006,7 +2007,7 @@
                         </div4>
                         <lb type="horBar"/>
                         <fw>D2</fw>
-                        <pb facs="filial_012.jpg" n="38"/>
+                        <pb facs="filial_013.jpg" n="38"/>
                         <fw>38 FILIAL AFFECTION.</fw>
                         <div4>
                             <quote>"'Tis thine on ev'ry heart to grave thy praise, A monument which
@@ -2038,7 +2039,7 @@
                                 gratitude, she hastened home to relieve her parents.</p>
                         </div4>
                         <lb type="horBar"/>
-                        <pb facs="filial_013.jpg" n="39"/>
+                        <pb facs="filial_014.jpg" n="39"/>
                         <fw>FILIAL AFFECTION. 39</fw>
                         <div4>
                             <quote>"Stay, go, do what you will, the like do I; For live I will not,
@@ -2069,7 +2070,7 @@
                                 resolved to share her father's fate, and she succeeded in obtaining
                                 permission to remain with him. While in and the prison, by her
                                 interesting appearance, and the pathetic eloquence of her language,
-                                she was so fortunate <pb facs="filial_014.jpg" n="40"/>
+                                she was so fortunate <pb facs="filial_015.jpg" n="40"/>
                                 <fw>40 FILIAL AFFECTION. </fw> as to interest some Marseillois, who
                                 had quartered themselves in the Abbey, in her behalf; thus for a
                                 time her father’s life was safe. On the 2d of September, however,
@@ -2092,7 +2093,7 @@
                                 shout of pardon! Pardon! Was heard from one individual, and echoed
                                 by a hundred voices. The Marseillois opened themselves a passage to
                                 the two victims, and the father and daughter, covered with this
-                                sacred shield, <pb facs="filial_015.jpg" n="41"/>
+                                sacred shield, <pb facs="filial_016.jpg" n="41"/>
                                 <fw>FILIAL AFFECTION. 41</fw> were conducted, with shouts of
                                 applause, from that habitation of misfortunes and crimes.</p>
                             <p>The liberation of Cazotte, however, afforded temporary security: he
@@ -2117,7 +2118,7 @@
                                 father. In an agony of grief, she hastened to the Commune, and to
                                 the Minister of the Interior, from whom, by her supplications and
                                 tears, she wrested their permission to attend her <pb
-                                    facs="filial_016.jpg" n="42"/>
+                                    facs="filial_017.jpg" n="42"/>
                                 <fw>42 FILIAL AFFECTION.</fw> father. From that moment she devoted
                                 he wholly to him, spending day and night in administering to his
                                 comforts. The only time that she passed away from his prison, was
@@ -2143,7 +2144,7 @@
                                 conclusion of the speech of the Public Accuser, which was but too
                                 faithful an omen of his fate. Pale, trembling, and ready to sink
                                 into the ground, she was only sustained by her father’s voice,</p>
-                            <pb facs="filial_017.jpg" n="43"/>
+                            <pb facs="filial_018.jpg" n="43"/>
                             <fw>FILIAL AFFECTION. 43</fw>
                             <p>Who in a low tone, pointing towards heaven, addressed to her a few
                                 words of consolation. But though calmed for the moment, when the
@@ -2173,7 +2174,7 @@
                             <p>T<hi rend="smallCaps">he</hi> heroism of Elizabeth Cazotte, which
                                 could not fail to excite the admiration and sympathy of her
                                 countrywomen, was imitated by many young persons, from similar
-                                impulses <pb facs="filial_018.jpg" n="44"/>
+                                impulses <pb facs="filial_019.jpg" n="44"/>
                                 <fw>44 FILIAL AFFECTION.</fw> Of devoted affection. <trait
                                     type="French" subtype="female"/>
                                 <persName ref="MDSombreuil">Mademoiselle de Sombreuil</persName>
@@ -2200,7 +2201,7 @@
                                 father’s trembling arms, and they left the prison together,
                                 conducted in triumph by those who had come for so very different a
                                 purpose.</p>
-                            <p>Sombreuil had further evils to encounter: <pb facs="filial_019"
+                            <p>Sombreuil had further evils to encounter: <pb facs="filial_020.jpg"
                                     n="45"/>
                                 <fw>FILIAL AFFECTION. 45</fw> he was shortly again arrested with his
                                 daughter, and led to prison. The latter had lost no portion of her
@@ -2237,7 +2238,7 @@
                                     type="Luxembourg" subtype="female"/>younger sister, she forgot
                                 her own misfortunes in indeavouring to console her family under
                                 theirs. A soici- <fw>VOL. I. E </fw>
-                                <pb facs="filial_020.jpg" n="46"/>
+                                <pb facs="filial_021.jpg" n="46"/>
                                 <fw>46 FILIAL AFFECTION.</fw> Tude even maternal was displayed in
                                 her unceasing tenderness towards her mother, whose drooping
                                 fortitude was re-animated by her example. When at length the act of
@@ -2262,7 +2263,7 @@
                                 parents appeared alone to be subjects of regret tot eh marchioness
                                 at this critical moment. “Dearest madam," she said in the tenderest
                                 accent, "be consoled: why are you not happy? You <pb
-                                    facs="filial_021.jpg" n="47"/>
+                                    facs="filial_022.jpg" n="47"/>
                                 <fw>FILIAL AFFECTION. 47</fw> die innocent, and in the same
                                 innocence all your family follow you to the tomb, and will partake
                                 with you, in a better state, the recompense of virtue."</p>
@@ -2294,7 +2295,7 @@
 
                             <p>When at length they reached the gates of the Conciergerie, she was
                                 denied admittance with him, and compelled to give up the expectation<pb
-                                    facs="filial_022.jpg" n="48"/>
+                                    facs="filial_023.jpg" n="48"/>
                                 <fw>48 FILIAL AFFECTION.</fw>  of being his companion in
                                 prison. But her fortitude did not yet give way: she did not cease,
                                 during three months, to implore the justice and humanity of all
@@ -2326,7 +2327,7 @@
                                 mother, who was executed there? The child took many precautions to
                                 escape observation; but her manner was at length noticed by some
                                 women who sold fruit near the spot. Being asked the cause of her
-                                tears, "Ah!" she said, <pb facs="filial_023.jpg" n="49"/>
+                                tears, "Ah!" she said, <pb facs="filial_024.jpg" n="49"/>
                                 <fw>FILIAL AFFECTION. 49</fw> "my poor mother, whom I loved so well,
                                 died where I now stand; but oh! do not, I beg of you, tell anyone
                                 that you saw me cry, for that, perhaps, would cause the death of my
@@ -2355,7 +2356,7 @@
                                 crowd of other unfortunate beings, expecting every instant the
                                 signal of death. When, however, the order to discharge artillery was
                                 about to be given, a little girl rushed forward, with a loud cry of
-                                "My <pb facs="filial_024.jpg" n="50"/>
+                                "My <pb facs="filial_025.jpg" n="50"/>
                                 <fw> 50 FILIAL AFFECTION. </fw> "father! Oh my father! And making
                                 her way through the victims, threw her little arms about her
                                 parent’s neck, and waited for the moment of dying with him. In vain
@@ -2386,7 +2387,7 @@
                                 found in the resources of that affectionate girl the means of
                                 concealing himself until a period arrived more favourable to that
                                 justice which he unsuccessfully claimed.</p>
-                            <pb facs="filial_025.jpg" n="51"/>
+                            <pb facs="filial_026.jpg" n="51"/>
                             <fw>FILIAL AFFECTION. 51</fw>
                             <p><trait type="French" subtype="female"/> His daughter's first care was
                                 to place him under the roof and protection of an artisan, who had
@@ -2414,7 +2415,7 @@
                                 to furnish all that is necessary to support him. My unhappy father,
                                 whose entire property is confiscated, suffers at this moment the
                                 want of almost every thing. Without clothes, without bread, without
-                                a <pb facs="filial_026.jpg" n="52"/>
+                                a <pb facs="filial_027.jpg" n="52"/>
                                 <fw>52 FILIAL AFFECTION.</fw> Friend to save him from perishing of
                                 want, he has not even the resource of the beggar, which still
                                 furnishes a little hope, that of being able to appeal to the
@@ -2463,7 +2464,7 @@
                             female sex, must be rather attributed to the energetic zeal with which,
                             from their goodness of heart, they have entered into the lists in
                             defence of virtue, than to any was the custom with the public speakers
-                            of <pb type="eloquence_002.jpg"/>
+                            of <pb facs="eloquence_002.jpg"/>
                             <fw>100 ELOQUENCE•</fw> their times. The consciousness of being engaged
                             in a virtuous cause has often given rise to the most enthusiastic and
                             splendid eloquence on the part of women, who, weak and helpless by
@@ -3090,3 +3091,4 @@
         </body>
     </text>
 </TEI>
+
