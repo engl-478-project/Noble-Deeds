@@ -98,6 +98,28 @@ small{
 
 i {font-style: italic}
 
+.ednote {
+    position: relative;
+    display: inline-block;
+    border-bottom: 5px dotted black;
+}
 
-    
+.ednotetext {
+    visibility: hidden;
+    width: 180px;
+    top: 100%;
+    left: 50%;
+    margin-left: -90px;
+    background-color: gray;
+    color: #fff;
+    text-align: center;
+    border-radius: 3px;
+    padding: 3px 3px;
+    position: absolute;
+    z-index: 4;
+}
+
+.ednotetext:hover {
+    visibility: visible;
+}
     
