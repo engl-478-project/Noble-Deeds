@@ -98,8 +98,7 @@
                     </person>
                     <person xml:id="Xantippe" sex="female">
                         <persName>Xantippe</persName>
-                        <note>Wife of the Greek philosopher, Socrates, with whom she had three
-                            sons. Often spelled "Xanthippe."</note>
+                        <note>Roman woman, not the wife of Socrates....</note>
                     </person>
                     <person xml:id="MRoper" sex="female">
                         <persName>Margaret Roper</persName>
@@ -734,8 +733,8 @@
                                 ref="GOvando">Ovando</persName>, the Spanish general, imagined that
                             there was a deep-laid conspiracy, among the Indians of <settlement
                                 type="province" subtype="chiefdom">Xaragua</settlement>, to rise
-                            upon the Spaniards; and he <note type="editorial">Quoted from "Life of
-                                Columbus" by Washington Irving</note>"set out for that prodvince,
+                            upon the Spaniards; and he <note type="editorial">Section quoted from Washington Irving's "Life of
+                                Columbus"</note> "set out for that prodvince,
                             at the head of three hundred foot soldiers, armed with swords,
                             arquebuses, and crossbows, and seventy horsemen, with cuirasses,
                             bucklers, and lances. He pretended that he was going on a mere visit to
@@ -795,7 +794,8 @@
                             befriended."</p>
                         <quote>"This ancient fortress of my race Shall be misfortune’s
                             resting-place, Shelter and shield of the distress’d, No slaughter-house
-                            for shipwreck’d guest."</quote>
+                            for shipwreck’d guest." <note type="editorial">Lord of the
+                            Isles “Canto 2, XV” - Walter Scott</note></quote>
                         <p><persName ref="DFerrara">"R<hi rend="smallCaps">enata</hi>, Duchess of
                                     <settlement type="city">Ferrara</settlement></persName>,
                             daughter of <persName ref="KLouisXII">Louis the Twelfth</persName>, and
@@ -831,7 +831,9 @@
                                 >France</settlement>, protested to me that she fed daily more than
                             three hundred people, who had taken refuge with her."</p>
                         <lb type="horBar"/>
-                        <quote>"If a hope of safety rest, 'Tis on the sacred name of guest."</quote>
+                        <quote>"If a hope of safety rest, 'Tis on the sacred name of guest." <note
+                            type="editorial">Lord of the Isles “Canto 1,
+                            XXI” - Walter Scott</note></quote>
                         <p>H<hi rend="smallCaps">ospitality</hi> has been too often dangerous to
                             those by whom it has been exercised: during the proscriptions of
                                 <persName ref="Marius">Marius</persName> and <persName ref="Sylla"
@@ -850,27 +852,30 @@
                             favours, denounced as traitors, for the sake of the paltry reward
                             offered for their apprehension.</p>
                         <p>An example of this occurred in the reign of <persName ref="KJamesII"
-                                >James the Second</persName>. "During Monmouth's rebellion, one of
-                            his followers, knowing the humane disposition of a <persName
-                                ref="MGaunt">lady of the name of Gaunt</persName>, whose life was
-                            one continued exercise of beneficence, fled to her house, where he was
-                            concealed and maintained for some time. Hearing, however, of the
-                            proclamation which promised an indemnity and reward to those who
-                            discovered such as harboured the rebels, he betrayed his benefactress;
-                            and such was the spirit of justice and equity which prevailed among the
-                            ministers, that the ungrateful wretch was pardoned, and recompensed for
-                            his treachery, while his benefactress was <hi rend="italics">burnt
-                                alive</hi> for her charity towards him."</p>
+                            >James the Second</persName>. <note type="editorial">Section quoted from
+                            Thomas Byerley's "The Percy Anecdotes: Justice"</note> "During
+                            Monmouth's rebellion, one of his followers, knowing the humane
+                            disposition of a <persName ref="MGaunt">lady of the name of
+                            Gaunt</persName>, whose life was one continued exercise of beneficence,
+                            fled to her house, where he was concealed and maintained for some time.
+                            Hearing, however, of the proclamation which promised an indemnity and
+                            reward to those who discovered such as harboured the rebels, he betrayed
+                            his benefactress; and such was the spirit of justice and equity which
+                            prevailed among the ministers, that the ungrateful wretch was pardoned,
+                            and recompensed for his treachery, while his benefactress was <hi
+                            rend="italics">burnt alive</hi> for her charity towards him."</p>
                         <lb type="horBar"/>
                         <quote>"Take with free welcome what our hands prepare, Such food as falls to
                             simple servants' share." P<hi rend="smallCaps">ope's</hi> H<hi
                                 rend="smallCaps">omer</hi>.</quote>
-                        <p>"A<hi rend="smallCaps">fter</hi> the battle of <settlement type="village"
-                                >Culloden</settlement>, so fatal to the last hopes of the House of
-                            Stuart, <persName ref="CStuart">Colonel Stuart</persName>, attended by
-                            his friend, Mr. Hamilton of Balgour, sought his personal safety in
-                            flight. They approached a lonely hut in the Highlands, to which Mr.
-                            Hamilton went to ask</p>
+                        <p><note type="editorial">Section quoted from "Anecdotes of John Roy Stewart
+                            and Mr. Hamilton," from Atheneum, Or, Spirit of the English Magazines</note>
+                            "A<hi rend="smallCaps">fter</hi> the battle of <settlement
+                            type="village">Culloden</settlement>, so fatal to the last hopes of the
+                            House of Stuart, <persName ref="CStuart">Colonel Stuart</persName>,
+                            attended by his friend, Mr. Hamilton of Balgour, sought his personal
+                            safety in flight. They approached a lonely hut in the Highlands, to
+                            which Mr. Hamilton went to ask</p>
                         <fw>E*</fw>
                         <pb facs="noble_013.jpg" n="46"/>
                         <fw>46 HOSPITALITY.</fw>
@@ -899,56 +904,58 @@
                             Highlanders was well illustrated, at the <pb facs="noble_014.jpg" n="47"/>
                             <fw>HOSPITALITY, 47</fw> same period, by the conduct of a clergyman and
                             his wife, of the name of Gordon.</p>
-                        <p>"After the battle of <settlement type="village">Culloden</settlement>,
-                            immense numbers of officers and men received refreshments from <persName
-                                ref="MGordon">Mrs. Gordon</persName>, and every part of the manse,
-                            except one room, was filled with the wounded. To guard against
-                            treachery, Mrs. Gordon lodged the fugitives in separate apartments. So
-                            cautiously did she conceal from each, the condition of the others, that
-                            the first request was, that they would not intrust her with their real
-                            names: she could serve them under a fictitious appellation. In this
-                            manner a father and son were five months under her roof, without knowing
-                            their proximity. Colonel Stuart, being a native of the neighbouring
-                            country, was personally known, and, with his usual impetuosity, had
-                            introduced his friend Mr. Hamilton, before Mrs. Gordon could ask him to
-                            give only a borrowed name. However, she said, the gentleman must in
-                            future assume the designation of Mr. Milton, and the colonel himself
-                            must be Mr. Grey. She gave separate chambers to each, and as Colonel
-                            Stuart was the most obnoxious to government, the window of his room
-                            allowed a speedy retreat to the lake, where a boat was constantly in
-                            waiting, to facilitate his escape to the upper district of <settlement
-                                type="district">Badenoch</settlement>, in case of a close pursuit by
-                            the military stationed all around, to intercept the outlaws. In a few
-                            days Colonel Stuart found he must betake himself to his friends in the
-                            mountains; but the inquest in that quarter be- <pb facs="noble_015.jpg"
-                                n="48"/>
-                            <fw>48 HOSPITALITY.</fw> ing more rigid, he returned to Alvey, and
-                            hearing music and dancing, he got in at the window of his own room and
-                            went to bed. He had been two days and three nights without rest,
-                            sometimes hidden in caverns, sometimes even obliged to strip and plunge
-                            into a bog, covering his head with branches of birch, which he carried
-                            for the express purpose; and sometimes, like Charles the Second, he
-                            eluded his pursuers by ascending a tree. He was now disposed to sleep
-                            soundly, little suspecting that several officers were in the house. Mrs.
-                            Gordon had heard they were in search of Colonel Stuart. She hoped he was
-                            far off, but trembled for other guests; and the ready expedient of
-                            collecting some young people, and appearing heedlessly merry, she knew
-                            would divert suspicion. The officers, in place of ransacking the manse,
-                            joined the merry dancers, and went away after supper, convinced that a
-                            family so jovial could have no concealments. Some of the company were to
-                            sleep at the manse. Mrs. Gordon had then no spare room, except that
-                            occupied by her daughter; but she made as many beds as the floor could
-                            contain, and the young lady with her cousin were removed to Mr. Grey’s
-                            room. They undressed. One of them attempted to raise the bedclothes,
-                            when Colonel Stuart awoke. He had loaded pistols, and his sword
-                            unsheathed always beside him when he lay down to rest. Providentially
-                            the sword came first to hand. The candle had been extinguished, but a
-                            gleam of the moon showed a <pb facs="noble_016.jpg" n="49"/>
-                            <fw>HOSPITALITY. 49</fw> female figure, in time to advert the fatal
-                            thrust. Had Colonel Stuart seized the pistol, it must have been too late
-                            to recognize the daughter of his benefactress. The shock of a bare
-                            possibility of taking her life, he said, was more overwhelming than all
-                            his past misfortunes. She was Mrs. Gordon’s only child."</p>
+                        <p><note type="editorial">Section quoted from “Narrative of Discovery and
+                            Adventure in Africa,” by Robert Jameson, James Wilson, and Hugh
+                            Murray.</note> "After the battle of <settlement type="village"
+                            >Culloden</settlement>, immense numbers of officers and men received
+                            refreshments from <persName ref="MGordon">Mrs. Gordon</persName>, and
+                            every part of the manse, except one room, was filled with the wounded.
+                            To guard against treachery, Mrs. Gordon lodged the fugitives in separate
+                            apartments. So cautiously did she conceal from each, the condition of
+                            the others, that the first request was, that they would not intrust her
+                            with their real names: she could serve them under a fictitious
+                            appellation. In this manner a father and son were five months under her
+                            roof, without knowing their proximity. Colonel Stuart, being a native of
+                            the neighbouring country, was personally known, and, with his usual
+                            impetuosity, had introduced his friend Mr. Hamilton, before Mrs. Gordon
+                            could ask him to give only a borrowed name. However, she said, the
+                            gentleman must in future assume the designation of Mr. Milton, and the
+                            colonel himself must be Mr. Grey. She gave separate chambers to each,
+                            and as Colonel Stuart was the most obnoxious to government, the window
+                            of his room allowed a speedy retreat to the lake, where a boat was
+                            constantly in waiting, to facilitate his escape to the upper district of
+                            <settlement type="district">Badenoch</settlement>, in case of a close
+                            pursuit by the military stationed all around, to intercept the outlaws.
+                            In a few days Colonel Stuart found he must betake himself to his friends
+                            in the mountains; but the inquest in that quarter be- <pb
+                            facs="noble_015.jpg" n="48"/> <fw>48 HOSPITALITY.</fw> ing more rigid,
+                            he returned to Alvey, and hearing music and dancing, he got in at the
+                            window of his own room and went to bed. He had been two days and three
+                            nights without rest, sometimes hidden in caverns, sometimes even obliged
+                            to strip and plunge into a bog, covering his head with branches of
+                            birch, which he carried for the express purpose; and sometimes, like
+                            Charles the Second, he eluded his pursuers by ascending a tree. He was
+                            now disposed to sleep soundly, little suspecting that several officers
+                            were in the house. Mrs. Gordon had heard they were in search of Colonel
+                            Stuart. She hoped he was far off, but trembled for other guests; and the
+                            ready expedient of collecting some young people, and appearing
+                            heedlessly merry, she knew would divert suspicion. The officers, in
+                            place of ransacking the manse, joined the merry dancers, and went away
+                            after supper, convinced that a family so jovial could have no
+                            concealments. Some of the company were to sleep at the manse. Mrs.
+                            Gordon had then no spare room, except that occupied by her daughter; but
+                            she made as many beds as the floor could contain, and the young lady
+                            with her cousin were removed to Mr. Grey’s room. They undressed. One of
+                            them attempted to raise the bedclothes, when Colonel Stuart awoke. He
+                            had loaded pistols, and his sword unsheathed always beside him when he
+                            lay down to rest. Providentially the sword came first to hand. The
+                            candle had been extinguished, but a gleam of the moon showed a <pb
+                            facs="noble_016.jpg" n="49"/> <fw>HOSPITALITY. 49</fw> female figure, in
+                            time to advert the fatal thrust. Had Colonel Stuart seized the pistol,
+                            it must have been too late to recognize the daughter of his
+                            benefactress. The shock of a bare possibility of taking her life, he
+                            said, was more overwhelming than all his past misfortunes. She was Mrs.
+                            Gordon’s only child."</p>
                         <p>Colonel Stuart pays the following tribute to the female sex: "In all our
                             wanderings," says he, "we have preferred applying to the gentler sex.
                             They never rejected us; and, if they could contribute to providing for
@@ -1006,22 +1013,22 @@
                             fair As virtuous friendship? As the candid blush Of him who strives with
                             fortune to be just? The graceful tear that streams for others’ woes? Or
                             the mild majesty of private life?" A<hi rend="smallCaps">kenside</hi>. </quote>
-                        <p>"W<hi rend="smallCaps">hen</hi>, at the period of the French Revolution,
+                        <p><note type="editorial">Section quoted from unidentified source</note>
+                            "W<hi rend="smallCaps">hen</hi>, at the period of the French Revolution,
                             the chiefs of Gironde party were fugitives in the south of <settlement
-                                type="country">France</settlement>, and every where sought that
-                            asylum which was too often denied them by self-love and cowardice,
-                            Gaudet found a place of succour and safety in the house of one of his
-                            female relatives, whose name was <persName ref="MBouquet"
-                                >Bouquet</persName>, not only for himself, but also for his friend
-                            Salles. The news of this unexpected relief being carried to three
-                            companies of the proscribed Deputies, they determined to beg this
-                            courageous woman to permit them to share in the retreat of their
-                            friends. A <pb facs="noble_019.jpg" n="52"/>
-                            <fw>52 HOSPITALITY.</fw> faithful messenger was found, and returned in a
-                            few hours with the answer. Madame Bouquet invited them to come; but, at
-                            the same time, recommended them not to approach her house till midnight,
-                            and to take every possible precaution not to be perceived by anyone;
-                            their safety in her house, which was what occupied her thoughts,
+                            type="country">France</settlement>, and every where sought that asylum
+                            which was too often denied them by self-love and cowardice, Gaudet found
+                            a place of succour and safety in the house of one of his female
+                            relatives, whose name was <persName ref="MBouquet">Bouquet</persName>,
+                            not only for himself, but also for his friend Salles. The news of this
+                            unexpected relief being carried to three companies of the proscribed
+                            Deputies, they determined to beg this courageous woman to permit them to
+                            share in the retreat of their friends. A <pb facs="noble_019.jpg" n="52"
+                            /> <fw>52 HOSPITALITY.</fw> faithful messenger was found, and returned
+                            in a few hours with the answer. Madame Bouquet invited them to come;
+                            but, at the same time, recommended them not to approach her house till
+                            midnight, and to take every possible precaution not to be perceived by
+                            anyone; their safety in her house, which was what occupied her thoughts,
                             depended greatly on these preliminary conditions.</p>
                         <p>"They arrived at midnight. They found their friends lodged thirty feet
                             under ground, in a large vault, the entrance to which was so concealed
@@ -1126,24 +1133,25 @@
                             Nor wreck'd by storms, nor moulder'd by decay; A world, with memory's
                             ceaseless sunshine blest, The home of happiness, an honest breast."
                                     <persName>R<hi rend="smallCaps">ogers</hi>.</persName></quote>
-                        <p>"A<hi rend="smallCaps">nother</hi> outlawed Deputy, Lanjuinais, took
-                            refuge at <settlement type="city">Rennes</settlement>, at a house
-                            belonging to his mother, and of which an old female domestic had the
-                            care. The fear of terrifying this <persName ref="FFrenchwoman">poor
-                                woman</persName> caused him, at first, to conceal from her his real
-                            situation; but having learnt from the public papers the execution of
-                            Guadet, at <settlement type="city">Bourdeaux</settlement>, and that the
-                            government had extended their inveterate proscriptions to those friends
-                            of the outlawed Deputies who should give them shelter, and even to the
-                            domestics who would not reveal the places of their concealment, he
-                            determined immediately to declare himself, and prevail upon her to shun
-                            the impending danger by instantly quitting the house. The declaration of
-                            his misfortunes, so far from influencing this affectionate <pb
-                                facs="noble_024.jpg" n="57"/>
-                            <fw>HOSPITALTY. 57</fw> creature to avoid a participation of them, only
-                            made her resolute not to abandon him in the hour of danger. 'It is
-                            nothing to die,' said she, 'but it is a great deal to save the life of
-                            one’s master.'</p>
+                        <p><note type="editorial">Section quotes from H. D. Symonds’ “Interesting
+                            Anecdotes of the Heroic Conduct of Women during the French
+                            Revolution”</note> "A<hi rend="smallCaps">nother</hi> outlawed Deputy,
+                            Lanjuinais, took refuge at <settlement type="city">Rennes</settlement>,
+                            at a house belonging to his mother, and of which an old female domestic
+                            had the care. The fear of terrifying this <persName ref="FFrenchwoman"
+                            >poor woman</persName> caused him, at first, to conceal from her his
+                            real situation; but having learnt from the public papers the execution
+                            of Guadet, at <settlement type="city">Bourdeaux</settlement>, and that
+                            the government had extended their inveterate proscriptions to those
+                            friends of the outlawed Deputies who should give them shelter, and even
+                            to the domestics who would not reveal the places of their concealment,
+                            he determined immediately to declare himself, and prevail upon her to
+                            shun the impending danger by instantly quitting the house. The
+                            declaration of his misfortunes, so far from influencing this
+                            affectionate <pb facs="noble_024.jpg" n="57"/> <fw>HOSPITALTY. 57</fw>
+                            creature to avoid a participation of them, only made her resolute not to
+                            abandon him in the hour of danger. 'It is nothing to die,' said she,
+                            'but it is a great deal to save the life of one’s master.'</p>
                         <p>"In vain Lanjuinais remonstrated, entreated, and even commanded that she
                             should think of her own safety; it was enough, he assured her, that she
                             kept the secret of his asylum; while to remain near him, served but to
@@ -1858,60 +1866,60 @@
                                 at Mrs. Morice’s death, in a letter to his brother, dated
                                 Montpelier, 30th November, 1729, gives the following very pathetic
                                 narrative of that event.</p>
-                            <q>"On Sunday, the 6th instant, N.S. in the evening, we reached
-                                    <settlement type="village">Blagnac</settlement>, a village not
-                                above half a league by land from <settlement type="city"
-                                    >Toulouse</settlement>; but by water (by reason of a very strong
-                                current, and the windings of the river,) it takes three hours to get
-                                up to the town. So it was resolved, rather than expose Mrs. Morice
-                                too much to the fatigue, (of which she had undergone an infinite
-                                deal, and bore it with incredible patience,) or keep her late on the
-                                water, to rest at <settlement type="village">Blagnac</settlement>
-                                that night, where she was put to bed in the same weak condition she
-                                usually had been, but not seemingly worse. About midnight, the women
-                                came to Mr. Morice and me, and told us, they thought they saw her
-                                changed. We rose and came to her chamber, when we found her so very
-                                ill, that we thought fit to call up the boatmen, and order them to
-                                prepare the boat to depart immediately, fearing <pb
-                                    facs="filial_008.jpg" n="33"/>
-                                <fw>FILIAL AFFECTION. 33 </fw> much, from the change we saw, that
-                                near she was to it, she would scarcely live to reach <settlement
-                                    type="city">Toulouse</settlement>, which we all earnestly
-                                desired to do, since no physician, or other help, could be had in
-                                the poor place where we then were. She herself pressed this matter;
-                                and we well knew that all her desires and wishes were constantly
-                                bent upon seeing her father, whom she hoped to find at <settlement
-                                    type="city">Toulouse</settlement>. She was taken out of bed at
-                                her own desire, and carried to the boat with great difficulty, not
-                                being able to sit in the chair which Mr. Morice had brought from
-                                    <settlement type="city">Bourdeaux</settlement>, with two
-                                chairmen, purely for the carrying her in and out of the boat more at
-                                ease; and so we parted thence about two o'clock in the morning,
-                                sending two servants, by land, to procure a litter to meet her at
-                                the by landing-place. About five we arrived there; and soon after
-                                six the litter came, which carried Mrs. Morice to the house in
-                                    <settlement type="city">Toulouse</settlement>, where her father
-                                was expecting her arrival, and not knowing, till then, how near or
-                                how far off she was, though he had despatched a man and horse to get
-                                intelligence of us, who happened to miss us. When the servants, who
-                                had been sent for the litter, returned, she was informed of the
-                                Bishop's being at <settlement type="city">Toulouse</settlement>, and
-                                seemed to take new spirits upon it, which, no doubt, were of great
-                                use to enable her to bear going in the litter, which, otherwise, she
-                                could scarce have done even for so short a way. After she had been
-                                put into bed (where, as I told you, she never slept till she slept
-                                her last,) and had a little recovered the fatigue she underwent in
-                                    <fw>VOL. I. D </fw>
-                                <pb facs="filial_009.jpg" n="34"/>
-                                <fw>34 FILIAL AFFECTION.</fw> the conveyance from the boat, which
-                                was about a mile, her father, whom she immediately inquired after,
-                                came into her room, and was startled to see her in so very low a
-                                condition. After mutual expressions of concern and tenderness, she
-                                particularly acknowledged the great blessing that was granted her,
-                                of meeting her dear papa; and exerted all the little life that was
-                                in her, in grasping his hands with her utmost force, as she often
-                                did; and told him, 'that meeting was the chief thing she bad
-                                ardently desired.'</q>
+                            <q><note type="editorial">Section quoted from Nichols’ “Miscellaneous
+                                Works of Bishop Atterbury”</note> "On Sunday, the 6th instant, N.S.
+                                in the evening, we reached <settlement type="village"
+                                >Blagnac</settlement>, a village not above half a league by land
+                                from <settlement type="city">Toulouse</settlement>; but by water (by
+                                reason of a very strong current, and the windings of the river,) it
+                                takes three hours to get up to the town. So it was resolved, rather
+                                than expose Mrs. Morice too much to the fatigue, (of which she had
+                                undergone an infinite deal, and bore it with incredible patience,)
+                                or keep her late on the water, to rest at <settlement type="village"
+                                >Blagnac</settlement> that night, where she was put to bed in the
+                                same weak condition she usually had been, but not seemingly worse.
+                                About midnight, the women came to Mr. Morice and me, and told us,
+                                they thought they saw her changed. We rose and came to her chamber,
+                                when we found her so very ill, that we thought fit to call up the
+                                boatmen, and order them to prepare the boat to depart immediately,
+                                fearing <pb facs="filial_008.jpg" n="33"/> <fw>FILIAL AFFECTION. 33
+                                </fw> much, from the change we saw, that near she was to it, she
+                                would scarcely live to reach <settlement type="city"
+                                >Toulouse</settlement>, which we all earnestly desired to do, since
+                                no physician, or other help, could be had in the poor place where we
+                                then were. She herself pressed this matter; and we well knew that
+                                all her desires and wishes were constantly bent upon seeing her
+                                father, whom she hoped to find at <settlement type="city"
+                                >Toulouse</settlement>. She was taken out of bed at her own desire,
+                                and carried to the boat with great difficulty, not being able to sit
+                                in the chair which Mr. Morice had brought from <settlement
+                                type="city">Bourdeaux</settlement>, with two chairmen, purely for
+                                the carrying her in and out of the boat more at ease; and so we
+                                parted thence about two o'clock in the morning, sending two
+                                servants, by land, to procure a litter to meet her at the by
+                                landing-place. About five we arrived there; and soon after six the
+                                litter came, which carried Mrs. Morice to the house in <settlement
+                                type="city">Toulouse</settlement>, where her father was expecting
+                                her arrival, and not knowing, till then, how near or how far off she
+                                was, though he had despatched a man and horse to get intelligence of
+                                us, who happened to miss us. When the servants, who had been sent
+                                for the litter, returned, she was informed of the Bishop's being at
+                                <settlement type="city">Toulouse</settlement>, and seemed to take
+                                new spirits upon it, which, no doubt, were of great use to enable
+                                her to bear going in the litter, which, otherwise, she could scarce
+                                have done even for so short a way. After she had been put into bed
+                                (where, as I told you, she never slept till she slept her last,) and
+                                had a little recovered the fatigue she underwent in <fw>VOL. I. D
+                                </fw> <pb facs="filial_009.jpg" n="34"/> <fw>34 FILIAL
+                                AFFECTION.</fw> the conveyance from the boat, which was about a
+                                mile, her father, whom she immediately inquired after, came into her
+                                room, and was startled to see her in so very low a condition. After
+                                mutual expressions of concern and tenderness, she particularly
+                                acknowledged the great blessing that was granted her, of meeting her
+                                dear papa; and exerted all the little life that was in her, in
+                                grasping his hands with her utmost force, as she often did; and told
+                                him, 'that meeting was the chief thing she bad ardently
+                                desired.'</q>
                             <q>"The bishop some time after left her chamber, that she might compose
                                 herself, and that he might give vent to the just grief he was filled
                                 with, to see his beloved child in a manner expiring. But we found
@@ -1993,7 +2001,7 @@
                                 affection, is too interesting to be omitted here.</p>
                         </div4>
                         <div4>
-                            <p>IS ATTERBURY, BISHOP OF ROCHESTER, —Who died in exile, at Paris,
+                            <p>ON DR. FRANCIS ATTERBURY, BISHOP OF ROCHESTER, —Who died in exile, at Paris,
                                 1732, (his only daughter having expired in his arms, immediately
                                 after she arrived in France to see him.)</p>
                             <fw><hi rend="italics">Dialogue.</hi></fw>
@@ -2001,7 +2009,7 @@
                                 we part ! May heaven, dear Father ! now have all thy heart ; Yet, ah
                                 ! how once we lov'd, remember still, Till you are dust like me.</p>
                             <p><name type="pronoun">HE.</name> Dear shade ! I will Then mix this
-                                dust with thine-0 spotless ghost ! 0 more than fortune, friends, or
+                                dust with thine—O spotless ghost ! O more than fortune, friends, or
                                 country lost! Is there on earth one care, one wish beside, Yes—save
                                 my country,-heaven,— He said and dy'd.</p>
                         </div4>
@@ -2013,7 +2021,6 @@
                             <quote>"'Tis thine on ev'ry heart to grave thy praise, A monument which
                                 Worth alone can raise.” <persName>B<hi rend="smallCaps"
                                     >roome</hi>.</persName></quote>
-
                             <p>F<hi rend="smallCaps">rom</hi> the preceding illustrious sample of
                                 the power of filial affection, we turn to one not less affecting,
                                 though displayed in a humbler path of life. In the severe winter of
@@ -2341,38 +2348,38 @@
                         <div4>
                             <quote>"What breast so cold, that is not warmed here?" <persName>S<hi
                                         rend="smallCaps">hakespeare</hi></persName>,</quote>
-                            <p>A<hi rend="smallCaps">nother</hi>
-                                <persName ref="CDaughter">child</persName> was the happy means of
-                                saving <trait type="Dominican" subtype="female"/>her father's life.
-                                    <trait type="Dominican" subtype="male"/>He was a Creole of
-                                    <settlement type="city">St. Domingo</settlement>, and was guilty
-                                of no other crime than that of being rich and preserving the
-                                inheritance of his forefathers. At that time when the contagious
-                                example of the French revolution had spread as far as the New World,
-                                the horrible practice was adopted of assembling in groupes the
-                                unfortunate victims who were ordered to be executed, and then firing
-                                l indiscriminately upon them with cannons loaded with grape-shot.
-                                The eyes of the Creole had been blindfolded, and he stood among a
-                                crowd of other unfortunate beings, expecting every instant the
-                                signal of death. When, however, the order to discharge artillery was
-                                about to be given, a little girl rushed forward, with a loud cry of
-                                "My <pb facs="filial_025.jpg" n="50"/>
-                                <fw> 50 FILIAL AFFECTION. </fw> "father! Oh my father! And making
-                                her way through the victims, threw her little arms about her
-                                parent’s neck, and waited for the moment of dying with him. In vain
-                                were all the threats of entreaties; neither the representations of
-                                her danger, nor the commands of her father could intimidate her. In
-                                reply to the latter, she earnestly repeated, "Oh! My father, let me
-                                die with you." What power has virtue over the most ferocious minds!
-                                This unexpected accident disconcerted the commander of the
-                                massacre:--doubtless he was a father too! The voice of admiration
-                                and exclamations of pity, which he heard from all sides, touched his
-                                heart, and under some specious pretext, the Creole was delivered
-                                from the expected punishment, and, accompanied by his child,
-                                reconducted to prison; whence he soon afterwards obtained his
-                                release. After that happy escape, he was often accustomed to relate,
-                                with feelings of tender emotion, the heroic action of his little
-                                girl, then only ten years of age.</p>
+                            <p><note type="editorial">Section quotes from an unidentified
+                                source</note> A<hi rend="smallCaps">nother</hi> <persName
+                                ref="CDaughter">child</persName> was the happy means of saving
+                                <trait type="Dominican" subtype="female"/>her father's life. <trait
+                                type="Dominican" subtype="male"/>He was a Creole of <settlement
+                                type="city">St. Domingo</settlement>, and was guilty of no other
+                                crime than that of being rich and preserving the inheritance of his
+                                forefathers. At that time when the contagious example of the French
+                                revolution had spread as far as the New World, the horrible practice
+                                was adopted of assembling in groupes the unfortunate victims who
+                                were ordered to be executed, and then firing l indiscriminately upon
+                                them with cannons loaded with grape-shot. The eyes of the Creole had
+                                been blindfolded, and he stood among a crowd of other unfortunate
+                                beings, expecting every instant the signal of death. When, however,
+                                the order to discharge artillery was about to be given, a little
+                                girl rushed forward, with a loud cry of "My <pb
+                                facs="filial_025.jpg" n="50"/> <fw> 50 FILIAL AFFECTION. </fw>
+                                "father! Oh my father! And making her way through the victims, threw
+                                her little arms about her parent’s neck, and waited for the moment
+                                of dying with him. In vain were all the threats of entreaties;
+                                neither the representations of her danger, nor the commands of her
+                                father could intimidate her. In reply to the latter, she earnestly
+                                repeated, "Oh! My father, let me die with you." What power has
+                                virtue over the most ferocious minds! This unexpected accident
+                                disconcerted the commander of the massacre:--doubtless he was a
+                                father too! The voice of admiration and exclamations of pity, which
+                                he heard from all sides, touched his heart, and under some specious
+                                pretext, the Creole was delivered from the expected punishment, and,
+                                accompanied by his child, reconducted to prison; whence he soon
+                                afterwards obtained his release. After that happy escape, he was
+                                often accustomed to relate, with feelings of tender emotion, the
+                                heroic action of his little girl, then only ten years of age.</p>
                         </div4>
                         <lb type="horBar"/>
                         <div4>
@@ -2380,13 +2387,15 @@
                                 will bear all wrong." <persName>S<hi rend="smallCaps"
                                         >hakespeare</hi></persName>. </quote>
 
-                            <p>D<hi rend="smallCaps">uring</hi> the war of La Vendee, the ci-devant
-                                    <trait type="French" subtype="male"/> Duke de la <settlement
-                                    type="commune">Rochefoucault</settlement>, condemned to die, as
-                                well as <persName ref="MDRouchefoucault">his daughter</persName>,
-                                found in the resources of that affectionate girl the means of
-                                concealing himself until a period arrived more favourable to that
-                                justice which he unsuccessfully claimed.</p>
+                            <p><note type="editorial">Section quotes from "Filial Affection; An
+                                Anecdote" in The Lady's Magazine, Or, Entertaining Companion for the
+                                Fair Sex</note> D<hi rend="smallCaps">uring</hi> the war of La
+                                Vendee, the ci-devant <trait type="French" subtype="male"/> Duke de
+                                la <settlement type="commune">Rochefoucault</settlement>, condemned
+                                to die, as well as <persName ref="MDRouchefoucault">his
+                                daughter</persName>, found in the resources of that affectionate
+                                girl the means of concealing himself until a period arrived more
+                                favourable to that justice which he unsuccessfully claimed.</p>
                             <pb facs="filial_026.jpg" n="51"/>
                             <fw>FILIAL AFFECTION. 51</fw>
                             <p><trait type="French" subtype="female"/> His daughter's first care was
