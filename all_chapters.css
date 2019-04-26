@@ -1,0 +1,125 @@
+body {background-color: beige;
+padding-left: 150px;
+padding-right: 150px; 
+}
+
+h1 { margin-left: 50px;
+margin-right: 50px; 
+font-family: "Times New Roman";
+ text-align: center;
+ font-size:130px;
+ line-height: 1.6;}
+
+h2 { margin-left: 20px;
+margin-right: 20px; 
+font-family: "Times New Roman";
+ text-align: justify;
+ font-size:15px;
+ line-height: 1.6;}
+ 
+
+/*h5 {  padding-left: 50px;
+padding-right: 50px; 
+font-family: "Times New Roman";
+ text-align: justify;
+ font-size:15px;
+ line-height: 1.6;
+}
+h3 { padding-left: 50px;
+padding-right: 50px; 
+font-family: "Times New Roman";
+ text-align: justify;
+ font-size:15px;
+ line-height: 1.6;}
+
+h4 { padding-left: 50px;
+padding-right: 50px; 
+font-family: "Times New Roman";
+ text-align: justify;
+ font-size:15px;
+ line-height: 1.6;}*/
+
+p {
+font-size:15px;
+line-height: 1.6;
+}
+q {
+    font-style: italic;
+    font-size:15px;
+    text-align:center;
+    line-height: 1.6;
+    
+}
+
+ul { border:solid;
+    
+    line-height: 1.6;
+     padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+    
+}
+frontmatter { font-size: 30px;
+
+ margin-left: 200px;
+margin-right: 50px; 
+font-family: "Times New Roman";
+ text-align: center;
+ line-height: 1.6;
+ padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+
+    
+    
+}
+
+
+
+
+img {     
+text-align:left;
+width: 200px;
+height: 300px;
+    display: block;
+    
+    
+}
+
+lb {display:block;}
+
+small{
+    font-variant: small-caps
+    
+    
+}
+
+i {font-style: italic}
+
+.ednote {
+    position: relative;
+    display: inline-block;
+    border-bottom: 5px dotted black;
+}
+
+.ednotetext {
+    visibility: hidden;
+    width: 180px;
+    top: 100%;
+    left: 50%;
+    margin-left: -90px;
+    background-color: gray;
+    color: #fff;
+    text-align: center;
+    border-radius: 3px;
+    padding: 3px 3px;
+    position: absolute;
+    z-index: 4;
+}
+
+.ednotetext:hover {
+    visibility: visible;
+}
+    
